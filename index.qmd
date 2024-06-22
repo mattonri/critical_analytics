@@ -173,7 +173,7 @@ for index, row in df.iterrows():
     df.at[index, 'percentage_of_swear_words'] = swear_count * 100
 
 ```
-
+__Once everything is put together, we'll have a table of data that looks like the following:__
 ```{python}
 #| label: dataframe-merge
 #| code-summary: Now to put all of the data together
@@ -182,7 +182,7 @@ df = pd.merge(df, episode_nat20_counts, on='episode_number', how='left')
 df = pd.merge(df, episode_nat1_counts, on='episode_number', how='left')
 df = df.drop(columns=['episode_txt'])
 
-print(df.head(50))
+print(df.head(1))
 ```
 
 ### Data Analysis

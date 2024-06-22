@@ -2088,1318 +2088,1318 @@ C2E019,3:18:01,Caleb,Damage,20,,,20 to Goblin 3,1,Magic Missile
 C2E019,3:21:44,Caleb,Perception,10,7,,,,
 C2E019,3:23:14,Nott,Investigation,23,17,,,,
 C2E019,3:40:08,Yasha,Perception,13,,,,,
-2-20,0:19:44,Jester,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,0:19:44,Jester,Perception,9,5,,,,
-2-20,0:21:17,Beau,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,0:24:13,Molly,Animal Handling,7,4,,,,
-2-20,0:27:08,Beau,Investigation,15,10,,,,
-2-20,0:30:48,Nott,Stealth,22,14,,,,
-2-20,0:33:38,Nott,Sleight of Hand,24,16,,,,
-2-20,0:39:04,Jester,Wisdom,20,16,,,,
-2-20,0:43:19,Molly,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,0:43:19,Molly,Perception,Nat20,20,,,,
-2-20,0:47:44,Jester,Perception,19,15,,,,
-2-20,0:58:02,Yasha,Perception,8,,,,,
-2-20,1:08:59,Molly,Nature,3,3,,,,
-2-20,1:10:49,Nott,Alchemy Kit,19,16,,,,Disregarded due to disadvantage
-2-20,1:10:49,Nott,Alchemy Kit,12,9,,,,
-2-20,1:15:04,Caleb,Perception,6,3,,,,
-2-20,1:18:03,Jester,Perception,Nat1,1,,,,
-2-20,1:19:16,Caleb,Nature,18,13,,,,
-2-20,1:20:36,Fjord,Dexterity,Nat20,20,,,,
-2-20,1:21:39,Beau,Perception,12,9,,,,
-2-20,1:24:41,Jester,Athletics,21,18,,,,
-2-20,1:25:00,Jester,Perception,10,6,,,,
-2-20,1:27:06,Jester,Damage,13,,,13 Radiant to Gator 1,,
-2-20,1:28:22,Jester,Spell Attack,23,16,,,,"Guiding Bolt, rolled after damage"
-2-20,1:30:33,Molly,Initiative,15,12,,,,
-2-20,1:30:34,Beau,Initiative,15,11,,,,
-2-20,1:30:37,Nott,Initiative,12,8,,,,
-2-20,1:30:55,Jester,Initiative,14,10,,,,
-2-20,1:30:58,Yasha,Initiative,13,11,,,,
-2-20,1:30:59,Caleb,Initiative,12,11,,,,
-2-20,1:31:11,Fjord,Initiative,6,6,,,,
-2-20,1:36:07,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-20,1:36:07,Nott,Attack,9,2,,,,
-2-20,1:36:51,Jester,Damage,3,,,3 Radiant to Gator 1,,Sacred Flame against Gator
-2-20,1:39:54,Fjord,Damage,5,,,,,Disregarded
-2-20,1:39:58,Fjord,Damage,12,,,,,Disregarded
-2-20,1:40:10,Fjord,Spell Attack,9,2,,,,Eldritch Blast against Gator
-2-20,1:40:13,Fjord,Spell Attack,12,5,,,,Eldritch Blast against Gator
-2-20,1:44:22,Beau,Attack,20,13,,,,Throwing star against gator
-2-20,1:44:39,Beau,Damage,7,,,7 piercing to Gator,,
-2-20,1:44:41,Beau,Damage,5,,,5 piercing to Gator,,
-2-20,1:45:35,Jester,Athletics,16,13,,,,
-2-20,1:47:02,Jester,Spell Attack,23,16,,,,Spiritual Weapon against Gator 1
-2-20,1:47:09,Jester,Damage,8,,,8 force to Gator 1,,
-2-20,1:48:52,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,1:48:52,Caleb,Spell Attack,17,12,,,,Scorching Ray (glove) against Gator 2
-2-20,1:48:56,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,1:48:56,Caleb,Spell Attack,Nat20,20,,,,Scorching Ray (glove) against Gator 2
-2-20,1:49:01,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,1:49:01,Caleb,Spell Attack,17,12,,,,Scorching Ray (glove) against Gator 2
-2-20,1:49:17,Caleb,Damage,21,,,21 fire to Gator 2,,
-2-20,1:50:03,Nott,Attack,19,12,,,,Hand Crossbow against Gator 2
-2-20,1:50:03,Nott,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,1:50:03,Nott,Attack,13,6,,,,Hand Crossbow against Gator 2
-2-20,1:50:03,Nott,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-20,1:50:03,Nott,Attack,13,6,,,,Disregarded due to advantage
-2-20,1:50:15,Nott,Attack,Nat20,20,,,,Hand Crossbow against Gator 2
-2-20,1:50:43,Nott,Damage,26,,,26 piercing to Gator 2,,with Sneak Attack and Fury of the Small
-2-20,1:51:05,Nott,Damage,8,,,8 piercing to Gator 2,,
-2-20,1:51:11,Nott,Damage,10,,,10 piercing to Gator 2,,
-2-20,1:54:19,Fjord,Spell Attack,23,16,,,,Eldritch Blast against Gator 1
-2-20,1:54:24,Fjord,Spell Attack,24,17,,,,Eldritch Blast against Gator 1
-2-20,1:54:30,Fjord,Damage,12,,,12 force to Gator 1,,
-2-20,1:54:32,Fjord,Damage,6,,,6 force to Gator 1,,
-2-20,1:56:00,Beau,Attack,21,14,,,,Quarterstaff against Gator 1
-2-20,1:56:05,Beau,Attack,22,15,,,,Quarterstaff against Gator 1
-2-20,1:56:18,Beau,Damage,7,,,7 bludgeoning to Gator 1,,
-2-20,1:56:18,Beau,Damage,7,,,7 bludgeoning to Gator 1,,
-2-20,1:56:41,Beau,Attack,18,11,,,,Unarmed Strike against Gator 1
-2-20,1:56:47,Beau,Attack,12,5,,,,Unarmed Strike against Gator 1
-2-20,1:57:02,Beau,Damage,6,,,6 bludgeoning to Gator 1,,
-2-20,1:58:53,Jester,Healing,6,,,,,"Healing word to Kiri, Kiri is conscious"
-2-20,1:59:49,Yasha,Attack,Nat1,1,,,,Magician's Judge Reckless against Gator 2 with disadvanatage
-2-20,2:00:07,Yasha,Attack,17,11,,,,Magician's Judge Reckless against Gator 2 with disadvanatage
-2-20,2:00:33,Yasha,Damage,18,,,18 Slashing to Gator 2,1,
-2-20,2:02:53,Caleb,Damage,18,,,18 force to Gator 1,,Magic Missile against Gator 1
-2-20,2:03:34,Nott,Acrobatics,18,12,,,,
-2-20,2:03:54,Nott,Attack,12,5,,,,Disregarded due to advantage
-2-20,2:04:19,Nott,Attack,17,10,,,,Hand Crossbow against Gator 1
-2-20,2:04:28,Nott,Damage,12,,,12 piercing to Gator 1,,with Sneak Attack
-2-20,2:04:55,Nott,Attack,11,4,,,,Disregarded due to advantage
-2-20,2:04:55,Nott,Attack,18,11,,,,Hand Crossbow against Gator 1
-2-20,2:05:05,Nott,Damage,5,,,5 piercing to Gator 1,,
-2-20,2:06:54,Beau,Attack,Nat20,20,,,,Quarterstaff against Gator 1
-2-20,2:07:03,Beau,Damage,12,,,12 bludgeoning to Gator 1,,
-2-20,2:11:58,Fjord,Spell Attack,16,9,,,,Eldritch Blast against Gator 1
-2-20,2:12:04,Fjord,Spell Attack,13,6,,,,Eldritch Blast against Gator 1
-2-20,2:12:08,Fjord,Damage,14,,,14 force to Gator 1,1,
-2-20,2:13:39,Jester,Healing,9,,,,,"Cure Wounds to Nott, Nott is conscious"
-2-20,2:17:14,Jester,Strength,20,17,,,,
-2-20,2:21:06,Fjord,Perception,14,13,,,,
-2-20,2:21:06,Yasha,Perception,16,,,,,
-2-20,2:23:03,Caleb,Nature,Nat20,20,,,,
-2-20,2:26:36,Molly,Investigation,8,8,,,,
-2-20,2:26:58,Caleb,Investigation,25,17,,,,
-2-20,2:28:08,Jester,Healing,8,,,,,Cure wounds to Kiri
-2-20,2:29:16,Jester,Medicine,10,3,,,,
-2-20,2:37:40,Yasha,Insight,12,,,,,
-2-20,2:46:50,Fjord,Perception,15,14,,,,
-2-20,2:46:50,Jester,Perception,22,18,,,,
-2-20,2:55:45,Jester,Perception,8,4,,,,
-2-20,3:06:26,Caleb,Intimidation,15,12,,,,
-2-20,3:10:22,Jester,Persuasion,9,5,,,,
-2-20,3:11:35,Jester,Persuasion,Unknown,Unknown,,,,
-2-20,3:11:35,Jester,Persuasion,12,8,,,,
-2-20,3:17:25,Jester,Insight,Nat1,1,,,,
-2-21,0:20:18,Fjord,Perception,17,16,,,,
-2-21,0:20:57,Caleb,Insight,15,9,,,,
-2-21,0:37:35,Fjord,Perception,16,12,,,,
-2-21,0:44:29,Beau,Survival,17,14,,,,
-2-21,0:45:29,Nott,Perception,Nat1,1,,,,
-2-21,0:45:34,Beau,Perception,6,3,,,,
-2-21,0:47:50,Beau,Survival,7,4,,,,
-2-21,0:49:07,Fjord,Wisdom,14,15,,,,
-2-21,0:51:46,Cali,Damage,28,,,28 Fire to Plant,,Fireball
-2-21,0:52:35,Caleb,Spell Attack,17,9,,,,Fire Bolt
-2-21,0:52:48,Caleb,Damage,12,,,12 Fire to Plant,,
-2-21,0:53:56,Fjord,Spell Attack,16,8,,,,Witch Bolt
-2-21,0:54:10,Fjord,Damage,27,,,27 Lightning to Plant,,
-2-21,0:55:24,Beau,Perception,9,6,,,,
-2-21,0:55:34,Jester,Perception,13,9,,,,
-2-21,0:58:36,Frumpkin,Perception,16,13,,,,
-2-21,1:01:11,Frumpkin,Stealth,13,9,,,,
-2-21,1:06:31,Beau,Survival,Nat20,20,,,,
-2-21,1:07:46,Beau,Athletics,8,3,,,,
-2-21,1:10:20,Caleb,Insight,Nat1,1,,,,
-2-21,1:12:00,Fjord,Perception,18,17,,,,
-2-21,1:12:03,Beau,Perception,10,7,,,,
-2-21,1:14:27,Beau,Stealth,14,7,,,,
-2-21,1:16:31,Beau,Sleight of Hand,22,18,,,,
-2-21,1:17:13,Beau,Stealth,19,12,,,,
-2-21,1:25:07,Molly,Perception,7,4,,,,
-2-21,1:27:49,Caleb,Stealth,17,16,,,,
-2-21,1:29:35,Fjord,Perception,17,16,,,,
-2-21,1:33:10,Fjord,Perception,15,14,,,,
-2-21,1:34:22,Jester,Perception,12,8,,,,
-2-21,1:35:26,Jester,Perception,23,19,,,,
-2-21,1:35:39,Jester,Perception,Nat1,1,,,,
-2-21,1:36:05,Jester,Perception,23,19,,,,
-2-21,1:38:37,Caleb,Perception,5,2,,,,
-2-21,1:39:32,Nott,Investigation,25,19,,,,
-2-21,1:39:51,Nott,Medicine,10,10,,,,
-2-21,1:47:29,Caleb,Damage,16,,,16 Force to Troll,,Magic Missile
-2-21,1:45:49,Nott,Attack,16,9,,,,Hand Crossbow
-2-21,1:48:40,Cali,Damage,7,,,7 Acid to Troll,,Acid Splash
-2-21,1:49:12,Beau,Initiative,Nat1,1,,,,
-2-21,1:49:12,Beau,Other,8,,,,,Boots of Alert additional Initiative roll (d8)
-2-21,1:49:11,Jester,Initiative,23,19,,,,
-2-21,1:49:09,Cali,Initiative,20,18,,,,
-2-21,1:49:18,Nott,Initiative,18,14,,,,
-2-21,1:49:19,Molly,Initiative,16,13,,,,
-2-21,1:49:24,Fjord,Initiative,14,14,,,,
-2-21,1:49:36,Yasha,Initiative,6,4,,,,
-2-21,1:49:36,Caleb,Initiative,8,7,,,,
-2-21,1:50:24,Jester,Damage,6,,,6 Necrotic to Troll,,Toll the Dead
-2-21,1:51:02,Cali,Other,7,,,,,"False Life (1st), Cali gains 7 temporary HP"
-2-21,1:51:49,Nott,Attack,24,17,,,,Hand crossbow
-2-21,1:52:02,Nott,Damage,5,,,5 to Troll,,Febron dies
-2-21,1:52:25,Nott,Attack,13,6,,,,Hand Crossbow
-2-21,1:54:13,Beau,Attack,21,14,,,,Staff
-2-21,1:54:14,Beau,Attack,16,9,,,,Staff
-2-21,1:54:23,Beau,Damage,12,,,12 to Troll,,
-2-21,1:54:25,Beau,Damage,7,,,7 to Troll,,
-2-21,1:55:08,Beau,Attack,Unknown,Unknown,,,,Unarmed Strike
-2-21,1:55:10,Beau,Damage,10,,,10  to Troll,,
-2-21,1:56:49,Fjord,Spell Attack,26,18,,,,Eldritch Blast
-2-21,1:56:52,Fjord,Spell Attack,25,17,,,,Eldritch Blast
-2-21,1:57:01,Fjord,Damage,8,,,8 Force to Troll,,
-2-21,1:57:03,Fjord,Damage,14,,,14 Force to Troll,,Beau goes unconscious
-2-21,2:03:33,Yasha,Intimidation,22,19,,,,Uses Strength
-2-21,2:04:42,Jester,Healing,7,,,,,"Healing Word (1st), Beau heals 7 points, is conscious"
-2-21,2:06:25,Cali,Arcana,10,10,,,,
-2-21,2:07:58,Jester,Damage,9,,,9 Radiant to Troll,,Sacred Flame
-2-21,2:09:56,Nott,Attack,23,16,,,,Hand Crossbow with disadvantage
-2-21,2:10:05,Nott,Attack,Nat20,20,,,,Disregarded due to disadvantage
-2-21,2:10:17,Nott,Damage,10,,,10 to Troll,,
-2-21,2:10:29,Nott,Attack,Nat20,20,,,,Disregarded due to disadvanatage
-2-21,2:10:29,Nott,Attack,20,13,,,,Hand crossbow
-2-21,2:10:38,Nott,Damage,7,,,7 to Troll,,
-2-21,2:12:25,Molly,Damage,4,,,4 Psychic to Troll,,Vicious Mockery
-2-21,2:13:40,Beau,Attack,15,8,,,,Disregarded due to disadvantage
-2-21,2:13:40,Beau,Attack,14,7,,,,Throwing Star with disadvantage
-2-21,2:13:55,Beau,Attack,Nat20,20,,,,Disregarded due to disadvantage
-2-21,2:13:55,Beau,Attack,Nat14,14,,,,Throwing Star with disadvantage
-2-21,2:14:24,Beau,Damage,8,,,8 to Troll,,
-2-21,2:14:55,Fjord,Attack,Unknown,Unknown,,,,Eldritch Blast with disadvantange
-2-21,2:14:55,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,2:15:00,Fjord,Attack,Unknown,Unknown,,,,Eldritch Blast with disadvantange
-2-21,2:15:00,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,2:15:45,Caleb,Spell Attack,Nat1,1,,,,Fire Bolt
-2-21,2:15:59,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,2:15:59,Nott,Attack,12,5,,,,Hand Crossbow with disadvantage
-2-21,2:16:18,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,2:16:18,Nott,Attack,14,7,,,,Hand Crossbow with disadvantage
-2-21,2:16:23,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,2:16:23,Nott,Attack,16,9,,,,Hand Crossbow with disadvantage
-2-21,2:16:30,Nott,Damage,8,,,8 to Troll,,
-2-21,2:16:48,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,2:16:48,Fjord,Attack,Nat1,1,,,,Eldritch Blast with disadvantange
-2-21,2:16:52,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,2:16:52,Fjord,Attack,25,18,,,,Eldritch Blast with disadvantange
-2-21,2:16:57,Fjord,Damage,13,,,13 Force to Troll,,
-2-21,2:19:52,Jester,Investigation,14,13,,,,
-2-21,2:26:18,Nott,Investigation,19,13,,,,
-2-21,2:27:47,Caleb,Religion,13,8,,,,
-2-21,2:27:51,Jester,Religion,Unknown,Unknown,,,,
-2-21,2:34:22,Beau,Perception,14,11,,,,
-2-21,2:36:18,Beau,Athletics,8,3,,,,
-2-21,2:38:47,Jester,Investigation,12,11,,,,
-2-21,2:27:29,Nott,Investigation,16,10,,,,
-2-21,2:42:41,Fjord,Investigation,17,12,,,,
-2-21,2:44:46,Jester,Investigation,17,16,,,,
-2-21,2:46:30,Beau,Investigation,Unknown,Unknown,,,,Disregarded due to advantage
-2-21,2:46:30,Beau,Investigation,13,8,,,,With advantage
-2-21,2:48:42,Nott,Athletics,7,7,,,,
-2-21,2:51:06,Nott,Stealth,15,6,,,,
-2-21,2:55:06,Frumpkin,Acrobatics,16,14,,,,
-2-21,3:00:33,Molly,Stealth,15,12,,,,
-2-21,3:00:38,Yasha,Stealth,6,4,,,,
-2-21,3:00:46,Jester,Stealth,10,6,,,,
-2-21,3:00:52,Cali,Stealth,14,,,,,
-2-21,3:00:54,Caleb,Stealth,3,2,,,,
-2-21,3:00:54,Beau,Stealth,18,11,,,,
-2-21,3:00:55,Fjord,Stealth,13,13,,,,
-2-21,3:02:00,Beau,Initiative,19,15,,,,
-2-21,3:02:00,Fjord,Initiative,18,18,,,,
-2-21,3:02:00,Molly,Initiative,16,13,,,,
-2-21,3:02:12,Caleb,Initiative,10,9,,,,
-2-21,3:02:13,Nott,Initiative,10,6,,,,
-2-21,3:02:14,Yasha,Initiative,13,11,,,,
-2-21,3:02:31,Jester,Initiative,6,2,,,,
-2-21,3:22:32,Cali,Initiative,6,4,,,,
-2-21,3:07:17,Beau,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,3:07:17,Beau,Attack,18,12,,,,Throwing Star
-2-21,3:07:29,Beau,Damage,7,,,7 to Merrow 1,,
-2-21,3:07:39,Beau,Attack,10,4,,,,Disregarded due to disadvantage
-2-21,3:07:39,Beau,Attack,10,4,,,,Throwing Star
-2-21,3:09:05,Fjord,Damage,9,,,9 Cold to Merrow 1 and 2,,Hunger of Hadar
-2-21,3:11:22,Fjord,Strength,9,8,,,,
-2-21,3:11:40,Fjord,Constitution Save,23,18,,,,
-2-21,3:12:07,Fjord,Constitution Save,Nat20,20,,,,
-2-21,3:12:27,Fjord,Damage,7,,,7 Acid to Merrow 1 and 2,,
-2-21,3:15:45,Nott,Attack,12,5,,,,Hand Crossbow
-2-21,3:16:01,Nott,Attack,14,7,,,,Hand Crossbow SA
-2-21,3:16:14,Nott,Damage,18,,,18 to Merrow 3,,With Fury of the Small
-2-21,3:17:53,Cali,Spell Attack,15,8,,,,Ray of Sickness
-2-21,3:18:07,Cali,Damage,9,,,9 Poison to Merrow 3,,Merrow 3 poisoned
-2-21,3:19:12,Beau,Attack,16,9,,,,Staff
-2-21,3:19:16,Beau,Attack,11,4,,,,Staff
-2-21,3:19:24,Beau,Damage,10,,,10 to Merrow 3,1,
-2-21,3:23:01,Fjord,Damage,5,,,5 Cold to Merrow 1 and 2,,
-2-21,3:24:28,Fjord,Constitution Save,21,16,,,,
-2-21,3:25:14,Fjord,Constitution Save,13,8,,,,
-2-21,3:25:36,Molly,Damage,1,,,1 to Molly,,Blood Maledict (Amplified)
-2-21,3:26:21,Fjord,Constitution Save,Unknown,Unknown,,,,
-2-21,3:26:31,Fjord,Strength,14,14,,,,
-2-21,3:26:43,Beau,Attack,Nat20,20,,,,Staff
-2-21,3:27:09,Beau,Damage,16,,,16 to Merrow 2,,
-2-21,3:29:41,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-21,3:29:41,Yasha,Attack,19,12,,,,Magician's Judge Reckless
-2-21,3:30:02,Yasha,Damage,20,,,20 to Merrow 3,,
-2-21,3:30:29,Yasha,Damage,11,,,11 to Merrow 3,1,
-2-21,3:31:49,Caleb,Spell Attack,Nat1,1,,,,Glove of Scorching Ray
-2-21,3:31:52,Caleb,Spell Attack,Nat20,20,Y,,,Glove of Scorching Ray
-2-21,3:32:12,Caleb,Damage,12,,,12 Fire to Merrow 2,,
-2-21,3:32:27,Caleb,Spell Attack,10,2,,,,Glove of Scorching Ray
-2-21,3:32:47,Nott,Attack,24,17,,,,Hand Crossbow SA
-2-21,3:32:56,Nott,Damage,15,,,15 to Merrow 1,1,
-2-21,3:33:44,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,3:33:44,Nott,Attack,15,8,,,,Hand Crossbow with disadvantage
-2-21,3:33:48,Nott,Damage,6,,,6 to Merrow 4,,
-2-21,3:34:16,Jester,Healing,11,,,,,"Cure Wounds (2nd), Fjord heals 11 points, is conscious"
-2-21,3:34:53,Jester,Spell Attack,21,14,,,,Spiritual Weapon
-2-21,3:35:22,Jester,Damage,8,,,8 Force to Merrow 4,,
-2-21,3:36:17,Cali,Damage,19,,,19 Acid to Merrow 4,,Dragon's Breath (Acid)
-2-21,3:37:28,Beau,Attack,19,12,,,,Staff
-2-21,3:37:41,Beau,Damage,13,,,13 to Merrow 4,,
-2-21,3:38:04,Beau,Attack,15,8,,,,Staff
-2-21,3:38:14,Beau,Damage,10,,,10 to Merrow 4,,
-2-21,3:38:40,Beau,Attack,12,5,,,,Unarmed Strike
-2-21,3:38:46,Beau,Attack,9,2,,,,Unarmed Strike
-2-21,3:39:24,Fjord,Spell Attack,26,18,,,,Eldritch Blast
-2-21,3:39:30,Fjord,Spell Attack,18,10,,,,Eldritch Blast
-2-21,3:39:37,Fjord,Damage,6,,,6 to Merrow 4,,
-2-21,3:39:40,Fjord,Damage,14,,,14 to Merrow 4,1,HDYWTDT
-2-21,3:40:58,Cali,Dexterity Save,5,3,,,,
-2-21,3:44:42,Caleb,Investigation,11,3,,,,Disregarded due to advantage
-2-21,3:44:42,Caleb,Investigation,25,17,,,,With advantage
-2-21,3:47:44,Nott,Sleight of Hand,Unknown,Unknown,,,,Disregarded due to advantage
-2-21,3:47:44,Nott,Sleight of Hand,28,19,,,,With advantage
-2-21,3:47:46,Cali,Perception,8,9,,,,
-2-21,3:50:27,Molly,Investigation,Unknown,Unknown,,,,Disregarded due to advantage
-2-21,3:50:27,Molly,Investigation,8,8,,,,With advantage
-2-21,3:50:02,Caleb,Perception,17,14,,,,
-2-21,3:54:20,Cali,Perception,13,14,,,,
-2-21,3:57:15,Fjord,Constitution Save,21,16,,,,
-2-21,3:57:56,Fjord,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-21,3:57:56,Fjord,Perception,6,5,,,,With disadvantage
-2-21,4:04:41,Beau,Dexterity,10,6,,,,
-2-21,4:04:37,Caleb,Dexterity,3,2,,,,With disadvantage
-2-21,4:04:37,Caleb,Dexterity,19,18,,,,Disregarded due to disadvantage
-2-21,4:13:05,Yasha,Other,13,10,,,,"Magician's Judge (Dispel Magic, +3)"
-2-21,4:17:02,Yasha,Investigation,6,Unknown,,,,
-2-22,0:17:13,Caleb,Arcana,15,8,,,,
-2-22,0:21:19,Fjord,Perception,5,4,,,,
-2-22,0:21:20,Beau,Perception,5,2,,,,
-2-22,0:22:04,Nott,Perception,4,4,,,,
-2-22,0:22:09,Jester,Perception,12,8,,,,
-2-22,0:23:39,Frumpkin,Stealth,Nat4,4,,,,
-2-22,0:28:08,Jester,Damage,10,,,10 Radiant to Merrow,,Sacred Flame
-2-22,0:28:25,Nott,Attack,Nat1,1,,,,Hand Crossbow
-2-22,0:28:46,Molly,Attack,11,5,,,,Scimitar
-2-22,0:28:49,Molly,Attack,8,2,,,,Scimitar
-2-22,0:29:11,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,0:29:11,Caleb,Spell Attack,12,4,,,,Fire Bolt with disadvantage
-2-22,0:29:15,Beau,Attack,20,13,,,,Staff
-2-22,0:29:18,Beau,Damage,11,,,11 to Merrow,,
-2-22,0:29:21,Beau,Attack,Unknown,Unknown,,,,Staff
-2-22,0:29:25,Fjord,Spell Attack,20,13,,,,Eldritch Blast
-2-22,0:29:25,Fjord,Spell Attack,24,17,,,,Eldritch Blast
-2-22,0:29:27,Fjord,Damage,10,,,10 Force to Merrow,,
-2-22,0:29:27,Fjord,Damage,9,,,9 Force to Merrow,,
-2-22,0:29:33,Yasha,Attack,10,4,,,,Magician's Judge
-2-22,0:29:41,Yasha,Attack,21,15,,,,Magician's Judge
-2-22,0:30:17,Yasha,Damage,10,,,10 to Merrow,1,
-2-22,0:31:14,Frumpkin,Stealth,9,5,,,,
-2-22,0:32:12,Frumpkin,Perception,19,16,,,,
-2-22,0:33:37,Caleb,Stealth,12,11,,,,
-2-22,0:33:39,Yasha,Stealth,13,,,,,
-2-22,0:35:53,Caleb,Perception,11,8,,,,
-2-22,0:35:57,Yasha,Perception,15,,,,,
-2-22,0:41:55,Yasha,Dexterity,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,0:41:55,Yasha,Dexterity,16,14,,,,With advantage
-2-22,0:27:37,Fjord,Athletics,12,9,,,,
-2-22,0:50:34,Fjord,Stealth,2,2,,,,
-2-22,0:53:31,Fjord,Survival,13,15,,,,
-2-22,0:57:07,Beau,Stealth,Nat20,20,,,,
-2-22,0:57:11,Molly,Stealth,16,13,,,,
-2-22,0:57:17,Fjord,Stealth,19,19,,,,
-2-22,0:57:30,Caleb,Stealth,22,19,,,,
-2-22,0:57:34,Jester,Stealth,18,14,,,,
-2-22,0:57:38,Yasha,Stealth,16,,,,,
-2-22,1:00:36,Yasha,Initiative,21,19,,,,
-2-22,1:00:56,Beau,Initiative,12,8,,,,
-2-22,1:01:09,Molly,Initiative,7,4,,,,
-2-22,1:01:09,Jester,Initiative,8,4,,,,
-2-22,1:01:09,Caleb,Initiative,6,5,,,,
-2-22,1:01:19,Fjord,Initiative,3,3,,,,
-2-22,1:01:30,Nott,Initiative,Nat1,1,,,,
-2-22,1:03:42,Beau,Attack,20,13,,,,Staff
-2-22,1:03:48,Beau,Attack,Nat8,8,,,,Staff
-2-22,1:03:55,Beau,Damage,8,,,8 to Merrow 1,,
-2-22,1:04:06,Beau,Attack,Nat1,1,,,,Unarmed Strike
-2-22,1:04:13,Beau,Attack,24,17,,,,Unarmed Strike
-2-22,1:04:26,Beau,Damage,10,,,10 to Merrow 1,,
-2-22,1:05:42,Jester,Spell Attack,Unknown,Unknown,,,,Spiritual Weapon
-2-22,1:06:11,Jester,Damage,7,,,7 Necrotic to Merrow 1,,Toll the Dead
-2-22,1:08:39,Fjord,Attack,14,6,,,,Wastehunter Falchion
-2-22,1:08:59,Fjord,Damage,18,,,18 to Merrow 2,,
-2-22,1:10:23,Yasha,Attack,18,12,,,,Magician's Judge
-2-22,1:10:58,Yasha,Damage,19,,,19 to Merrow 1,,
-2-22,1:11:25,Yasha,Attack,8,2,,,,Magician's Judge
-2-22,1:12:34,Beau,Strength,10,10,,,,
-2-22,1:14:51,Fjord,Strength,17,17,,,,
-2-22,1:15:51,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,1:15:51,Fjord,Constitution Save,15,10,,,,Concentration with advantage
-2-22,1:15:59,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,1:15:50,Fjord,Constitution Save,24,19,,,,Concentration with advantage
-2-22,1:16:03,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,1:16:03,Fjord,Constitution Save,18,13,,,,Concentration with advantage
-2-22,1:17:13,Beau,Dexterity Save,Nat1,1,,,,Against Call Lightning
-2-22,1:18:31,Beau,Attack,15,8,,,,Unarmed Strike
-2-22,1:18:39,Beau,Attack,12,5,,,,Unarmed Strike
-2-22,1:18:50,Beau,Damage,7,,,7 to Merrow 3,,
-2-22,1:19:33,Jester,Spell Attack,15,8,,,,Spiritual Weapon
-2-22,1:19:46,Jester,Damage,11,,,11 Force to Merrow 1,1,HDYWTDT
-2-22,1:22:14,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,1:22:14,Caleb,Spell Attack,15,7,,,,Glove of Scorching Ray with disadvantage
-2-22,1:22:20,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,1:22:20,Caleb,Spell Attack,14,6,,,,Glove of Scorching Ray with disadvantage
-2-22,1:22:26,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,1:22:26,Caleb,Spell Attack,14,6,,,,Glove of Scorching Ray with disadvantage
-2-22,1:22:51,Caleb,Damage,6,,,6 Fire to Merrow Shallow Priest,,
-2-22,1:23:46,Molly,Attack,17,11,,,,Scimitar
-2-22,1:23:48,Molly,Attack,Unknown,Unknown,,,,Scimitar
-2-22,1:23:52,Molly,Attack,16,10,,,,Scimitar
-2-22,1:24:01,Molly,Damage,8,,,8 Slashing/Radiant to Merrow 2,,
-2-22,1:24:07,Molly,Damage,9,,,9 Slashing/Radiant to Merrow 2,,
-2-22,1:26:18,Yasha,Attack,18,12,,,,Magician's Judge with disadvantage
-2-22,1:26:18,Yasha,Attack,Nat20,20,Y,,,Disregarded due to disadvantage
-2-22,1:26:48,Yasha,Damage,19,,,19 to Merrow 3,,
-2-22,1:27:02,Yasha,Attack,15,9,,,,Magician's Judge with disadvantage
-2-22,1:27:02,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,1:27:11,Yasha,Damage,15,,,15 to Merrow 3,,
-2-22,1:28:10,Yasha,Dexterity Save,10,8,,25 Lightning to Yasha,,Against Call Lightning
-2-22,1:31:34,Molly,Damage,3,,,3 to Molly,,Blood Curse of the Eyeless (amplified)
-2-22,1:32:36,Beau,Death Save,17,17,,,,Beau succeeds one death save
-2-22,1:33:21,Jester,Healing,11,,,,,"Healing Word (2nd), Beau heals 11 points, is conscious"
-2-22,1:35:37,Molly,Attack,11,5,,,,Scimitar
-2-22,1:35:42,Molly,Attack,24,18,,,,Scimitar
-2-22,1:35:50,Molly,Damage,9,,,9 to Merrow 2,,
-2-22,1:36:00,Molly,Attack,23,17,,,,Scimitar
-2-22,1:36:04,Molly,Damage,10,,,10 to Merrow 2,1,HDYWTDT
-2-22,1:36:30,Molly,Attack,Unknown,Unknown,,,,Scimitar
-2-22,1:37:17,Nott,Other,Unknown,Unknown,,,,To see if she enters the water
-2-22,1:37:38,Fjord,Damage,4,,,,,"Booming Blade, Disregarded"
-2-22,1:38:43,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,1:38:43,Fjord,Attack,15,7,,,,Wastehunter Falchion with advantage
-2-22,1:38:53,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,1:38:53,Fjord,Attack,24,16,,,,Wastehunter Falchion with advantage
-2-22,1:39:05,Fjord,Damage,21,,,21 to Merrow 4,,
-2-22,1:39:15,Fjord,Damage,17,,,17 to Merrow 4,1,HDYWTDT
-2-22,1:39:48,Fjord,Blink,Nat20,20,,,,
-2-22,1:40:23,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,1:40:23,Yasha,Attack,13,7,,,,Magician's Judge with disadvantage
-2-22,1:40:59,Fjord,Healing,13,,,,,"Hexblade's Curse, Fjordheals 13 points"
-2-22,1:41:03,Yasha,Damage,14,,,14 to Merrow 3,,
-2-22,1:41:16,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,1:41:16,Yasha,Attack,Unknown,Unknown,,,,Magician's Judge with disadvantage
-2-22,1:51:24,Yasha,Damage,8,,,8 to Merrow 3,1,HDYWTDT
-2-22,1:43:16,Yasha,Dexterity Save,14,12,,12 (24/2) Lightning to Yasha,,Against Call Lightning
-2-22,1:44:45,Yasha,Strength,10,7,,,,With advantage
-2-22,1:44:45,Yasha,Strength,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,1:45:47,Caleb,Fragment,2,2,,,,Fragment of Possibility
-2-22,1:47:22,Beau,Athletics,15,10,,,,
-2-22,1:47:54,Beau,Attack,Nat20,20,Y,,,Staff
-2-22,1:48:06,Beau,Damage,18,,,18 to Merrow 6,,
-2-22,1:48:29,Beau,Attack,10,3,,,,Staff
-2-22,1:49:21,Jester,Spell Attack,Nat1,1,,,,Disregarded due to advantage
-2-22,1:49:21,Jester,Spell Attack,11,4,,,,Inflict Wounds (1st) with advantage
-2-22,1:50:24,Jester,Spell Attack,Unknown,Unknown,,,,Spiritual Weapon
-2-22,1:50:29,Jester,Damage,11,,,11 Force to Merrow 6,,
-2-22,1:51:01,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,1:51:01,Caleb,Spell Attack,10,2,,,,Fire Bolt with disadvantage
-2-22,1:52:22,Molly,Attack,14,8,,,,Scimitar
-2-22,1:52:24,Molly,Attack,Nat20,20,Y,,,Scimitar
-2-22,1:52:37,Molly,Damage,9,,,9 to Merrow 5,,
-2-22,1:52:43,Molly,Damage,11,,,11 to Merrow 5,,
-2-22,1:52:54,Molly,Attack,10,4,,,,Scimitar
-2-22,1:52:54,Molly,Attack,19,13,,,,Scimitar
-2-22,1:53:02,Molly,Damage,11,,,11 to Merrow 5,,
-2-22,1:54:22,Fjord,Spell Attack,18,11,,,,Eldritch Blast
-2-22,1:54:34,Fjord,Damage,12,,,12 Force to Merrow 5,,
-2-22,1:54:44,Fjord,Spell Attack,22,15,,,,Eldritch Blast
-2-22,1:54:49,Fjord,Damage,7,,,7 Force to Merrow 5,1,HDYWTDT
-2-22,1:55:23,Fjord,Blink,13,13,,,,
-2-22,1:57:12,Beau,Attack,10,3,,,,Staff Reaction
-2-22,1:57:30,Caleb,Constitution Save,8,6,,,,Concentration
-2-22,1:59:34,Yasha,Dexterity Save,18,16,,6 (13/2) Lightning to Yasha,,Against Call Lightning
-2-22,2:00:40,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,2:00:40,Beau,Attack,14,7,,,,Staff with advantage
-2-22,2:00:50,Beau,Damage,12,,,12 to Merrow 6,,
-2-22,2:00:58,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,2:00:58,Beau,Attack,18,11,,,,Staff with advantage
-2-22,2:01:02,Beau,Damage,5,,,5 to Merrow 6,,
-2-22,2:01:45,Beau,Attack,20,13,,,,Unarmed Strike with advantage
-2-22,2:01:45,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,2:01:54,Beau,Attack,12,5,,,,Unarmed Strike with advantage
-2-22,2:01:54,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,2:02:05,Beau,Damage,7,,,7 to Merrow 6,1,HDYWTDT
-2-22,2:03:09,Jester,Healing,12,,,,,"Cure Wounds (2nd), Caleb heals 12 points"
-2-22,2:05:18,Fjord,Blink,16,16,,,,
-2-22,2:07:05,Caleb,Damage,6,,,6 to Merrow Shallow Priest,,Maximilian's Earthen Grasp
-2-22,2:07:38,Beau,Constitution Save,17,14,,8 (17/2) Thunder to Beau,,Against Thunderwave (2nd)
-2-22,2:07:43,Caleb,Constitution Save,8,6,,17 Thunder to Caleb,,"Against Thunderwave (2nd), Caleb is unconscious"
-2-22,2:09:09,Beau,Attack,16,9,,,,Unarmed Strike with disadvantage
-2-22,2:09:09,Beau,Attack,21,14,,,,Disregarded due to disadvantage
-2-22,2:09:21,Beau,Damage,10,,,10 to Merrow Shallow Priest,,
-2-22,2:09:27,Beau,Attack,16,9,,,,Unarmed Strike with disadvantage
-2-22,2:09:27,Beau,Attack,16,9,,,,Disregarded due to disadvantage
-2-22,2:09:33,Beau,Damage,12,,,12 to Merrow Shallow Priest,,
-2-22,2:09:48,Beau,Attack,9,2,,,,Unarmed Strike
-2-22,2:10:43,Jester,Spell Attack,11,4,,,,Inflict Wounds (3rd)
-2-22,2:11:25,Jester,Spell Attack,Nat1,1,,,,Spiritual Weapon
-2-22,2:12:02,Caleb,Death Save,6,6,,,,Caleb fails one death save
-2-22,2:12:30,Molly,Athletics,10,10,,,,
-2-22,2:14:10,Nott,Attack,20,13,,,,Hand Crossbow Burning Bolt
-2-22,2:14:41,Nott,Damage,24,,,24 (21 Piercing + 3 Fire to Merrow Shallow Priest,,With Fury of the Small
-2-22,2:15:10,Nott,Attack,22,15,,,,Hand Crossbow
-2-22,2:15:16,Nott,Damage,8,,,8 to Merrow Shallow Priest,,
-2-22,2:15:44,Fjord,Spell Attack,10,3,,,,Eldritch Blast
-2-22,2:15:49,Fjord,Spell Attack,14,7,,,,Eldritch Blast
-2-22,2:16:09,Fjord,Blink,Unknown,Unknown,,,,
-2-22,2:17:26,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,2:17:26,Yasha,Attack,18,12,,,,Magician's Judge with disadvantage
-2-22,2:17:43,Yasha,Damage,12,,,12 to Merrow Shallow Priest,,
-2-22,2:17:54,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,2:17:54,Yasha,Attack,20,14,,,,Magician's Judge with disadvantage
-2-22,2:18:02,Yasha,Damage,12,,,12 to Merrow Shallow Priest,,
-2-22,2;20:58,Yasha,Attack,16,10,,,,Magician's Judge AoO with disadvantage
-2-22,2:20:58,Yasha,Attack,21,15,,,,Disregarded due to disadvantage
-2-22,2:21:06,Jester,Attack,15,8,,,,Handaxe AoO
-2-22,2:21:19,Jester,Damage,5,,,5 to Merrow Shallow Priest,0.5,HDYWTDT
-2-22,2:21:19,Yasha,Damage,9,,,9 to Merrow Shallow Priest,0.5,HDYWTDT
-2-22,2:22:16,Caleb,Death Save,11,11,,,,Caleb succeeds one death save
-2-22,2:22:30,Jester,Healing,12,,,,,"Cure Wounds, Caleb heals 12 points, is conscious"
-2-22,2:25:17,Jester,Healing,8,,,,,"Prayer of Healing (3rd), All hurt heal 8 points"
-2-22,2:26:46,Nott,Investigation,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,2:26:46,Nott,Investigation,8,2,,,,With disadvantage
-2-22,2:30:47,Jester,Investigation,4,3,,,,
-2-22,2:31:52,Fjord,Investigation,14,9,,,,
-2-22,2:13:55,Fjord,Religion,21,19,,,,
-2-22,2:39:25,Jester,Investigation,11,10,,,,
-2-22,2:39:33,Molly,Investigation,11,11,,,,
-2-22,2:41:17,Beau,Investigation,10,5,,,,
-2-22,2:42:12,Nott,Thieves' Tools,18,11,,,,With disadvantage
-2-22,2:42:12,Nott,Thieves' Tools,19,12,,,,Disregarded due to disadvantage
-2-22,2:45:03,Yasha,Investigation,13,,,,,
-2-22,2:45:50,Beau,Investigation,23,18,,,,
-2-22,2:50:30,Nott,Investigation,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,2:50:30,Nott,Investigation,Nat1,1,,,,With disadvantage
-2-22,2:50:43,Nott,Thieves' Tools,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-22,2:50:43,Nott,Thieves' Tools,17,10,,,,With disadvantage
-2-22,2:54:25,Beau,Investigation,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,2:54:25,Beau,Investigation,15,10,,,,With advantage
-2-22,3:09:07,Fjord,Intelligence,16,14,,,,
-2-22,3:09:59,Caleb,Investigation,12,4,,,,
-2-22,3:13:54,Caleb,History,Unknown,Unknown,,,,Disregarded due to advantage
-2-22,3:13:54,Caleb,History,13,5,,,,With advantage
-2-22,3:22:16,Jester,Healing,12,,,,,"Cure Wounds (1st), Beau heals 12 points"
-2-22,3:22:16,Jester,Healing,12,Unknown,,,,"Cure Wounds (1st), Caleb heals 12 points"
-2-23,0:15:00,Caleb,Survival,15,12,,,,
-2-23,0:16:34,Molly,Nature,3,3,,,,
-2-23,0:16:46,Beau,Perception,10,7,,,,
-2-23,0:17:06,Nott,Investigation,8,2,,,,
-2-23,0:19:07,Caleb,Survival,9,6,,,,
-2-23,0:23:50,Nott,Stealth,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,0:23:50,Nott,Stealth,22,13,,,,With advantage
-2-23,0:26:54,Nott,Intelligence,11,8,,,,
-2-23,0:28:35,Nott,Stealth,35,16,,,,With advantage
-2-23,0:28:35,Nott,Stealth,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,0:29:49,Nott,Damage,2,,,2 to Troll,,Dynamite
-2-23,0:30:22,Nott,Dexterity Save,11,4,,3 (6/2) to Nott,,
-2-23,0:31:24,Caleb,Initiative,Nat20,20,,,,
-2-23,0:31:25,Nott,Initiative,20,16,,,,
-2-23,0:31:48,Molly,Initiative,19,16,,,,
-2-23,0:31:54,Beau,Initiative,14,10,,,,
-2-23,0:31:55,Yasha,Initiative,12,10,,,,
-2-23,0:32:02,Jester,Initiative,7,3,,,,
-2-23,0:32:07,Fjord,Initiative,4,4,,,,
-2-23,0:32:27,Caleb,Spell Attack,Nat20,20,Y,,,Fire Bolt
-2-23,0:32:43,Caleb,Damage,11,,,22 (11x2) Fire to Troll,,
-2-23,0:33:27,Nott,Attack,9,2,,,,Hand Crossbow with disadvantage
-2-23,0:33:27,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-23,0:33:45,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-23,0:33:45,Nott,Attack,13,6,,,,Hand Crossbow with disadvantage
-2-23,0:35:45,Beau,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-23,0:35:45,Beau,Attack,19,12,,,,Throwing Star with disadvantage
-2-23,0:35:54,Beau,Attack,Nat20,20,Y,,,Disregarded due to disadvantage
-2-23,0:35:54,Beau,Attack,14,7,,,,Throwing Star with disadvantage
-2-23,0:36:03,Beau,Damage,4,,,4 to Troll,,
-2-23,0:37:47,Jester,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,0:37:47,Jester,Spell Attack,25,19,,,,Spiritual Weapon with advantage
-2-23,0:37:56,Jester,Damage,12,,,12 Force to Troll,,
-2-23,0:38:39,Jester,Damage,14,,,14 Necrotic to Troll,,Toll the Dead
-2-23,0:39:08,Fjord,Spell Attack,10,3,,,,Eldritch Blast with disadvantage
-2-23,0:38:08,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-23,0:39:12,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-23,0:39:12,Fjord,Spell Attack,19,12,,,,Eldritch Blast with disadvantage
-2-23,0:39:20,Fjord,Damage,11,,,11 (7 + 4 Necrotic to Troll),,
-2-23,0:39:50,Caleb,Dexterity,7,6,,,,
-2-23,0:41:12,Beau,Constitution Save,16,13,,9 (18/2) Poison to Beau,,Against Venom Spray
-2-23,0:41:18,Yasha,Constitution Save,11,6,,18 Poison to Yasha,,Against Venom Spray
-2-23,0:42:43,Caleb,Damage,11,,,11 to Troll,,Magic Missile
-2-23,0:42:56,Nott,Attack,11,4,,,,Hand Crossbow
-2-23,0:43:29,Nott,Attack,26,19,,,,Hand Crossbow
-2-23,0:43:37,Nott,Damage,6,,,6 to Troll,,
-2-23,0:45:04,Molly,Athletics,4,4,,,,
-2-23,0:46:16,Beau,Dexterity,8,4,,,,
-2-23,0:47:47,Yasha,Dexterity,7,5,,,,
-2-23,0:48:30,Yasha,Constitution Save,17,12,,,,"Against Poisoned, Yasha is no longer poisoned"
-2-23,0:48:30,Jester,Spell Attack,14,7,,,,Spiritual Weapon
-2-23,0:49:22,Jester,Spell Attack,10,3,,,,Guiding Bolt (3rd)
-2-23,0:50:16,Fjord,Spell Attack,16,9,,,,Witch Bolt (3rd)
-2-23,0:50:28,Fjord,Damage,20,,,20 (18 Lightning + 2 Necrotic) to Troll,,
-2-23,0:51:54,Molly,Attack,11,5,,,,Summer's Dance
-2-23,0:51:55,Molly,Attack,19,13,,,,Summer's Dance
-2-23,0:52:06,Molly,Damage,10,,,10 to Troll,,
-2-23,0:52:37,Molly,Attack,Nat20,20,Y,,,Summer's Dance AoO
-2-23,0:53:09,Molly,Damage,21,,,21 to Troll,,
-2-23,0:56:00,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,0:56:00,Fjord,Constitution Save,11,6,,,,Concentration with advantage
-2-23,0:56:04,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,0:56:04,Fjord,Constitution Save,Unknown,Unknown,,,,Concentration with advantage
-2-23,0:56:49,Nott,Attack,Unknown,Unknown,,,,Hand Crossbow SA
-2-23,0:56:49,Nott,Damage,17,,,17 to Troll,,
-2-23,0:57:30,Nott,Attack,Unknown,Unknown,,,,Hand Crossbow
-2-23,0:57:36,Nott,Damage,6,,,6 to Troll,,
-2-23,0:58:41,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,0:58:41,Molly,Attack,20,14,,,,Summer's Dance with advantage
-2-23,0:58:53,Molly,Damage,9,,,9 to Troll,1,HDYWTDT
-2-23,1:00:04,Molly,Damage,2,,,,,Disregarded
-2-23,1:00:05,Fjord,Constitution Save,20,15,,,,Disregarded
-2-23,1:01:08,Jester,Healing,6,,,,,"Cure Wounds (1st), Fjord heals 6 points, is conscious"
-2-23,1:01:22,Molly,Perception,12,9,,,,
-2-23,1:07:55,Caleb,Spell Attack,20,12,,,,Glove of Scorching Ray
-2-23,1:08:02,Caleb,Spell Attack,18,10,,,,Glove of Scorching Ray
-2-23,1:08:03,Caleb,Spell Attack,20,12,,,,Glove of Scorching Ray
-2-23,1:08:07,Nott,Attack,22,15,,,,Hand Crossbow
-2-23,1:08:13,Nott,Damage,5,,,5 to Troll,,
-2-23,1:08:25,Caleb,Damage,27,,,27 Fire to Troll,1,HDYWTDT
-2-23,1:09:07,Caleb,Wisdom Save,11,5,,,,
-2-23,1:09:43,Fjord,Death Save,19,19,,,,Fjord succeeds one death save
-2-23,1:09:56,Jester,Healing,11,,,,,"Cure Wounds (1st), Fjord heals 11 points, is conscious"
-2-23,1:11:04,Jester,Medicine,12,5,,,,
-2-23,1:12:25,Molly,Investigation,10,10,,,,
-2-23,1:12:29,Nott,Investigation,20,14,,,,
-2-23,1:13:34,Jester,Investigation,13,12,,,,
-2-23,1:14:21,Jester,Medicine,10,3,,,,
-2-23,1:16:20,Molly,Healing,Unknown,Unknown,,,,Hit Dice
-2-23,1:16:44,Yasha,Healing,Unknown,Unknown,,,,Hit Dice
-2-23,1:16:47,Fjord,Healing,39,,,,,"Hit Dice, Fjord heals 39 points"
-2-23,1:16:50,Beau,Healing,Unknown,Unknown,,,,Hit Dice
-2-23,1:29:27,Jester,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,1:29:27,Jester,Persuasion,22,18,,,,With advantage
-2-23,1:38:46,Jester,Deception,20,16,,,,
-2-23,1:41:45,Nott,Stealth,14,5,,,,
-2-23,1:42:21,Fjord,Persuasion,9,5,,,,
-2-23,1:43:30,Caleb,Persuasion,9,6,,,,
-2-23,1:44:32,Caleb,Perception,9,6,,,,
-2-23,1:45:52,Yasha,Intimidation,0,2,,,,With CHA mod
-2-23,1:50:58,Molly,Arcana,Nat20,20,,,,
-2-23,1:53:14,Fjord,Wisdom Save,18,16,,,,
-2-23,1:54:34,Fjord,Intelligence,10,8,,,,
-2-23,2:07:14,Caleb,Investigation,13,5,,,,Disregarded due to advantage
-2-23,2:07:14,Caleb,Investigation,14,6,,,,With advantage
-2-23,2:12:02,Molly,Deception,7,4,,,,
-2-23,2:12:02,Jester,Sleight of Hand,20,14,,,,
-2-23,2:17:15,Nott,Insight,18,15,,,,
-2-23,2:17:15,Jester,Insight,13,9,,,,
-2-23,2:17:19,Molly,Insight,14,8,,,,
-2-23,2:25:15,Fjord,Perception,16,15,,,,
-2-23,2:25:17,Caleb,Perception,5,2,,,,
-2-23,2:26:06,Molly,Perception,20,17,,,,
-2-23,2:26:09,Jester,Perception,17,13,,,,
-2-23,2:28:43,Caleb,Perception,13,10,,,,
-2-23,2:37:17,Molly,Persuasion,9,9,,,,
-2-23,2:42:43,Jester,Perception,15,11,,,,
-2-23,2:43:46,Caleb,Perception,17,14,,,,
-2-23,2:48:04,Beau,Perception,Unknown,Unknown,,,,
-2-23,2:48:11,Yasha,Perception,15,,,,,
-2-23,2:50:28,Nott,Perception,6,6,,,,
-2-23,2:50:28,Caleb,Perception,13,10,,,,
-2-23,2:51:35,Nott,Stealth,Nat1,1,,,,
-2-23,2:52:11,Nott,Perception,12,12,,,,
-2-23,2:52:16,Frumpkin,Perception,5,2,,,,
-2-23,2:53:37,Nott,Perception,13,13,,,,
-2-23,2:54:36,Nott,Perception,15,15,,,,
-2-23,2:56:34,Nott,Perception,6,6,,,,
-2-23,2:57:00,Jester,Stealth,Nat20,20,,,,
-2-23,2:57:00,Molly,Stealth,Nat1,1,,,,
-2-23,2:57:00,Yasha,Stealth,16,,,,,
-2-23,2:57:00,Caleb,Stealth,14,13,,,,
-2-23,2:57:00,Beau,Stealth,14,7,,,,
-2-23,2:57:00,Fjord,Stealth,4,4,,,,
-2-23,3:00:59,Fjord,Perception,14,13,,,,
-2-23,3:01:42,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,3:01:42,Beau,Attack,16,9,,,,Unarmed Strike
-2-23,3:01:53,Beau,Damage,12,,,12 to Bandit,,
-2-23,3:02:16,Beau,Attack,Nat20,20,,,,"Unarmed Strike, Bandit goes unconscious"
-2-23,3:03:17,Nott,Attack,13,6,,,,Hand Crossbow
-2-23,3:03:25,Nott,Damage,8,,,8 to Bandit,,
-2-23,3:04:04,Jester,Persuasion,Nat1,1,,,,
-2-23,3:05:14,Caleb,Investigation,15,7,,,,
-2-23,3:05:22,Beau,Investigation,Nat20,20,,,,
-2-23,3:08:22,Caleb,Deception,Unknown,Unknown,,,,Disregarded due to advantage
-2-23,3:08:22,Caleb,Deception,Nat20,20,,,,
-2-23,3:18:14,Jester,Perception,13,9,,,,
-2-23,3:24:19,Beau,Perception,14,7,,,,
-2-23,3:25:03,Beau,History,5,3,,,,Disregarded due to advantage
-2-23,3:25:03,Beau,History,9,7,,,,With advantage
-2-23,3:26:43,Nott,Perception,13,13,,,,
-2-23,3:26:56,Yasha,Perception,18,,,,,
-2-23,3:30:19,Fjord,Deception,16,9,,,,
-2-24,0:15:16,Beau,Perception,9,6,,,,
-2-24,0:16:21,Fjord,Perception,15,14,,,,
-2-24,0:21:30,Caleb,Spell Attack,26,19,,,,Fire Bolt
-2-24,0:22:53,Nott,Intelligence,18,15,,,,With advantage
-2-24,0:22:53,Nott,Intelligence,Unknown,Unknown,,,,Disregarded due to advantage
-2-24,0:28:01,Jester,Performance,8,7,,,,
-2-24,0:30:19,Beau,Charisma,8,7,,,,
-2-24,0:30:19,Molly,Charisma,6,6,,,,
-2-24,0:40:54,Molly,Intimidation,4,4,,,,
-2-24,0:42:04,Nott,Sleight of Hand,27,17,,,,
-2-24,0:48:23,Beau,Dexterity,Nat1,1,,,,
-2-24,1:05:06,Nott,Insight,20,17,,,,
-2-24,1:08:38,Molly,Investigation,2,2,,,,
-2-24,1:09:00,Caleb,Perception,19,16,,,,
-2-24,1:20:05,Caleb,Perception,16,13,,,,
-2-24,1:20:56,Jester,Investigation,15,14,,,,
-2-24,1:23:42,Jester,Insight,22,18,,,,
-2-24,1:38:08,Molly,Constitution,12,10,,,,
-2-24,1:39:02,Molly,Constitution,8,6,,,,
-2-24,1:39:18,Molly,Constitution,20,18,,,,
-2-24,1:39:43,Molly,Constitution,19,17,,,,
-2-24,1:41:16,Jester,Persuasion,21,17,,,,
-2-24,1:41:16,Beau,Constitution,16,13,,,,
-2-24,1:41:56,Beau,Constitution,21,18,,,,
-2-24,1:42:19,Beau,Constitution,7,4,,,,
-2-24,1:42:39,Beau,Constitution,19,16,,,,
-2-24,1:43:43,Beau,Constitution,9,6,,,,
-2-24,1:44:19,Beau,Constitution,5,2,,,,
-2-24,1:46:20,Caleb,Constitution,21,19,,,,
-2-24,1:46:50,Caleb,Constitution,5,3,,,,
-2-24,1:47:32,Jester,Performance,19,18,,,,
-2-24,1:47:35,Nott,Performance,12,15,,,,
-2-24,1:47:44,Caleb,Constitution,13,11,,,,
-2-24,1:48:15,Caleb,Constitution,14,12,,,,
-2-24,1:48:42,Caleb,Constitution,Nat20,20,,,,
-2-24,1:50:23,Fjord,Constitution,16,12,,,,
-2-24,1:50:46,Fjord,Constitution,13,9,,,,
-2-24,1:51:37,Fjord,Constitution,8,4,,,,
-2-24,1:51:55,Fjord,Constitution,Nat20,20,,,,
-2-24,1:52:22,Fjord,Constitution,Nat20,20,,,,
-2-24,1:55:42,Nott,Constitution,5,3,,,,Disregarded due to Fragment of Possibility
-2-24,1:55:42,Nott,Constitution,17,15,,,,With Fragment of Possibility
-2-24,1:56:39,Nott,Constitution,18,16,,,,
-2-24,1:57:39,Nott,Constitution,14,12,,,,
-2-24,1:58:33,Nott,Constitution,21,19,,,,
-2-24,2:04:00,Caleb,Performance,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-24,2:04:00,Caleb,Performance,5,2,,,,With disadvantage
-2-24,2:07:50,Beau,Constitution Save,6,3,,,,
-2-24,2:07:45,Molly,Damage,Unknown,Unknown,,Unknown to Molly,,Blood Curse of Purgation (amplified)
-2-24,2:11:19,Jester,Investigation,16,15,,,,
-2-24,2:23:40,Beau,Insight,12,6,,,,
-2-24,2:27:42,Beau,Charisma Save,16,15,,,,
-2-24,2:43:15,Fjord,Persuasion,20,16,,,,
-2-24,2:57:26,Beau,Intimidation,13,12,,,,
-2-24,2:57:28,Fjord,Intimidation,16,9,,,,
-2-24,3:08:43,Fjord,Perception,8,7,,,,
-2-24,3:11:29,Beau,Acrobatics,25,18,,,,
-2-24,3:12:00,Beau,Perception,14,11,,,,
-2-24,3:24:17,Jester,Insight,Unknown,Unknown,,,,
-2-25,0:29:19,Nott,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-25,0:29:19,Nott,Perception,7,7,,,,With disadvantage
-2-25,0:33:41,Caleb,Intelligence,Nat1,1,,,,
-2-25,0:33:48,Molly,Intelligence,8,6,,,,
-2-25,0:48:35,Nott,Perception,18,18,,,,
-2-25,0:51:42,Nott,Investigation,10,4,,,,
-2-25,0:54:49,Molly,Acrobatics,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,0:54:49,Molly,Acrobatics,10,4,,,,With advantage
-2-25,0:55:39,Molly,Performance,Nat20,20,,,,Disregarded due to disadvantage
-2-25,0:55:39,Molly,Performance,15,15,,,,With disadvantage
-2-25,0:57:18,Molly,Acrobatics,Nat20,20,,,,
-2-25,0:57:56,Molly,Deception,9,6,,,,
-2-25,1:00:18,Nott,Sleight of Hand,19,9,,,,
-2-25,1:03:39,Beau,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,1:03:39,Beau,Persuasion,13,12,,,,With advantage
-2-25,1:11:53,Molly,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,1:11:53,Molly,Persuasion,8,8,,,,With advantage
-2-25,1:19:12,Molly,Perception,15,12,,,,
-2-25,1:28:56,Nott,Thieves' Tools,14,7,,,,
-2-25,1:29:15,Nott,Perception,4,4,,,,
-2-25,1:30:38,Caleb,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,1:30:38,Caleb,Perception,19,16,,,,With advantage
-2-25,1:32:10,Molly,Perception,16,13,,,,
-2-25,1:34:35,Caleb,Intelligence,15,10,,,,
-2-25,1:35:18,Beau,Perception,7,4,,,,
-2-25,1:40:07,Frumpkin,Stealth,19,15,,,,
-2-25,1:42:11,Beau,Stealth,15,8,,,,
-2-25,1:44:11,Nott,Dexterity Save,21,14,,,,
-2-25,1:44:18,Beau,Dexterity Save,25,18,,,,
-2-25,1:45:08,Yasha,Initiative,19,17,,,,
-2-25,1:45:19,Fjord,Initiative,14,14,,,,
-2-25,1:45:23,Beau,Initiative,10,6,,,,
-2-25,1:45:31,Caleb,Initiative,6,5,,,,
-2-25,1:45:35,Molly,Initiative,7,4,,,,
-2-25,1:45:31,Nott,Initiative,7,3,,,,
-2-25,2:12:39,Jester,Initiative,6,2,,,,
-2-25,1:47:10,Yasha,Attack,11,4,,,,Magician's Judge
-2-25,1:47:34,Yasha,Attack,21,14,,,,Magician's Judge
-2-25,1:47:52,Yasha,Damage,16,,,16 to Gear Keeper,,
-2-25,1:49:59,Fjord,Spell Attack,15,8,,,,Eldritch Blast
-2-25,1:50:15,Fjord,Spell Attack,20,13,,,,Eldritch Blast
-2-25,1:50:39,Fjord,Damage,9,,,9 to Gear Keeper,,
-2-25,1:51:57,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,1:51:57,Yasha,Athletics,9,3,,5 (10/2) to Yasha,,With advantage
-2-25,1:53:02,Nott,Attack,18,11,,1 to Gear Keeper,,Hand Crossbow as bludgeoning weapon
-2-25,1:54:11,Nott,Dexterity Save,12,5,,25 to Nott,,Against Shrapnel Blast
-2-25,1:54:14,Beau,Dexterity Save,22,15,,12 (25/2) to Beau,,Against Shrapnel Blast
-2-25,1:55:33,Beau,Attack,9,2,,,,Staff
-2-25,1:55:45,Beau,Attack,9,2,,,,Staff
-2-25,1:56:17,Beau,Attack,17,10,,,,Unarmed Strike
-2-25,1:57:26,Nott,Perception,17,17,,,,
-2-25,2:00:10,Molly,Attack,Nat20,20,Y,,,Summer's Dance
-2-25,2:00:27,Molly,Damage,18,,,18 to Gear Keeper,,
-2-25,2:00:46,Molly,Attack,12,5,,,,Summer's Dance
-2-25,2:01:18,Molly,Attack,14,8,,,,Scimitar
-2-25,2:03:57,Caleb,Damage,5,,,5 to Gear Keeper,,Maximilian's Earthen Grasp
-2-25,2:04:53,Jester,Spell Attack,15,12,,,,Spiritual Weapon
-2-25,2:05:50,Jester,Spell Attack,26,19,,,,Guiding Bolt
-2-25,2:06:11,Jester,Damage,14,,,14 to Gear Keeper,,
-2-25,2:07:46,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:07:46,Yasha,Attack,22,15,,,,Magician's Judge with advantage
-2-25,2:08:08,Yasha,Damage,16,,,16 to Gear Keeper,,Gear Keeper AC lowered to 17
-2-25,2:08:43,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:08:43,Yasha,Attack,25,18,,,,Magician's Judge with advantage
-2-25,2:08:55,Yasha,Damage,11,,,11 to Gear Keeper,,
-2-25,2:09:57,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:09:57,Fjord,Attack,25,18,,,,Wastehunter Falchion with advantage
-2-25,2:10:25,Fjord,Damage,13,,,13 to Gear Keeper,,
-2-25,2:10:48,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:10:48,Fjord,Attack,23,16,,,,Wastehunter Falchion with advantage
-2-25,2:11:01,Fjord,Damage,13,,,13 to Gear Keeper,,
-2-25,2:13:55,Caleb,Constitution Save,5,3,,,,Concentration
-2-25,2:15:57,Beau,Attack,11,4,,,,Disregarded due to advantage
-2-25,2:15:57,Beau,Attack,18,11,,,,Staff with advantage
-2-25,2:16:09,Beau,Damage,8,,,4 (8/2) to Gear Keeper,,
-2-25,2:17:34,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:17:34,Beau,Attack,24,17,,,,Staff with advantage
-2-25,2:17:44,Beau,Damage,10,,,5 (10/2) to Gear Keeper,,
-2-25,2:18:43,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:18:43,Beau,Attack,22,15,,,,Unarmed Strike with advantage
-2-25,2:18:50,Beau,Damage,5,,,2 (5/2) to Gear Keeper,,
-2-25,2:19:28,Nott,Attack,22,15,,,,Hand Crossbow
-2-25,2:19:39,Nott,Damage,8,,,6 (13/2) to Gear Keeper,,With Fury of the Small
-2-25,2:20:27,Nott,Attack,14,7,,,,Hand Crossbow
-2-25,2:21:06,Molly,Attack,Unknown,Unknown,,,,Summer's Dance
-2-25,2:21:15,Molly,Attack,19,12,,,,Summer's Dance
-2-25,2:21:32,Molly,Damage,12,,,12 to Gear Keeper,,
-2-25,2:21:44,Molly,Attack,Nat20,20,Y,,,Scimitar
-2-25,2:22:05,Molly,Damage,16,,,11 [5 (10/2) Slashing + 6 Cold] to Gear Keeper,,Gear Keeper AC lowered to 16
-2-25,2:24:46,Jester,Healing,7,,,,,"Healing Word (1st), Caleb heals 7 points"
-2-25,2:26:10,Jester,Damage,17,,,17 Necrotic to Gear Keeper,,Toll the Dead
-2-25,2:27:33,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:27:33,Yasha,Attack,19,12,,,,Magician's Judge with advantage
-2-25,2:27:46,Yasha,Damage,17,,,17 to Gear Keeper,,
-2-25,2:28:05,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:28:05,Yasha,Attack,22,15,,,,Magician's Judge with advantage
-2-25,2:28:13,Yasha,Damage,16,,,16 to Gear Keeper,,
-2-25,2:29:33,Fjord,Attack,25,17,,,,Wastehunter Falchion
-2-25,2:29:33,Fjord,Attack,22,14,,,,Wastehunter Falchion
-2-25,2:29:49,Fjord,Damage,13,,,13 to Gear Keeper,,
-2-25,2:29:52,Fjord,Damage,13,,,13 to Gear Keeper,,
-2-25,2:31:31,Beau,Attack,24,17,,,,Staff aoO
-2-25,2:31:43,Beau,Damage,12,,,6 (12/2) to Gear Keeper,,
-2-25,2:32:16,Molly,Attack,24,17,,,,Summer's Dance AoO
-2-25,2:32:24,Molly,Damage,9,,,9 to Gear Keeper,,
-2-25,2:33:14,Caleb,Dexterity Save,20,19,,13 (27/2) to Caleb,,Against Shrapnel Blast
-2-25,2:33:17,Beau,Dexterity Save,14,7,,27 to Beau,,"Against Shrapnel Blast, Beau is unconscious"
-2-25,2:33:24,Molly,Dexterity Save,22,19,,13 (27/2) to Molly,,Against Shrapnel Blast
-2-25,2:33:40,Fjord,Dexterity Save,17,16,,13 (27/2) to Fjord,,Against Shrapnel Blast
-2-25,2:33:42,Jester,Dexterity Save,10,6,,27 to Jester,,Against Shrapnel Blast
-2-25,2:35:35,Caleb,Constitution Save,12,10,,,,Concentration
-2-25,2:36:01,Beau,Death Save,14,14,,,,Beau succeeds one death save
-2-25,2:36:22,Nott,Attack,25,18,,,,Hand Crossbow SA
-2-25,2:36:30,Nott,Damage,10,,,5 (10/2) to Gear Keeper,,
-2-25,2:36:56,Nott,Attack,23,16,,,,Hand Crossbow
-2-25,2:37:01,Nott,Damage,6,,,3 (6/2) to Gear Keeper,,
-2-25,2:38:23,Molly,Attack,22,15,,,,Summer's Dance
-2-25,2:38:28,Molly,Damage,12,,,12 to Gear Keeper,,
-2-25,2:38:38,Molly,Attack,24,17,,,,Summer's Dance
-2-25,2:38:45,Molly,Damage,10,,,10 to Gear Keeper,1,HDYWTDT
-2-25,2:41:34,Jester,Healing,12,,,,,"Cure Wounds (1st), Beau heals 12 points, is conscious"
-2-25,2:41:38,Jester,Healing,10,,,,,"Cure Wounds (1st), Caleb heals 10 points"
-2-25,2:41:46,Nott,Thieves' Tools,13,6,,,,
-2-25,2:42:15,Molly,Strength,8,8,,,,
-2-25,2:42:38,Yasha,Strength,Unknown,Unknown,,,,
-2-25,2:42:59,Nott,Thieves' Tools,26,19,,,,
-2-25,2:43:59,Beau,Investigation,12,7,,,,
-2-25,2:44:43,Nott,Investigation,Nat1,1,,,,
-2-25,2:45:13,Caleb,Healing,Unknown,,,,,Hit dice
-2-25,2:45:26,Beau,Healing,Unknown,,,,,Hit dice
-2-25,2:45:29,Yasha,Investigation,11,,,,,
-2-25,2:52:15,Molly,Insight,8,2,,,,
-2-25,2:52:25,Beau,Deception,Unknown,Unknown,,,,
-2-25,2:52:58,Nott,Investigation,12,6,,,,Nott regains Burning Bolt
-2-25,2:56:18,Molly,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
-2-25,2:56:18,Molly,Persuasion,6,6,,,,With advantage
-2-25,3:28:13,Nott,Perception,14,14,,,,
-2-25,3:28:48,Nott,Sleight of Hand,22,12,,,,
-2-25,3:30:49,Nott,Perception,9,9,,,,
-2-25,3:30:49,Caleb,Perception,8,5,,,,
-2-25,3:34:22,Yasha,Wisdom Save,11,12,,,,Against Hold Person
-2-25,3:35:22,Yasha,Wisdom Save,Nat20,20,,,,Against Hold Person
-2-25,3:35:57,Jester,Strength,10,7,,,,
-2-25,3:36:23,Yasha,Attack,25,18,,,,Magician's Judge
-2-25,3:36:31,Yasha,Damage,18,,,18 to Attacker,,
-2-25,3:36:51,Yasha,Attack,9,2,,,,Magician's Judge
-2-25,3:37:11,Yasha,Athletics,13,7,,,,
-2-25,3:37:40,Yasha,Wisdom Save,3,4,,,,Against Hold Person
-2-25,3:38:31,Yasha,Athletics,25,19,,,,
-2-25,3:38:58,Yasha,Wisdom Save,17,18,,,,Against Hold Person
-2-25,3:39:11,Yasha,Athletics,8,2,,,,
-2-26,0:21:05,Caleb,Perception,9,6,,,,
-2-26,0:14:29,Nott,Investigation,8,2,,,,
-2-26,0:15:00,Molly,Investigation,2,2,,,,
-2-26,0:15:50,Beau,Investigation,Nat1,1,,,,
-2-26,0:17:13,Caleb,Perception,Nat20,20,,,,
-2-26,0:19:23,Nott,Survival,12,9,,,,
-2-26,0:21:45,Nott,Survival,14,11,,,,
-2-26,0:22:43,Molly,Perception,14,11,,,,
-2-26,0:24:20,Beau,Stealth,12,5,,,,
-2-26,0:25:58,Keg,Perception,18,16,,,,
-2-26,0:40:15,Beau,History,Nat1,1,,,,
-2-26,0:51:53,Beau,Perception,18,15,,,,
-2-26,0:53:31,Beau,Survival,12,9,,,,
-2-26,0:54:20,Keg,Survival,Nat1,1,,,,
-2-26,0:58:58,Nott,Investigation,18,12,,,,
-2-26,0:59:04,Keg,Investigation,3,4,,,,
-2-26,0:59:05,Molly,Investigation,2,2,,,,
-2-26,1:01:54,Nott,Perception,13,10,,,,
-2-26,1:01:54,Molly,Perception,14,11,,,,
-2-26,1:01:54,Keg,Perception,19,17,,,,
-2-26,1:01:58,Beau,Perception,16,13,,,,
-2-26,1:08:46,Keg,Initiative,Nat1,1,,,,
-2-26,1:08:51,Beau,Initiative,20,16,,,,
-2-26,1:08:56,Molly,Initiative,16,13,,,,
-2-26,1:09:00,Nott,Initiative,10,6,,,,
-2-26,1:09:07,Caleb,Initiative,3,2,,,,
-2-26,1:09:58,Beau,Attack,15,8,,,,Staff
-2-26,1:11:09,Beau,Damage,5,,,5 to Ankheg 1,,
-2-26,1:11:21,Beau,Attack,21,14,,,,Staff
-2-26,1:11:37,Beau,Damage,12,,,12 to Ankheg 1,,
-2-26,1:12:44,Beau,Attack,13,6,,,,Unarmed Strike with advantage
-2-26,1:12:44,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-26,1:14:17,Molly,Attack,Nat1,1,,,,Disregarded due to advantage
-2-26,1:14:17,Molly,Attack,25,18,,,,Summer's Dance with advantage
-2-26,1:14:25,Molly,Damage,13,,,13 (10 + 3 Radiant) to Ankheg 1,,
-2-26,1:14:41,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-26,1:14:41,Molly,Attack,19,12,,,,Summer's Dance with advantage
-2-26,1:14:48,Molly,Damage,11,,,11 (9 + 2 Radiant) to Ankheg 1,1,
-2-26,1:18:13,Caleb,Dexterity Save,Nat20,20,,,,Disregarded
-2-26,1:18:19,Molly,Dexterity Save,22,19,,7 (14/2) Acid to Molly,,Against Acid Spray
-2-26,1:18:58,Molly,Dexterity Save,11,8,,14 Acid to Molly,,Against Acid Spray
-2-26,1:19:30,Caleb,Dexterity Save,3,2,,14 Acid to Caleb,,Against Acid Spray
-2-26,1:19:30,Beau,Dexterity Save,Nat1,1,,14 Acid to Beau,,Against Acid Spray
-2-26,1:20:52,Keg,Acrobatics,Nat20,20,,,,
-2-26,1:21:17,Keg,Attack,17,10,,,,Warhammer
-2-26,1:21:20,Keg,Attack,25,18,,,,Battleaxe
-2-26,1:21:27,Keg,Damage,6,,,6 to Ankheg 2,,
-2-26,1:21:29,Keg,Damage,12,,,12 to Ankheg 2,,
-2-26,1:21:38,Keg,Attack,15,8,,,,Warhammer
-2-26,1:21:44,Keg,Damage,9,,,9 to Ankheg 2,,
-2-26,1:22:14,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-26,1:22:14,Nott,Attack,12,4,,,,Tinkertop Boltblaster 1000
-2-26,1:23:20,Beau,Attack,15,8,,,,Staff
-2-26,1:23:36,Beau,Damage,9,,,9 to Ankheg 3,,
-2-26,1:23:44,Beau,Attack,16,9,,,,Staff
-2-26,1:23:50,Beau,Damage,11,,,11 to Ankheg 3,,
-2-26,1:23:56,Beau,Attack,21,14,,,,Staff
-2-26,1:24:00,Beau,Damage,7,,,7 to Ankheg 3,,
-2-26,1:24:18,Beau,Attack,26,19,,,,Unarmed Stirke
-2-26,1:24:18,Beau,Attack,9,2,,,,Unarmed Stirke
-2-26,1:24:25,Beau,Damage,10,,,10 to Ankheg 3,1,
-2-26,1:26:01,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-26,1:26:01,Molly,Attack,25,18,,,,Summer's Dance with advantage
-2-26,1:26:09,Molly,Damage,14,,,14 to Ankheg 2,,
-2-26,1:26:17,Molly,Attack,26,19,,,,Summer's Dance with advantage
-2-26,1:26:17,Molly,Attack,Nat1,1,,,,Disregarded due to advantage
-2-26,1:26:25,Molly,Damage,14,,,14 to Ankheg 2,1,
-2-26,1:28:20,Nott,Stealth,Nat20,20,,,,
-2-26,1:29:53,Keg,Attack,Unknown,Unknown,,,,Warhammer
-2-26,1:29:57,Keg,Attack,Unknown,Unknown,,,,Warhammer
-2-26,1:30:00,Keg,Damage,9,,,9 to Ankheg 4,,
-2-26,1:30:04,Keg,Attack,Unknown,Unknown,,,,Battleaxe
-2-26,1:30:07,Keg,Damage,7,,,7 to Ankheg 4,,
-2-26,1:31:25,Caleb,Damage,4,,,4 to Ankheg 4,,Magic Missile
-2-26,1:31:29,Caleb,Damage,2,,,2 to Ankheg 4,,Magic Missile
-2-26,1:31:31,Caleb,Damage,4,,,4 to Ankheg 4,,Magic Missile
-2-26,1:32:08,Beau,Attack,13,6,,,,Staff
-2-26,1:32:23,Beau,Attack,18,11,,,,Staff
-2-26,1:32:31,Beau,Damage,15,,,15 to Ankheg 4,1,HDYWTDT
-2-26,1:34:13,Molly,Medicine,9,6,,,,
-2-26,1:34:27,Keg,Medicine,13,,,,,
-2-26,1:35:22,Nott,Medicine,3,3,,,,
-2-26,1:39:01,Beau,Nature,12,10,,,,
-2-26,1:42:13,Beau,Medicine,Nat20,20,,,,
-2-26,1:43:52,Nott,Dexterity,16,12,,,,
-2-26,1:45:04,Keg,Dexterity,15,13,,,,
-2-26,1:46:47,Beau,Dexterity,24,17,,,,
-2-26,1:47:34,Beau,Perception,17,14,,,,
-2-26,1:50:07,Molly,Perception,Nat20,20,,,,
-2-26,1:50:07,Caleb,Perception,16,13,,,,
-2-26,1:56:17,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-26,1:56:17,Frumpkin,Perception,14,11,,,,With disadvantage
-2-26,2:01:12,Beau,Stealth,11,4,,,,
-2-26,2:01:12,Nott,Stealth,16,6,,,,
-2-26,2:01:50,Molly,Hit Dice,Unknown,Unknown,,,,
-2-26,2:02:02,Caleb,Stealth,10,9,,,,
-2-26,2:02:17,Keg,Stealth,Nat20,20,,,,Disregarded due to disadvantage
-2-26,2:02:17,Keg,Stealth,Nat20,20,,,,With disadvantage
-2-26,2:03:11,Molly,Stealth,12,9,,,,
-2-26,2:04:12,Beau,Wisdom Save,15,12,,,,
-2-26,2:05:02,Beau,Persuasion,18,17,,,,
-2-26,2:11:36,Keg,Insight,15,,,,,
-2-26,#VALUE!,Keg,Perception,16,14,,,,
-2-26,2:20:44,Molly,Sleight of Hand,8,2,,,,
-2-26,2:27:49,Caleb,Perception,7,9,,,,"With advantage, minus five"
-2-26,2:27:49,Caleb,Perception,Nat1,1,,,,Disregarded due to disadvantage
-2-26,2:30:11,Keg,Constitution Save,Nat20,20,,,,
-2-26,2:30:19,Molly,Constitution Save,21,19,,,,
-2-26,2:30:22,Nott,Constitution Save,13,11,,,,
-2-26,2:30:23,Beau,Constitution Save,18,15,,,,
-2-26,2:30:24,Caleb,Constitution Save,8,6,,,,Caleb takes 1 point of exhaustion
-2-26,2:31:15,Beau,Perception,9,6,,,,
-2-26,2:32:20,Frumpkin,Perception,5,2,,,,
-2-26,2:33:02,Nott,Perception,13,13,,,,
-2-26,2:33:03,Keg,Perception,10,8,,,,
-2-26,2:39:27,Beau,Perception,13,10,,,,
-2-26,2:39:28,Molly,Perception,9,6,,,,
-2-26,2:40:51,Beau,Other,Nat20,20,,,,Card Game
-2-26,2:40:53,Molly,Other,17,17,,,,Card Game
-2-26,2:43:36,Caleb,Perception,Unknown,Unknown,,,,
-2-26,2:44:04,Frumpkin,Perception,11,8,,,,Disregarded due to advantage
-2-26,2:44:04,Frumpkin,Perception,13,10,,,,With advantage
-2-26,2:49:11,Molly,Perception,Nat20,20,,,,Minus five
-2-26,2:50:10,Keg,Perception,17,15,,,,
-2-26,2:52:33,Keg,Perception,15,13,,,,
-2-26,2:54:54,Keg,Wisdom Save,9,7,,,,
-2-26,3:00:11,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-26,3:00:11,Frumpkin,Perception,20,17,,,,With advantage
-2-26,3:06:25,Beau,Stealth,20,13,,,,
-2-26,3:06:26,Nott,Stealth,19,9,,,,
-2-26,3:07:06,Nott,Constitution Save,12,10,,,,
-2-26,3:07:07,Keg,Constitution Save,15,8,,,,
-2-26,3:07:12,Beau,Constitution Save,5,2,,,,Beau takes 1 point of exhaustion
-2-26,3:07:30,Molly,Constitution Save,18,16,,,,
-2-26,3:07:35,Caleb,Constitution Save,6,4,,,,Caleb takes 1 point of exhaustion
-2-26,3:08:54,Keg,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-26,3:08:54,Keg,Perception,7,5,,,,With disadvantage
-2-26,3:17:46,Nott,Acrobatics,11,4,,,,
-2-26,3:17:47,Molly,Athletics,7,7,,,,
-2-26,3:26:09,Keg,Athletics,19,,,,,
-2-26,3:28:56,Keg,Athletics,15,,,,,
-2-26,3:44:59,Keg,Strength,18,14,,,,
-2-26,3:46:09,Keg,Stealth,12,,,,,
-2-26,3:46:09,Caleb,Stealth,19,18,,,,
-2-26,3:46:09,Beau,Stealth,20,13,,,,
-2-26,3:46:09,Nott,Stealth,18,8,,,,
-2-26,3:46:09,Molly,Stealth,20,17,,,,
-2-26,3:47:54,Nott,Initiative,21,17,,,,
-2-26,3:47:55,Beau,Initiative,20,16,,,,
-2-26,3:48:09,Molly,Initiative,18,15,,,,
-2-26,3:48:11,Caleb,Initiative,14,13,,,,
-2-26,3:48:44,Keg,Initiative,8,6,,,,
-2-26,3:53:46,Beau,Attack,23,16,,,,Staff
-2-26,3:54:17,Beau,Damage,8,,,8 to Dwelma,,
-2-26,3:54:37,Beau,Attack,20,13,,,,Staff
-2-26,3:54:46,Beau,Damage,8,,,8 to Dwelma,,
-2-26,3:58:14,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-26,3:58:14,Molly,Attack,25,18,,,,Summer's Dance with advantage
-2-26,3:58:27,Molly,Damage,7,,,7 to Dwelma,,
-2-26,3:58:37,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-26,3:58:37,Molly,Attack,23,16,,,,Summer's Dance with advantage
-2-26,3:58:44,Molly,Damage,12,,,12 to Dwelma,,
-2-26,4:01:33,Molly,Damage,5,,,5 to Molly,,Amplified Blood Curse
-2-26,4:03:39,Caleb,Spell Attack,16,8,,,,Glove of Scorching Ray
-2-26,4:03:49,Caleb,Spell Attack,17,9,,,,Glove of Scorching Ray
-2-26,4:04:07,Caleb,Spell Attack,10,2,,,,Glove of Scorching Ray
-2-26,4:04:13,Caleb,Damage,10,,,10 Fire to Ruzza,,
-2-26,4:08:38,Keg,Acrobatics,5,3,,,,
-2-26,4:09:21,Keg,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-26,4:09:21,Keg,Attack,12,5,,,,Javelin with disadvantage
-2-26,4:09:43,Keg,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-26,4:09:43,Keg,Attack,Unknown,Unknown,,,,Javelin with disadvantage
-2-26,4:11:10,Beau,Attack,12,5,,,,Staff AoO
-2-26,4:11:26,Beau,Damage,5,,,5 to Dwelma,,
-2-26,4:12:35,Beau,Dexterity Save,Nat20,20,,20 (41/2) Cold to Beau,,Against Cone of Cold
-2-26,4:12:35,Molly,Dexterity Save,19,16,,20 (41/2) Cold to Molly,,Against Cone of Cold
-2-26,4:12:35,Nott,Dexterity Save,11,4,,,,Against Cone of Cold
-2-26,4:12:35,Nott,Dexterity Save,Unknown,Unknown,,20 (41/2) Cold to Nott,,Fragment of Possibility Roll
-2-26,4:14:08,Nott,Thieves' Tools,12,5,,,,
-2-26,4:14:46,Nott,Strength,3,3,,,,
-2-26,4:15:26,Nott,Stealth,29,19,,,,
-2-26,4:15:59,Beau,Attack,Nat20,20,Y,,,Staff
-2-26,4:16:09,Beau,Damage,10,,,10 to Dwelma,,
-2-26,4:16:22,Beau,Attack,21,14,,,,Staff
-2-26,4:16:39,Caleb,Wisdom Save,22,16,,,,
-2-26,4:17:17,Beau,Damage,11,,,11 to Dwelma,1,
-2-26,4:18:09,Beau,Acrobatics,14,7,,,,
-2-26,4:19:33,Molly,Wisdom Save,25,19,,,,Against Hold Person
-2-26,4:19:33,Beau,Wisdom Save,21,18,,,,Against Hold Person
-2-26,4:20:33,Molly,Acrobatics,10,4,,,,
-2-26,4:20:54,Molly,Attack,Nat20,20,Y,,,Summer's Dance
-2-26,4:21:13,Molly,Damage,18,,,18 to Lorenzo,,
-2-26,4:21:25,Molly,Attack,10,3,,,,Summer's Dance
-2-26,4:21:29,Molly,Attack,10,3,,,,Scimitar
-2-26,4:22:19,Molly,Damage,4,,,4 to Molly,,"Amplified Blood Curse, Molly is unconscious"
-2-26,4:23:23,Beau,Attack,14,7,,,,Staff Reaction
-2-26,4:28:36,Keg,Persuasion,11,,,,,
-2-26,4:29:59,Nott,Thieves' Tools,Nat1,1,,,,
-2-26,4:31:39,Beau,Damage,4,,,4 Fire to Lorenzo,,
-2-26,4:31:50,Beau,Attack,12,5,,,,Staff
-2-26,4:32:03,Beau,Attack,18,11,,,,Staff
-2-26,4:32:11,Beau,Damage,6,,,6 to Lorenzo,,
-2-26,4:34:41,Beau,Damage,4,,,4 Fire to Lorenzo,,
-2-27,0:52:46,Keg,Perception,13,11,,,,
-2-27,0:54:07,Nott,Medicine,Nat12,12,,,,
-2-27,0:59:20,Keg,Perception,19,17,,,,
-2-27,1:00:22,Keg,Perception,15,13,,,,
-2-27,1:01:25,Beau,Perception,6,3,,,,
-2-27,1:02:30,Nott,Perception,Nat4,4,,,,
-2-27,1:02:30,Caleb,Perception,Unknown,Unknown,,,,
-2-27,1:03:03,Nott,Constitution Save,4,2,,,,Disregarded due to advantage
-2-27,1:03:03,Nott,Constitution Save,4,2,,,,
-2-27,1:03:34,Keg,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-27,1:03:34,Keg,Constitution Save,15,8,,,,
-2-27,1:03:40,Caleb,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-27,1:03:40,Caleb,Constitution Save,21,19,,,,
-2-27,1:03:47,Beau,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-27,1:03:47,Beau,Constitution Save,12,9,,,,
-2-27,1:03:50,Nila,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
-2-27,1:03:50,Nila,Constitution Save,21,18,,,,
-2-27,1:17:56,Keg,Stealth,19,,,,,with PWaT
-2-27,1:17:56,Beau,Stealth,21,14,,,,with PWaT
-2-27,1:40:12,Keg,Insight,Nat1,1,,,,
-2-27,1:41:01,Keg,Deception,19,,,,,
-2-27,1:44:33,Nila,Wisdom,14,10,,,,
-2-27,1:45:28,Caleb,Wisdom,19,16,,,,
-2-27,1:46:03,Keg,Wisdom,9,7,,,,
-2-27,2:10:02,Keg,Insight,8,,,,,
-2-27,2:16:43,Keg,History,17,,,,,
-2-27,2:16:46,Caleb,History,Nat1,1,,,,
-2-27,2:19:24,Nila,Nature,8,6,,,,
-2-27,2:20:46,Nila,Perception,8,4,,,,
-2-27,2:21:19,Nila,Animal Handling,19,12,,,,
-2-27,2:29:47,Caleb,Persuasion,5,2,,,,
-2-27,2:31:06,Beau,Perception,21,18,,,,
-2-27,2:38:28,Beau,Insight,25,19,,,,
-2-27,2:40:42,Keg,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
-2-27,2:40:42,Keg,Persuasion,12,,,,,
-2-27,2:51:31,Caleb,Perception,14,11,,,,
-2-27,2:52:24,Keg,Sleight of Hand,18,,,,,
-2-27,2:52:30,Beau,Perception,9,6,,,,
-2-27,2:54:23,Keg,Survival,18,,,,,
-2-27,2:56:54,Caleb,Stealth,4,3,,,,
-2-27,2:56:54,Keg,Stealth,14,,,,,
-2-27,2:56:54,Nott,Stealth,25,15,,,,
-2-27,2:56:54,Beau,Stealth,17,10,,,,
-2-27,2:56:54,Nila,Stealth,14,12,,,,
-2-27,2:59:37,Keg,Intelligence,Nat1,1,,,,
-2-27,3:02:36,Keg,Stealth,33,,,,,"with PWaT, Disregarded due to disadvantage"
-2-27,3:02:36,Keg,Stealth,23,,,,,
-2-27,3:02:36,Nott,Stealth,39,19,,,,with PWaT
-2-27,3:02:36,Caleb,Stealth,26,15,,,,with PWaT
-2-27,3:02:36,Beau,Stealth,21,4,,,,with PWaT
-2-27,3:02:36,Nila,Stealth,27,15,,,,with PWaT
-2-27,3:08:50,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-27,3:08:50,Frumpkin,Perception,22,19,,,,as an owl
-2-27,3:24:17,Frumpkin,Stealth,13,10,,,,as an owl
-2-27,3:26:08,Nila,Perception,6,2,,,,
-2-27,3:31:01,Nila,Stealth,17,15,,,,
-2-27,3:33:17,Nila,Strength,Nat9,9,,,,as a mouse
-2-27,3:38:38,Nila,Perception,19,15,,,,
-2-27,3:41:24,Nila,Stealth,Nat7,7,,,,Disregarded due to Luck
-2-27,3:41:38,Nila,Stealth,Nat20,20,,,,with Luck
-2-27,3:43:00,Frumpkin,Stealth,17,14,,,,as an owl
-2-27,3:48:35,Keg,Stealth,Nat1,1,,,,
-2-28,0:26:15,Keg,History,12,,,,,
-2-28,0:34:21,Nila,Survival,10,3,,,,Disregarded due to Luck
-2-28,0:34:40,Nila,Survival,24,17,,,,With Luck
-2-28,0:38:09,Nott,Perception,11,11,,,,
-2-28,0:39:44,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,0:39:44,Frumpkin,Perception,21,18,,,,"As owl, with advantage"
-2-28,0:45:42,Beau,Investigation,10,5,,,,
-2-28,0:46:32,Nila,Nature,17,15,,,,
-2-28,0:48:20,Caleb,Perception,16,13,,,,
-2-28,0:49:06,Nott,Acrobatics,19,12,,,,
-2-28,0:50:52,Beau,Investigation,21,16,,,,
-2-28,0:52:49,Caleb,Stealth,9,8,,,,
-2-28,0:52:58,Nott,Perception,13,13,,,,
-2-28,0:53:54,Nott,Stealth,12,2,,,,
-2-28,0:57:20,Caleb,Insight,19,13,,,,
-2-28,1:13:46,Nila,Survival,21,14,,,,Disregarded due to advantage
-2-28,1:13:46,Nila,Survival,21,14,,,,With advantage
-2-28,1:14:27,Nott,Attack,12,4,,,,Tinkertop Boltblaster 1000
-2-28,1:14:37,Nott,Attack,Nat20,20,Y,,,Tinkertop Boltblaster 1000
-2-28,1:14:56,Nott,Damage,16,,,,,
-2-28,1:15:28,Beau,Deflect Missiles,18,,,,,
-2-28,1:15:47,Nott,Attack,23,15,,,,Tinkertop Boltblaster 1000
-2-28,1:15:54,Nott,Damage,8,,,8 to Beau,,
-2-28,1:17:16,Caduceus,Healing,6,,,,,"Cure Wounds (1st), Beau heals 6 points"
-2-28,1:28:08,Caduceus,Wisdom,21,16,,,,
-2-28,1:30:29,Caduceus,Stealth,7,6,,,,
-2-28,1:30:30,Nott,Stealth,26,16,,,,
-2-28,1:30:32,Keg,Stealth,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-28,1:30:32,Keg,Stealth,7,,,,,With disadvantage
-2-28,1:30:33,Caleb,Stealth,10,9,,,,
-2-28,1:30:34,Beau,Stealth,12,5,,,,
-2-28,1:30:35,Nila,Stealth,20,18,,,,
-2-28,1:34:32,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,1:34:32,Frumpkin,Perception,18,15,,,,With advantage
-2-28,1:56:44,Keg,Perception,20,18,,,,
-2-28,2:00:16,Beau,Stealth,20,13,,,,With PWaT
-2-28,2:00:43,Nila,Stealth,15,3,,,,With PWaT
-2-28,2:01:29,Keg,Attack,15,8,,,,Javelin with advantage
-2-28,2:01:29,Keg,Attack,Nat1,1,,,,Disregarded due to advantage
-2-28,2:01:33,Nott,Attack,Nat20,20,Y,,,Tinkertop Boltblaster 1000 with advantage
-2-28,2:01:33,Nott,Attack,3,3,,,,Disregarded due to advantage
-2-28,2:01:53,Nott,Damage,24,,,24 to Guard,,
-2-28,2:02:03,Keg,Damage,5,,,5 to Guard,,
-2-28,2:02:12,Nott,Attack,24,16,,,,Tinkertop Boltblaster 1000
-2-28,2:02:16,Nott,Damage,9,,,9 to Guard,1,
-2-28,2:02:28,Keg,Strength,10,3,,,,
-2-28,2:03:30,Beau,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-28,2:03:30,Beau,Attack,15,8,,,,Unarmed Strike with advantage
-2-28,2:03:49,Beau,Damage,6,,,6 to Guard,,
-2-28,2:04:49,Nila,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:04:49,Nila,Attack,17,10,,,,Shillelagh with advantage
-2-28,2:05:11,Nila,Damage,13,,,13 to Guard,,
-2-28,2:05:20,Beau,Attack,23,16,,,,Unarmed Strike with advantage
-2-28,2:05:20,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:05:34,Beau,Damage,12,,,12 to Guard,1,
-2-28,2:07:20,Keg,Strength,24,17,,,,
-2-28,2:08:06,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:08:06,Frumpkin,Perception,19,16,,,,"With owl stats, with advantage"
-2-28,2:10:00,Nott,Investigation,15,9,,,,
-2-28,2:11:04,Nila,Investigation,16,17,,,,
-2-28,2:11:55,Keg,Stealth,12,7,,,,With disadvantage
-2-28,2:11:55,Keg,Stealth,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-28,2:12:16,Nila,Stealth,Nat4,4,,,,With PWaT (called as 4 plus 10)
-2-28,2:11:35,Nott,Stealth,Unknown,Unknown,,,,
-2-28,2:12:55,Caduceus,Perception,16,8,,,,
-2-28,2:13:38,Beau,Perception,Nat20,20,,,,
-2-28,2:14:17,Nott,Thieves' Tools,23,16,,,,
-2-28,2:18:06,Keg,Stealth,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-28,2:18:06,Keg,Stealth,17,2,,,,With disadvantage and PWaT
-2-28,2:18:08,Nott,Stealth,23,13,,,,
-2-28,2:18:15,Nila,Stealth,12,2,,,,"With PWaT, didn't add stealth mod"
-2-28,2:19:17,Caduceus,Deception,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:19:17,Caduceus,Deception,Nat20,20,,,,With advantage
-2-28,2:23:45,Frumpkin,Stealth,18,14,,,,As spider
-2-28,2:29:07,Keg,Perception,14,12,,,,
-2-28,2:30:55,Nott,Investigation,22,16,,,,
-2-28,2:31:07,Nott,Thieves' Tools,9,2,,,,
-2-28,2:33:36,Nott,Stealth,Nat1,1,,,,
-2-28,2:34:28,Keg,Initiative,10,10,,,,
-2-28,2:34:33,Caleb,Initiative,Nat20,20,,,,
-2-28,2:34:37,Beau,Initiative,21,17,,,,
-2-28,2:34:37,Beau,Other,7,,,,,Boots
-2-28,2:35:12,Nott,Initiative,15,11,,,,
-2-28,2:35:14,Nila,Initiative,18,16,,,,
-2-28,2:35:23,Caduceus,Initiative,12,11,,,,
-2-28,2:36:44,Beau,Dexterity,Nat20,20,,,,
-2-28,2:41:01,Nila,Damage,12,,,12 Poison to Guard,,Poison Spray
-2-28,2:42:04,Nott,Thieves' Tools,12,5,,,,
-2-28,2:43:48,Keg,Attack,17,,,,,Battleaxe
-2-28,2:43:56,Keg,Damage,8,,,8 to Guard,,
-2-28,2:44:13,Keg,Attack,22,15,,,,Warhammer
-2-28,2:44:20,Keg,Damage,11,,,11 to Guard,1,
-2-28,2:44:39,Keg,Attack,11,4,,,,Battleaxe
-2-28,2:44:56,Keg,Attack,12,5,,,,Warhammer
-2-28,2:45:59,Beau,Acrobatics,14,7,,,,
-2-28,2:47:17,Caleb,Spell Attack,15,7,,,,Fire Bolt
-2-28,2:47:34,Caleb,Damage,10,,,10 Fire to Phil,,
-2-28,2:50:54,Nila,Attack,19,12,,,,Shillelagh with advantage
-2-28,2:50:54,Nila,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:51:07,Nila,Damage,10,,,10 to Phil,,
-2-28,2:56:17,Caduceus,Acrobatics,14,13,,,,
-2-28,2:57:02,Keg,Attack,18,11,,,,Warhammer
-2-28,2:57:07,Keg,Damage,9,,,9 to Phil,1,
-2-28,2:58:12,Keg,Attack,11,4,,,,Battleaxe with advantage
-2-28,2:58:12,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:58:39,Keg,Attack,20,13,,,,Warhammer with advantage
-2-28,2:58:39,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:58:47,Keg,Damage,10,,,10 to Juam,,
-2-28,2:59:19,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:59:19,Keg,Attack,14,7,,,,Warhammer with advantage
-2-28,2:59:44,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,2:59:44,Keg,Attack,17,10,,,,Warhammer with advantage
-2-28,2:59:49,Keg,Damage,11,,,11 to Juam,,
-2-28,2:59:57,Keg,Attack,Nat20,20,Y,,,Battleaxe with advantage
-2-28,2:59:57,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,3:00:19,Keg,Damage,14,,,14 to Juam,,
-2-28,3:04:47,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-2-28,3:04:47,Caleb,Spell Attack,13,5,,,,Fire Bolt with disadvantage
-2-28,3:07:20,Nila,Strength,19,17,,,,
-2-28,3:09:22,Nott,Thieves' Tools,13,6,,,,
-2-28,3:09:32,Nott,Thieves' Tools,Unknown,Unknown,,,,
-2-28,3:11:35,Caduceus,Healing,6,,,,,"Healing Word (1st), Keg heals 6 points"
-2-28,3:12:57,Beau,Attack,17,10,,,,Disregarded due to advantage
-2-28,3:12:57,Beau,Attack,20,13,,,,Throwing Star with advantage
-2-28,3:13:23,Beau,Damage,5,,,5 to Juam,,
-2-28,3:13:29,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,3:13:29,Beau,Attack,21,14,,,,Throwing Star with advantage
-2-28,3:13:33,Beau,Damage,8,,,8 to Juam,,
-2-28,3:14:42,Caleb,Spell Attack,Unknown,Unknown,,,,Glove of Scorching Ray
-2-28,3:14:50,Caleb,Spell Attack,15,8,,,,Glove of Scorching Ray
-2-28,3:14:57,Caleb,Spell Attack,Unknown,Unknown,,,,Glove of Scorching Ray
-2-28,3:15:04,Caleb,Damage,8,,,8 Fire to Juam,,
-2-28,3:15:07,Caleb,Damage,8,,,8 Fire to Juam,1,HDYWTDT
-2-28,3:16:05,Caleb,Wisdom Save,13,7,,,,
-2-28,3:36:50,Nott,Thieves' Tools,15,8,,,,
-2-28,3:17:08,Nila,Strength,Unknown,Unknown,,,,Disregarded due to advantage
-2-28,3:17:08,Nila,Strength,Unknown,Unknown,,,,With advantage
-2-28,3:17:24,Caduceus,Healing,12,,,,,"Cure Wounds (1st), Keg heals 12 points"
-2-28,3:18:10,Keg,Investigation,14,7,,,,
-2-28,3:20:02,Nott,Investigation,26,20,,,,bad math/mod
-2-28,3:21:03,Nott,Thieves' Tools,22,15,,,,
-2-28,3:22:13,Frumpkin,Perception,15,15,,,,As spider
-2-28,3:25:13,Frumpkin,Stealth,19,15,,,,As spider
-2-28,3:32:18,Caduceus,Deception,18,15,,,,
-2-28,3:33:08,Beau,Deception,21,17,,,,
-2-28,3:34:28,Nila,Attack,Nat20,20,Y,,,Shillelagh
-2-28,3:34:33,Keg,Attack,19,12,,,,Battleaxe
-2-28,3:34:35,Nott,Attack,15,7,,,,Tinkertop Boltblaster 1000
-2-28,3:34:30,Caduceus,Attack,20,17,,,,Staff
-2-28,3:34:48,Beau,Attack,12,5,,,,Staff
-2-28,3:34:58,Nila,Damage,16,,,16 to Guard,,
-2-28,3:35:05,Keg,Damage,6,,,6 to Guard,,
-2-28,3:35:21,Caduceus,Damage,8,,,8 to Guard,,
-2-28,3:35:42,Nott,Damage,18,,,18 to Guard,,
-2-28,3:39:54,Nila,Dexterity Save,21,19,,4 (8/2) to Nila,,Against trap
-2-28,3:39:56,Nott,Dexterity Save,11,4,,8 to Nott,,Against trap
-2-28,3:41:14,Nila,Investigation,7,8,,,,With Luck
-2-28,3:41:14,Nila,Investigation,Nat1,1,,,,Disregarded due to Luck
-2-28,3:43:46,Nila,Healing,7,,,,,"Healing Word (1st), Asar heals 7 points"
-2-28,3:45:09,Nila,Strength,21,19,,,,
-2-28,3:46:26,Nott,Thieves' Tools,Nat1,1,,,,
-2-28,3:47:34,Nott,Investigation,Nat1,1,,,,
-2-28,3:47:34,Nila,Healing,5,,,,,"Healing Word (1st), Ketor heals 5 points, is conscious"
+C2E020,0:19:44,Jester,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,0:19:44,Jester,Perception,9,5,,,,
+C2E020,0:21:17,Beau,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,0:24:13,Molly,Animal Handling,7,4,,,,
+C2E020,0:27:08,Beau,Investigation,15,10,,,,
+C2E020,0:30:48,Nott,Stealth,22,14,,,,
+C2E020,0:33:38,Nott,Sleight of Hand,24,16,,,,
+C2E020,0:39:04,Jester,Wisdom,20,16,,,,
+C2E020,0:43:19,Molly,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,0:43:19,Molly,Perception,Nat20,20,,,,
+C2E020,0:47:44,Jester,Perception,19,15,,,,
+C2E020,0:58:02,Yasha,Perception,8,,,,,
+C2E020,1:08:59,Molly,Nature,3,3,,,,
+C2E020,1:10:49,Nott,Alchemy Kit,19,16,,,,Disregarded due to disadvantage
+C2E020,1:10:49,Nott,Alchemy Kit,12,9,,,,
+C2E020,1:15:04,Caleb,Perception,6,3,,,,
+C2E020,1:18:03,Jester,Perception,Nat1,1,,,,
+C2E020,1:19:16,Caleb,Nature,18,13,,,,
+C2E020,1:20:36,Fjord,Dexterity,Nat20,20,,,,
+C2E020,1:21:39,Beau,Perception,12,9,,,,
+C2E020,1:24:41,Jester,Athletics,21,18,,,,
+C2E020,1:25:00,Jester,Perception,10,6,,,,
+C2E020,1:27:06,Jester,Damage,13,,,13 Radiant to Gator 1,,
+C2E020,1:28:22,Jester,Spell Attack,23,16,,,,"Guiding Bolt, rolled after damage"
+C2E020,1:30:33,Molly,Initiative,15,12,,,,
+C2E020,1:30:34,Beau,Initiative,15,11,,,,
+C2E020,1:30:37,Nott,Initiative,12,8,,,,
+C2E020,1:30:55,Jester,Initiative,14,10,,,,
+C2E020,1:30:58,Yasha,Initiative,13,11,,,,
+C2E020,1:30:59,Caleb,Initiative,12,11,,,,
+C2E020,1:31:11,Fjord,Initiative,6,6,,,,
+C2E020,1:36:07,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E020,1:36:07,Nott,Attack,9,2,,,,
+C2E020,1:36:51,Jester,Damage,3,,,3 Radiant to Gator 1,,Sacred Flame against Gator
+C2E020,1:39:54,Fjord,Damage,5,,,,,Disregarded
+C2E020,1:39:58,Fjord,Damage,12,,,,,Disregarded
+C2E020,1:40:10,Fjord,Spell Attack,9,2,,,,Eldritch Blast against Gator
+C2E020,1:40:13,Fjord,Spell Attack,12,5,,,,Eldritch Blast against Gator
+C2E020,1:44:22,Beau,Attack,20,13,,,,Throwing star against gator
+C2E020,1:44:39,Beau,Damage,7,,,7 piercing to Gator,,
+C2E020,1:44:41,Beau,Damage,5,,,5 piercing to Gator,,
+C2E020,1:45:35,Jester,Athletics,16,13,,,,
+C2E020,1:47:02,Jester,Spell Attack,23,16,,,,Spiritual Weapon against Gator 1
+C2E020,1:47:09,Jester,Damage,8,,,8 force to Gator 1,,
+C2E020,1:48:52,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,1:48:52,Caleb,Spell Attack,17,12,,,,Scorching Ray (glove) against Gator 2
+C2E020,1:48:56,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,1:48:56,Caleb,Spell Attack,Nat20,20,,,,Scorching Ray (glove) against Gator 2
+C2E020,1:49:01,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,1:49:01,Caleb,Spell Attack,17,12,,,,Scorching Ray (glove) against Gator 2
+C2E020,1:49:17,Caleb,Damage,21,,,21 fire to Gator 2,,
+C2E020,1:50:03,Nott,Attack,19,12,,,,Hand Crossbow against Gator 2
+C2E020,1:50:03,Nott,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,1:50:03,Nott,Attack,13,6,,,,Hand Crossbow against Gator 2
+C2E020,1:50:03,Nott,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E020,1:50:03,Nott,Attack,13,6,,,,Disregarded due to advantage
+C2E020,1:50:15,Nott,Attack,Nat20,20,,,,Hand Crossbow against Gator 2
+C2E020,1:50:43,Nott,Damage,26,,,26 piercing to Gator 2,,with Sneak Attack and Fury of the Small
+C2E020,1:51:05,Nott,Damage,8,,,8 piercing to Gator 2,,
+C2E020,1:51:11,Nott,Damage,10,,,10 piercing to Gator 2,,
+C2E020,1:54:19,Fjord,Spell Attack,23,16,,,,Eldritch Blast against Gator 1
+C2E020,1:54:24,Fjord,Spell Attack,24,17,,,,Eldritch Blast against Gator 1
+C2E020,1:54:30,Fjord,Damage,12,,,12 force to Gator 1,,
+C2E020,1:54:32,Fjord,Damage,6,,,6 force to Gator 1,,
+C2E020,1:56:00,Beau,Attack,21,14,,,,Quarterstaff against Gator 1
+C2E020,1:56:05,Beau,Attack,22,15,,,,Quarterstaff against Gator 1
+C2E020,1:56:18,Beau,Damage,7,,,7 bludgeoning to Gator 1,,
+C2E020,1:56:18,Beau,Damage,7,,,7 bludgeoning to Gator 1,,
+C2E020,1:56:41,Beau,Attack,18,11,,,,Unarmed Strike against Gator 1
+C2E020,1:56:47,Beau,Attack,12,5,,,,Unarmed Strike against Gator 1
+C2E020,1:57:02,Beau,Damage,6,,,6 bludgeoning to Gator 1,,
+C2E020,1:58:53,Jester,Healing,6,,,,,"Healing word to Kiri, Kiri is conscious"
+C2E020,1:59:49,Yasha,Attack,Nat1,1,,,,Magician's Judge Reckless against Gator 2 with disadvanatage
+C2E020,2:00:07,Yasha,Attack,17,11,,,,Magician's Judge Reckless against Gator 2 with disadvanatage
+C2E020,2:00:33,Yasha,Damage,18,,,18 Slashing to Gator 2,1,
+C2E020,2:02:53,Caleb,Damage,18,,,18 force to Gator 1,,Magic Missile against Gator 1
+C2E020,2:03:34,Nott,Acrobatics,18,12,,,,
+C2E020,2:03:54,Nott,Attack,12,5,,,,Disregarded due to advantage
+C2E020,2:04:19,Nott,Attack,17,10,,,,Hand Crossbow against Gator 1
+C2E020,2:04:28,Nott,Damage,12,,,12 piercing to Gator 1,,with Sneak Attack
+C2E020,2:04:55,Nott,Attack,11,4,,,,Disregarded due to advantage
+C2E020,2:04:55,Nott,Attack,18,11,,,,Hand Crossbow against Gator 1
+C2E020,2:05:05,Nott,Damage,5,,,5 piercing to Gator 1,,
+C2E020,2:06:54,Beau,Attack,Nat20,20,,,,Quarterstaff against Gator 1
+C2E020,2:07:03,Beau,Damage,12,,,12 bludgeoning to Gator 1,,
+C2E020,2:11:58,Fjord,Spell Attack,16,9,,,,Eldritch Blast against Gator 1
+C2E020,2:12:04,Fjord,Spell Attack,13,6,,,,Eldritch Blast against Gator 1
+C2E020,2:12:08,Fjord,Damage,14,,,14 force to Gator 1,1,
+C2E020,2:13:39,Jester,Healing,9,,,,,"Cure Wounds to Nott, Nott is conscious"
+C2E020,2:17:14,Jester,Strength,20,17,,,,
+C2E020,2:21:06,Fjord,Perception,14,13,,,,
+C2E020,2:21:06,Yasha,Perception,16,,,,,
+C2E020,2:23:03,Caleb,Nature,Nat20,20,,,,
+C2E020,2:26:36,Molly,Investigation,8,8,,,,
+C2E020,2:26:58,Caleb,Investigation,25,17,,,,
+C2E020,2:28:08,Jester,Healing,8,,,,,Cure wounds to Kiri
+C2E020,2:29:16,Jester,Medicine,10,3,,,,
+C2E020,2:37:40,Yasha,Insight,12,,,,,
+C2E020,2:46:50,Fjord,Perception,15,14,,,,
+C2E020,2:46:50,Jester,Perception,22,18,,,,
+C2E020,2:55:45,Jester,Perception,8,4,,,,
+C2E020,3:06:26,Caleb,Intimidation,15,12,,,,
+C2E020,3:10:22,Jester,Persuasion,9,5,,,,
+C2E020,3:11:35,Jester,Persuasion,Unknown,Unknown,,,,
+C2E020,3:11:35,Jester,Persuasion,12,8,,,,
+C2E020,3:17:25,Jester,Insight,Nat1,1,,,,
+C2E021,0:20:18,Fjord,Perception,17,16,,,,
+C2E021,0:20:57,Caleb,Insight,15,9,,,,
+C2E021,0:37:35,Fjord,Perception,16,12,,,,
+C2E021,0:44:29,Beau,Survival,17,14,,,,
+C2E021,0:45:29,Nott,Perception,Nat1,1,,,,
+C2E021,0:45:34,Beau,Perception,6,3,,,,
+C2E021,0:47:50,Beau,Survival,7,4,,,,
+C2E021,0:49:07,Fjord,Wisdom,14,15,,,,
+C2E021,0:51:46,Cali,Damage,28,,,28 Fire to Plant,,Fireball
+C2E021,0:52:35,Caleb,Spell Attack,17,9,,,,Fire Bolt
+C2E021,0:52:48,Caleb,Damage,12,,,12 Fire to Plant,,
+C2E021,0:53:56,Fjord,Spell Attack,16,8,,,,Witch Bolt
+C2E021,0:54:10,Fjord,Damage,27,,,27 Lightning to Plant,,
+C2E021,0:55:24,Beau,Perception,9,6,,,,
+C2E021,0:55:34,Jester,Perception,13,9,,,,
+C2E021,0:58:36,Frumpkin,Perception,16,13,,,,
+C2E021,1:01:11,Frumpkin,Stealth,13,9,,,,
+C2E021,1:06:31,Beau,Survival,Nat20,20,,,,
+C2E021,1:07:46,Beau,Athletics,8,3,,,,
+C2E021,1:10:20,Caleb,Insight,Nat1,1,,,,
+C2E021,1:12:00,Fjord,Perception,18,17,,,,
+C2E021,1:12:03,Beau,Perception,10,7,,,,
+C2E021,1:14:27,Beau,Stealth,14,7,,,,
+C2E021,1:16:31,Beau,Sleight of Hand,22,18,,,,
+C2E021,1:17:13,Beau,Stealth,19,12,,,,
+C2E021,1:25:07,Molly,Perception,7,4,,,,
+C2E021,1:27:49,Caleb,Stealth,17,16,,,,
+C2E021,1:29:35,Fjord,Perception,17,16,,,,
+C2E021,1:33:10,Fjord,Perception,15,14,,,,
+C2E021,1:34:22,Jester,Perception,12,8,,,,
+C2E021,1:35:26,Jester,Perception,23,19,,,,
+C2E021,1:35:39,Jester,Perception,Nat1,1,,,,
+C2E021,1:36:05,Jester,Perception,23,19,,,,
+C2E021,1:38:37,Caleb,Perception,5,2,,,,
+C2E021,1:39:32,Nott,Investigation,25,19,,,,
+C2E021,1:39:51,Nott,Medicine,10,10,,,,
+C2E021,1:47:29,Caleb,Damage,16,,,16 Force to Troll,,Magic Missile
+C2E021,1:45:49,Nott,Attack,16,9,,,,Hand Crossbow
+C2E021,1:48:40,Cali,Damage,7,,,7 Acid to Troll,,Acid Splash
+C2E021,1:49:12,Beau,Initiative,Nat1,1,,,,
+C2E021,1:49:12,Beau,Other,8,,,,,Boots of Alert additional Initiative roll (d8)
+C2E021,1:49:11,Jester,Initiative,23,19,,,,
+C2E021,1:49:09,Cali,Initiative,20,18,,,,
+C2E021,1:49:18,Nott,Initiative,18,14,,,,
+C2E021,1:49:19,Molly,Initiative,16,13,,,,
+C2E021,1:49:24,Fjord,Initiative,14,14,,,,
+C2E021,1:49:36,Yasha,Initiative,6,4,,,,
+C2E021,1:49:36,Caleb,Initiative,8,7,,,,
+C2E021,1:50:24,Jester,Damage,6,,,6 Necrotic to Troll,,Toll the Dead
+C2E021,1:51:02,Cali,Other,7,,,,,"False Life (1st), Cali gains 7 temporary HP"
+C2E021,1:51:49,Nott,Attack,24,17,,,,Hand crossbow
+C2E021,1:52:02,Nott,Damage,5,,,5 to Troll,,Febron dies
+C2E021,1:52:25,Nott,Attack,13,6,,,,Hand Crossbow
+C2E021,1:54:13,Beau,Attack,21,14,,,,Staff
+C2E021,1:54:14,Beau,Attack,16,9,,,,Staff
+C2E021,1:54:23,Beau,Damage,12,,,12 to Troll,,
+C2E021,1:54:25,Beau,Damage,7,,,7 to Troll,,
+C2E021,1:55:08,Beau,Attack,Unknown,Unknown,,,,Unarmed Strike
+C2E021,1:55:10,Beau,Damage,10,,,10  to Troll,,
+C2E021,1:56:49,Fjord,Spell Attack,26,18,,,,Eldritch Blast
+C2E021,1:56:52,Fjord,Spell Attack,25,17,,,,Eldritch Blast
+C2E021,1:57:01,Fjord,Damage,8,,,8 Force to Troll,,
+C2E021,1:57:03,Fjord,Damage,14,,,14 Force to Troll,,Beau goes unconscious
+C2E021,2:03:33,Yasha,Intimidation,22,19,,,,Uses Strength
+C2E021,2:04:42,Jester,Healing,7,,,,,"Healing Word (1st), Beau heals 7 points, is conscious"
+C2E021,2:06:25,Cali,Arcana,10,10,,,,
+C2E021,2:07:58,Jester,Damage,9,,,9 Radiant to Troll,,Sacred Flame
+C2E021,2:09:56,Nott,Attack,23,16,,,,Hand Crossbow with disadvantage
+C2E021,2:10:05,Nott,Attack,Nat20,20,,,,Disregarded due to disadvantage
+C2E021,2:10:17,Nott,Damage,10,,,10 to Troll,,
+C2E021,2:10:29,Nott,Attack,Nat20,20,,,,Disregarded due to disadvanatage
+C2E021,2:10:29,Nott,Attack,20,13,,,,Hand crossbow
+C2E021,2:10:38,Nott,Damage,7,,,7 to Troll,,
+C2E021,2:12:25,Molly,Damage,4,,,4 Psychic to Troll,,Vicious Mockery
+C2E021,2:13:40,Beau,Attack,15,8,,,,Disregarded due to disadvantage
+C2E021,2:13:40,Beau,Attack,14,7,,,,Throwing Star with disadvantage
+C2E021,2:13:55,Beau,Attack,Nat20,20,,,,Disregarded due to disadvantage
+C2E021,2:13:55,Beau,Attack,Nat14,14,,,,Throwing Star with disadvantage
+C2E021,2:14:24,Beau,Damage,8,,,8 to Troll,,
+C2E021,2:14:55,Fjord,Attack,Unknown,Unknown,,,,Eldritch Blast with disadvantange
+C2E021,2:14:55,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,2:15:00,Fjord,Attack,Unknown,Unknown,,,,Eldritch Blast with disadvantange
+C2E021,2:15:00,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,2:15:45,Caleb,Spell Attack,Nat1,1,,,,Fire Bolt
+C2E021,2:15:59,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,2:15:59,Nott,Attack,12,5,,,,Hand Crossbow with disadvantage
+C2E021,2:16:18,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,2:16:18,Nott,Attack,14,7,,,,Hand Crossbow with disadvantage
+C2E021,2:16:23,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,2:16:23,Nott,Attack,16,9,,,,Hand Crossbow with disadvantage
+C2E021,2:16:30,Nott,Damage,8,,,8 to Troll,,
+C2E021,2:16:48,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,2:16:48,Fjord,Attack,Nat1,1,,,,Eldritch Blast with disadvantange
+C2E021,2:16:52,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,2:16:52,Fjord,Attack,25,18,,,,Eldritch Blast with disadvantange
+C2E021,2:16:57,Fjord,Damage,13,,,13 Force to Troll,,
+C2E021,2:19:52,Jester,Investigation,14,13,,,,
+C2E021,2:26:18,Nott,Investigation,19,13,,,,
+C2E021,2:27:47,Caleb,Religion,13,8,,,,
+C2E021,2:27:51,Jester,Religion,Unknown,Unknown,,,,
+C2E021,2:34:22,Beau,Perception,14,11,,,,
+C2E021,2:36:18,Beau,Athletics,8,3,,,,
+C2E021,2:38:47,Jester,Investigation,12,11,,,,
+C2E021,2:27:29,Nott,Investigation,16,10,,,,
+C2E021,2:42:41,Fjord,Investigation,17,12,,,,
+C2E021,2:44:46,Jester,Investigation,17,16,,,,
+C2E021,2:46:30,Beau,Investigation,Unknown,Unknown,,,,Disregarded due to advantage
+C2E021,2:46:30,Beau,Investigation,13,8,,,,With advantage
+C2E021,2:48:42,Nott,Athletics,7,7,,,,
+C2E021,2:51:06,Nott,Stealth,15,6,,,,
+C2E021,2:55:06,Frumpkin,Acrobatics,16,14,,,,
+C2E021,3:00:33,Molly,Stealth,15,12,,,,
+C2E021,3:00:38,Yasha,Stealth,6,4,,,,
+C2E021,3:00:46,Jester,Stealth,10,6,,,,
+C2E021,3:00:52,Cali,Stealth,14,,,,,
+C2E021,3:00:54,Caleb,Stealth,3,2,,,,
+C2E021,3:00:54,Beau,Stealth,18,11,,,,
+C2E021,3:00:55,Fjord,Stealth,13,13,,,,
+C2E021,3:02:00,Beau,Initiative,19,15,,,,
+C2E021,3:02:00,Fjord,Initiative,18,18,,,,
+C2E021,3:02:00,Molly,Initiative,16,13,,,,
+C2E021,3:02:12,Caleb,Initiative,10,9,,,,
+C2E021,3:02:13,Nott,Initiative,10,6,,,,
+C2E021,3:02:14,Yasha,Initiative,13,11,,,,
+C2E021,3:02:31,Jester,Initiative,6,2,,,,
+C2E021,3:22:32,Cali,Initiative,6,4,,,,
+C2E021,3:07:17,Beau,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,3:07:17,Beau,Attack,18,12,,,,Throwing Star
+C2E021,3:07:29,Beau,Damage,7,,,7 to Merrow 1,,
+C2E021,3:07:39,Beau,Attack,10,4,,,,Disregarded due to disadvantage
+C2E021,3:07:39,Beau,Attack,10,4,,,,Throwing Star
+C2E021,3:09:05,Fjord,Damage,9,,,9 Cold to Merrow 1 and 2,,Hunger of Hadar
+C2E021,3:11:22,Fjord,Strength,9,8,,,,
+C2E021,3:11:40,Fjord,Constitution Save,23,18,,,,
+C2E021,3:12:07,Fjord,Constitution Save,Nat20,20,,,,
+C2E021,3:12:27,Fjord,Damage,7,,,7 Acid to Merrow 1 and 2,,
+C2E021,3:15:45,Nott,Attack,12,5,,,,Hand Crossbow
+C2E021,3:16:01,Nott,Attack,14,7,,,,Hand Crossbow SA
+C2E021,3:16:14,Nott,Damage,18,,,18 to Merrow 3,,With Fury of the Small
+C2E021,3:17:53,Cali,Spell Attack,15,8,,,,Ray of Sickness
+C2E021,3:18:07,Cali,Damage,9,,,9 Poison to Merrow 3,,Merrow 3 poisoned
+C2E021,3:19:12,Beau,Attack,16,9,,,,Staff
+C2E021,3:19:16,Beau,Attack,11,4,,,,Staff
+C2E021,3:19:24,Beau,Damage,10,,,10 to Merrow 3,1,
+C2E021,3:23:01,Fjord,Damage,5,,,5 Cold to Merrow 1 and 2,,
+C2E021,3:24:28,Fjord,Constitution Save,21,16,,,,
+C2E021,3:25:14,Fjord,Constitution Save,13,8,,,,
+C2E021,3:25:36,Molly,Damage,1,,,1 to Molly,,Blood Maledict (Amplified)
+C2E021,3:26:21,Fjord,Constitution Save,Unknown,Unknown,,,,
+C2E021,3:26:31,Fjord,Strength,14,14,,,,
+C2E021,3:26:43,Beau,Attack,Nat20,20,,,,Staff
+C2E021,3:27:09,Beau,Damage,16,,,16 to Merrow 2,,
+C2E021,3:29:41,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E021,3:29:41,Yasha,Attack,19,12,,,,Magician's Judge Reckless
+C2E021,3:30:02,Yasha,Damage,20,,,20 to Merrow 3,,
+C2E021,3:30:29,Yasha,Damage,11,,,11 to Merrow 3,1,
+C2E021,3:31:49,Caleb,Spell Attack,Nat1,1,,,,Glove of Scorching Ray
+C2E021,3:31:52,Caleb,Spell Attack,Nat20,20,Y,,,Glove of Scorching Ray
+C2E021,3:32:12,Caleb,Damage,12,,,12 Fire to Merrow 2,,
+C2E021,3:32:27,Caleb,Spell Attack,10,2,,,,Glove of Scorching Ray
+C2E021,3:32:47,Nott,Attack,24,17,,,,Hand Crossbow SA
+C2E021,3:32:56,Nott,Damage,15,,,15 to Merrow 1,1,
+C2E021,3:33:44,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,3:33:44,Nott,Attack,15,8,,,,Hand Crossbow with disadvantage
+C2E021,3:33:48,Nott,Damage,6,,,6 to Merrow 4,,
+C2E021,3:34:16,Jester,Healing,11,,,,,"Cure Wounds (2nd), Fjord heals 11 points, is conscious"
+C2E021,3:34:53,Jester,Spell Attack,21,14,,,,Spiritual Weapon
+C2E021,3:35:22,Jester,Damage,8,,,8 Force to Merrow 4,,
+C2E021,3:36:17,Cali,Damage,19,,,19 Acid to Merrow 4,,Dragon's Breath (Acid)
+C2E021,3:37:28,Beau,Attack,19,12,,,,Staff
+C2E021,3:37:41,Beau,Damage,13,,,13 to Merrow 4,,
+C2E021,3:38:04,Beau,Attack,15,8,,,,Staff
+C2E021,3:38:14,Beau,Damage,10,,,10 to Merrow 4,,
+C2E021,3:38:40,Beau,Attack,12,5,,,,Unarmed Strike
+C2E021,3:38:46,Beau,Attack,9,2,,,,Unarmed Strike
+C2E021,3:39:24,Fjord,Spell Attack,26,18,,,,Eldritch Blast
+C2E021,3:39:30,Fjord,Spell Attack,18,10,,,,Eldritch Blast
+C2E021,3:39:37,Fjord,Damage,6,,,6 to Merrow 4,,
+C2E021,3:39:40,Fjord,Damage,14,,,14 to Merrow 4,1,HDYWTDT
+C2E021,3:40:58,Cali,Dexterity Save,5,3,,,,
+C2E021,3:44:42,Caleb,Investigation,11,3,,,,Disregarded due to advantage
+C2E021,3:44:42,Caleb,Investigation,25,17,,,,With advantage
+C2E021,3:47:44,Nott,Sleight of Hand,Unknown,Unknown,,,,Disregarded due to advantage
+C2E021,3:47:44,Nott,Sleight of Hand,28,19,,,,With advantage
+C2E021,3:47:46,Cali,Perception,8,9,,,,
+C2E021,3:50:27,Molly,Investigation,Unknown,Unknown,,,,Disregarded due to advantage
+C2E021,3:50:27,Molly,Investigation,8,8,,,,With advantage
+C2E021,3:50:02,Caleb,Perception,17,14,,,,
+C2E021,3:54:20,Cali,Perception,13,14,,,,
+C2E021,3:57:15,Fjord,Constitution Save,21,16,,,,
+C2E021,3:57:56,Fjord,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E021,3:57:56,Fjord,Perception,6,5,,,,With disadvantage
+C2E021,4:04:41,Beau,Dexterity,10,6,,,,
+C2E021,4:04:37,Caleb,Dexterity,3,2,,,,With disadvantage
+C2E021,4:04:37,Caleb,Dexterity,19,18,,,,Disregarded due to disadvantage
+C2E021,4:13:05,Yasha,Other,13,10,,,,"Magician's Judge (Dispel Magic, +3)"
+C2E021,4:17:02,Yasha,Investigation,6,Unknown,,,,
+C2E022,0:17:13,Caleb,Arcana,15,8,,,,
+C2E022,0:21:19,Fjord,Perception,5,4,,,,
+C2E022,0:21:20,Beau,Perception,5,2,,,,
+C2E022,0:22:04,Nott,Perception,4,4,,,,
+C2E022,0:22:09,Jester,Perception,12,8,,,,
+C2E022,0:23:39,Frumpkin,Stealth,Nat4,4,,,,
+C2E022,0:28:08,Jester,Damage,10,,,10 Radiant to Merrow,,Sacred Flame
+C2E022,0:28:25,Nott,Attack,Nat1,1,,,,Hand Crossbow
+C2E022,0:28:46,Molly,Attack,11,5,,,,Scimitar
+C2E022,0:28:49,Molly,Attack,8,2,,,,Scimitar
+C2E022,0:29:11,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,0:29:11,Caleb,Spell Attack,12,4,,,,Fire Bolt with disadvantage
+C2E022,0:29:15,Beau,Attack,20,13,,,,Staff
+C2E022,0:29:18,Beau,Damage,11,,,11 to Merrow,,
+C2E022,0:29:21,Beau,Attack,Unknown,Unknown,,,,Staff
+C2E022,0:29:25,Fjord,Spell Attack,20,13,,,,Eldritch Blast
+C2E022,0:29:25,Fjord,Spell Attack,24,17,,,,Eldritch Blast
+C2E022,0:29:27,Fjord,Damage,10,,,10 Force to Merrow,,
+C2E022,0:29:27,Fjord,Damage,9,,,9 Force to Merrow,,
+C2E022,0:29:33,Yasha,Attack,10,4,,,,Magician's Judge
+C2E022,0:29:41,Yasha,Attack,21,15,,,,Magician's Judge
+C2E022,0:30:17,Yasha,Damage,10,,,10 to Merrow,1,
+C2E022,0:31:14,Frumpkin,Stealth,9,5,,,,
+C2E022,0:32:12,Frumpkin,Perception,19,16,,,,
+C2E022,0:33:37,Caleb,Stealth,12,11,,,,
+C2E022,0:33:39,Yasha,Stealth,13,,,,,
+C2E022,0:35:53,Caleb,Perception,11,8,,,,
+C2E022,0:35:57,Yasha,Perception,15,,,,,
+C2E022,0:41:55,Yasha,Dexterity,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,0:41:55,Yasha,Dexterity,16,14,,,,With advantage
+C2E022,0:27:37,Fjord,Athletics,12,9,,,,
+C2E022,0:50:34,Fjord,Stealth,2,2,,,,
+C2E022,0:53:31,Fjord,Survival,13,15,,,,
+C2E022,0:57:07,Beau,Stealth,Nat20,20,,,,
+C2E022,0:57:11,Molly,Stealth,16,13,,,,
+C2E022,0:57:17,Fjord,Stealth,19,19,,,,
+C2E022,0:57:30,Caleb,Stealth,22,19,,,,
+C2E022,0:57:34,Jester,Stealth,18,14,,,,
+C2E022,0:57:38,Yasha,Stealth,16,,,,,
+C2E022,1:00:36,Yasha,Initiative,21,19,,,,
+C2E022,1:00:56,Beau,Initiative,12,8,,,,
+C2E022,1:01:09,Molly,Initiative,7,4,,,,
+C2E022,1:01:09,Jester,Initiative,8,4,,,,
+C2E022,1:01:09,Caleb,Initiative,6,5,,,,
+C2E022,1:01:19,Fjord,Initiative,3,3,,,,
+C2E022,1:01:30,Nott,Initiative,Nat1,1,,,,
+C2E022,1:03:42,Beau,Attack,20,13,,,,Staff
+C2E022,1:03:48,Beau,Attack,Nat8,8,,,,Staff
+C2E022,1:03:55,Beau,Damage,8,,,8 to Merrow 1,,
+C2E022,1:04:06,Beau,Attack,Nat1,1,,,,Unarmed Strike
+C2E022,1:04:13,Beau,Attack,24,17,,,,Unarmed Strike
+C2E022,1:04:26,Beau,Damage,10,,,10 to Merrow 1,,
+C2E022,1:05:42,Jester,Spell Attack,Unknown,Unknown,,,,Spiritual Weapon
+C2E022,1:06:11,Jester,Damage,7,,,7 Necrotic to Merrow 1,,Toll the Dead
+C2E022,1:08:39,Fjord,Attack,14,6,,,,Wastehunter Falchion
+C2E022,1:08:59,Fjord,Damage,18,,,18 to Merrow 2,,
+C2E022,1:10:23,Yasha,Attack,18,12,,,,Magician's Judge
+C2E022,1:10:58,Yasha,Damage,19,,,19 to Merrow 1,,
+C2E022,1:11:25,Yasha,Attack,8,2,,,,Magician's Judge
+C2E022,1:12:34,Beau,Strength,10,10,,,,
+C2E022,1:14:51,Fjord,Strength,17,17,,,,
+C2E022,1:15:51,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,1:15:51,Fjord,Constitution Save,15,10,,,,Concentration with advantage
+C2E022,1:15:59,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,1:15:50,Fjord,Constitution Save,24,19,,,,Concentration with advantage
+C2E022,1:16:03,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,1:16:03,Fjord,Constitution Save,18,13,,,,Concentration with advantage
+C2E022,1:17:13,Beau,Dexterity Save,Nat1,1,,,,Against Call Lightning
+C2E022,1:18:31,Beau,Attack,15,8,,,,Unarmed Strike
+C2E022,1:18:39,Beau,Attack,12,5,,,,Unarmed Strike
+C2E022,1:18:50,Beau,Damage,7,,,7 to Merrow 3,,
+C2E022,1:19:33,Jester,Spell Attack,15,8,,,,Spiritual Weapon
+C2E022,1:19:46,Jester,Damage,11,,,11 Force to Merrow 1,1,HDYWTDT
+C2E022,1:22:14,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,1:22:14,Caleb,Spell Attack,15,7,,,,Glove of Scorching Ray with disadvantage
+C2E022,1:22:20,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,1:22:20,Caleb,Spell Attack,14,6,,,,Glove of Scorching Ray with disadvantage
+C2E022,1:22:26,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,1:22:26,Caleb,Spell Attack,14,6,,,,Glove of Scorching Ray with disadvantage
+C2E022,1:22:51,Caleb,Damage,6,,,6 Fire to Merrow Shallow Priest,,
+C2E022,1:23:46,Molly,Attack,17,11,,,,Scimitar
+C2E022,1:23:48,Molly,Attack,Unknown,Unknown,,,,Scimitar
+C2E022,1:23:52,Molly,Attack,16,10,,,,Scimitar
+C2E022,1:24:01,Molly,Damage,8,,,8 Slashing/Radiant to Merrow 2,,
+C2E022,1:24:07,Molly,Damage,9,,,9 Slashing/Radiant to Merrow 2,,
+C2E022,1:26:18,Yasha,Attack,18,12,,,,Magician's Judge with disadvantage
+C2E022,1:26:18,Yasha,Attack,Nat20,20,Y,,,Disregarded due to disadvantage
+C2E022,1:26:48,Yasha,Damage,19,,,19 to Merrow 3,,
+C2E022,1:27:02,Yasha,Attack,15,9,,,,Magician's Judge with disadvantage
+C2E022,1:27:02,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,1:27:11,Yasha,Damage,15,,,15 to Merrow 3,,
+C2E022,1:28:10,Yasha,Dexterity Save,10,8,,25 Lightning to Yasha,,Against Call Lightning
+C2E022,1:31:34,Molly,Damage,3,,,3 to Molly,,Blood Curse of the Eyeless (amplified)
+C2E022,1:32:36,Beau,Death Save,17,17,,,,Beau succeeds one death save
+C2E022,1:33:21,Jester,Healing,11,,,,,"Healing Word (2nd), Beau heals 11 points, is conscious"
+C2E022,1:35:37,Molly,Attack,11,5,,,,Scimitar
+C2E022,1:35:42,Molly,Attack,24,18,,,,Scimitar
+C2E022,1:35:50,Molly,Damage,9,,,9 to Merrow 2,,
+C2E022,1:36:00,Molly,Attack,23,17,,,,Scimitar
+C2E022,1:36:04,Molly,Damage,10,,,10 to Merrow 2,1,HDYWTDT
+C2E022,1:36:30,Molly,Attack,Unknown,Unknown,,,,Scimitar
+C2E022,1:37:17,Nott,Other,Unknown,Unknown,,,,To see if she enters the water
+C2E022,1:37:38,Fjord,Damage,4,,,,,"Booming Blade, Disregarded"
+C2E022,1:38:43,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,1:38:43,Fjord,Attack,15,7,,,,Wastehunter Falchion with advantage
+C2E022,1:38:53,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,1:38:53,Fjord,Attack,24,16,,,,Wastehunter Falchion with advantage
+C2E022,1:39:05,Fjord,Damage,21,,,21 to Merrow 4,,
+C2E022,1:39:15,Fjord,Damage,17,,,17 to Merrow 4,1,HDYWTDT
+C2E022,1:39:48,Fjord,Blink,Nat20,20,,,,
+C2E022,1:40:23,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,1:40:23,Yasha,Attack,13,7,,,,Magician's Judge with disadvantage
+C2E022,1:40:59,Fjord,Healing,13,,,,,"Hexblade's Curse, Fjordheals 13 points"
+C2E022,1:41:03,Yasha,Damage,14,,,14 to Merrow 3,,
+C2E022,1:41:16,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,1:41:16,Yasha,Attack,Unknown,Unknown,,,,Magician's Judge with disadvantage
+C2E022,1:51:24,Yasha,Damage,8,,,8 to Merrow 3,1,HDYWTDT
+C2E022,1:43:16,Yasha,Dexterity Save,14,12,,12 (24/2) Lightning to Yasha,,Against Call Lightning
+C2E022,1:44:45,Yasha,Strength,10,7,,,,With advantage
+C2E022,1:44:45,Yasha,Strength,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,1:45:47,Caleb,Fragment,2,2,,,,Fragment of Possibility
+C2E022,1:47:22,Beau,Athletics,15,10,,,,
+C2E022,1:47:54,Beau,Attack,Nat20,20,Y,,,Staff
+C2E022,1:48:06,Beau,Damage,18,,,18 to Merrow 6,,
+C2E022,1:48:29,Beau,Attack,10,3,,,,Staff
+C2E022,1:49:21,Jester,Spell Attack,Nat1,1,,,,Disregarded due to advantage
+C2E022,1:49:21,Jester,Spell Attack,11,4,,,,Inflict Wounds (1st) with advantage
+C2E022,1:50:24,Jester,Spell Attack,Unknown,Unknown,,,,Spiritual Weapon
+C2E022,1:50:29,Jester,Damage,11,,,11 Force to Merrow 6,,
+C2E022,1:51:01,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,1:51:01,Caleb,Spell Attack,10,2,,,,Fire Bolt with disadvantage
+C2E022,1:52:22,Molly,Attack,14,8,,,,Scimitar
+C2E022,1:52:24,Molly,Attack,Nat20,20,Y,,,Scimitar
+C2E022,1:52:37,Molly,Damage,9,,,9 to Merrow 5,,
+C2E022,1:52:43,Molly,Damage,11,,,11 to Merrow 5,,
+C2E022,1:52:54,Molly,Attack,10,4,,,,Scimitar
+C2E022,1:52:54,Molly,Attack,19,13,,,,Scimitar
+C2E022,1:53:02,Molly,Damage,11,,,11 to Merrow 5,,
+C2E022,1:54:22,Fjord,Spell Attack,18,11,,,,Eldritch Blast
+C2E022,1:54:34,Fjord,Damage,12,,,12 Force to Merrow 5,,
+C2E022,1:54:44,Fjord,Spell Attack,22,15,,,,Eldritch Blast
+C2E022,1:54:49,Fjord,Damage,7,,,7 Force to Merrow 5,1,HDYWTDT
+C2E022,1:55:23,Fjord,Blink,13,13,,,,
+C2E022,1:57:12,Beau,Attack,10,3,,,,Staff Reaction
+C2E022,1:57:30,Caleb,Constitution Save,8,6,,,,Concentration
+C2E022,1:59:34,Yasha,Dexterity Save,18,16,,6 (13/2) Lightning to Yasha,,Against Call Lightning
+C2E022,2:00:40,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,2:00:40,Beau,Attack,14,7,,,,Staff with advantage
+C2E022,2:00:50,Beau,Damage,12,,,12 to Merrow 6,,
+C2E022,2:00:58,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,2:00:58,Beau,Attack,18,11,,,,Staff with advantage
+C2E022,2:01:02,Beau,Damage,5,,,5 to Merrow 6,,
+C2E022,2:01:45,Beau,Attack,20,13,,,,Unarmed Strike with advantage
+C2E022,2:01:45,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,2:01:54,Beau,Attack,12,5,,,,Unarmed Strike with advantage
+C2E022,2:01:54,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,2:02:05,Beau,Damage,7,,,7 to Merrow 6,1,HDYWTDT
+C2E022,2:03:09,Jester,Healing,12,,,,,"Cure Wounds (2nd), Caleb heals 12 points"
+C2E022,2:05:18,Fjord,Blink,16,16,,,,
+C2E022,2:07:05,Caleb,Damage,6,,,6 to Merrow Shallow Priest,,Maximilian's Earthen Grasp
+C2E022,2:07:38,Beau,Constitution Save,17,14,,8 (17/2) Thunder to Beau,,Against Thunderwave (2nd)
+C2E022,2:07:43,Caleb,Constitution Save,8,6,,17 Thunder to Caleb,,"Against Thunderwave (2nd), Caleb is unconscious"
+C2E022,2:09:09,Beau,Attack,16,9,,,,Unarmed Strike with disadvantage
+C2E022,2:09:09,Beau,Attack,21,14,,,,Disregarded due to disadvantage
+C2E022,2:09:21,Beau,Damage,10,,,10 to Merrow Shallow Priest,,
+C2E022,2:09:27,Beau,Attack,16,9,,,,Unarmed Strike with disadvantage
+C2E022,2:09:27,Beau,Attack,16,9,,,,Disregarded due to disadvantage
+C2E022,2:09:33,Beau,Damage,12,,,12 to Merrow Shallow Priest,,
+C2E022,2:09:48,Beau,Attack,9,2,,,,Unarmed Strike
+C2E022,2:10:43,Jester,Spell Attack,11,4,,,,Inflict Wounds (3rd)
+C2E022,2:11:25,Jester,Spell Attack,Nat1,1,,,,Spiritual Weapon
+C2E022,2:12:02,Caleb,Death Save,6,6,,,,Caleb fails one death save
+C2E022,2:12:30,Molly,Athletics,10,10,,,,
+C2E022,2:14:10,Nott,Attack,20,13,,,,Hand Crossbow Burning Bolt
+C2E022,2:14:41,Nott,Damage,24,,,24 (21 Piercing + 3 Fire to Merrow Shallow Priest,,With Fury of the Small
+C2E022,2:15:10,Nott,Attack,22,15,,,,Hand Crossbow
+C2E022,2:15:16,Nott,Damage,8,,,8 to Merrow Shallow Priest,,
+C2E022,2:15:44,Fjord,Spell Attack,10,3,,,,Eldritch Blast
+C2E022,2:15:49,Fjord,Spell Attack,14,7,,,,Eldritch Blast
+C2E022,2:16:09,Fjord,Blink,Unknown,Unknown,,,,
+C2E022,2:17:26,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,2:17:26,Yasha,Attack,18,12,,,,Magician's Judge with disadvantage
+C2E022,2:17:43,Yasha,Damage,12,,,12 to Merrow Shallow Priest,,
+C2E022,2:17:54,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,2:17:54,Yasha,Attack,20,14,,,,Magician's Judge with disadvantage
+C2E022,2:18:02,Yasha,Damage,12,,,12 to Merrow Shallow Priest,,
+C2E022,2;20:58,Yasha,Attack,16,10,,,,Magician's Judge AoO with disadvantage
+C2E022,2:20:58,Yasha,Attack,21,15,,,,Disregarded due to disadvantage
+C2E022,2:21:06,Jester,Attack,15,8,,,,Handaxe AoO
+C2E022,2:21:19,Jester,Damage,5,,,5 to Merrow Shallow Priest,0.5,HDYWTDT
+C2E022,2:21:19,Yasha,Damage,9,,,9 to Merrow Shallow Priest,0.5,HDYWTDT
+C2E022,2:22:16,Caleb,Death Save,11,11,,,,Caleb succeeds one death save
+C2E022,2:22:30,Jester,Healing,12,,,,,"Cure Wounds, Caleb heals 12 points, is conscious"
+C2E022,2:25:17,Jester,Healing,8,,,,,"Prayer of Healing (3rd), All hurt heal 8 points"
+C2E022,2:26:46,Nott,Investigation,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,2:26:46,Nott,Investigation,8,2,,,,With disadvantage
+C2E022,2:30:47,Jester,Investigation,4,3,,,,
+C2E022,2:31:52,Fjord,Investigation,14,9,,,,
+C2E022,2:13:55,Fjord,Religion,21,19,,,,
+C2E022,2:39:25,Jester,Investigation,11,10,,,,
+C2E022,2:39:33,Molly,Investigation,11,11,,,,
+C2E022,2:41:17,Beau,Investigation,10,5,,,,
+C2E022,2:42:12,Nott,Thieves' Tools,18,11,,,,With disadvantage
+C2E022,2:42:12,Nott,Thieves' Tools,19,12,,,,Disregarded due to disadvantage
+C2E022,2:45:03,Yasha,Investigation,13,,,,,
+C2E022,2:45:50,Beau,Investigation,23,18,,,,
+C2E022,2:50:30,Nott,Investigation,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,2:50:30,Nott,Investigation,Nat1,1,,,,With disadvantage
+C2E022,2:50:43,Nott,Thieves' Tools,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E022,2:50:43,Nott,Thieves' Tools,17,10,,,,With disadvantage
+C2E022,2:54:25,Beau,Investigation,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,2:54:25,Beau,Investigation,15,10,,,,With advantage
+C2E022,3:09:07,Fjord,Intelligence,16,14,,,,
+C2E022,3:09:59,Caleb,Investigation,12,4,,,,
+C2E022,3:13:54,Caleb,History,Unknown,Unknown,,,,Disregarded due to advantage
+C2E022,3:13:54,Caleb,History,13,5,,,,With advantage
+C2E022,3:22:16,Jester,Healing,12,,,,,"Cure Wounds (1st), Beau heals 12 points"
+C2E022,3:22:16,Jester,Healing,12,Unknown,,,,"Cure Wounds (1st), Caleb heals 12 points"
+C2E023,0:15:00,Caleb,Survival,15,12,,,,
+C2E023,0:16:34,Molly,Nature,3,3,,,,
+C2E023,0:16:46,Beau,Perception,10,7,,,,
+C2E023,0:17:06,Nott,Investigation,8,2,,,,
+C2E023,0:19:07,Caleb,Survival,9,6,,,,
+C2E023,0:23:50,Nott,Stealth,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,0:23:50,Nott,Stealth,22,13,,,,With advantage
+C2E023,0:26:54,Nott,Intelligence,11,8,,,,
+C2E023,0:28:35,Nott,Stealth,35,16,,,,With advantage
+C2E023,0:28:35,Nott,Stealth,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,0:29:49,Nott,Damage,2,,,2 to Troll,,Dynamite
+C2E023,0:30:22,Nott,Dexterity Save,11,4,,3 (6/2) to Nott,,
+C2E023,0:31:24,Caleb,Initiative,Nat20,20,,,,
+C2E023,0:31:25,Nott,Initiative,20,16,,,,
+C2E023,0:31:48,Molly,Initiative,19,16,,,,
+C2E023,0:31:54,Beau,Initiative,14,10,,,,
+C2E023,0:31:55,Yasha,Initiative,12,10,,,,
+C2E023,0:32:02,Jester,Initiative,7,3,,,,
+C2E023,0:32:07,Fjord,Initiative,4,4,,,,
+C2E023,0:32:27,Caleb,Spell Attack,Nat20,20,Y,,,Fire Bolt
+C2E023,0:32:43,Caleb,Damage,11,,,22 (11x2) Fire to Troll,,
+C2E023,0:33:27,Nott,Attack,9,2,,,,Hand Crossbow with disadvantage
+C2E023,0:33:27,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E023,0:33:45,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E023,0:33:45,Nott,Attack,13,6,,,,Hand Crossbow with disadvantage
+C2E023,0:35:45,Beau,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E023,0:35:45,Beau,Attack,19,12,,,,Throwing Star with disadvantage
+C2E023,0:35:54,Beau,Attack,Nat20,20,Y,,,Disregarded due to disadvantage
+C2E023,0:35:54,Beau,Attack,14,7,,,,Throwing Star with disadvantage
+C2E023,0:36:03,Beau,Damage,4,,,4 to Troll,,
+C2E023,0:37:47,Jester,Spell Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,0:37:47,Jester,Spell Attack,25,19,,,,Spiritual Weapon with advantage
+C2E023,0:37:56,Jester,Damage,12,,,12 Force to Troll,,
+C2E023,0:38:39,Jester,Damage,14,,,14 Necrotic to Troll,,Toll the Dead
+C2E023,0:39:08,Fjord,Spell Attack,10,3,,,,Eldritch Blast with disadvantage
+C2E023,0:38:08,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E023,0:39:12,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E023,0:39:12,Fjord,Spell Attack,19,12,,,,Eldritch Blast with disadvantage
+C2E023,0:39:20,Fjord,Damage,11,,,11 (7 + 4 Necrotic to Troll),,
+C2E023,0:39:50,Caleb,Dexterity,7,6,,,,
+C2E023,0:41:12,Beau,Constitution Save,16,13,,9 (18/2) Poison to Beau,,Against Venom Spray
+C2E023,0:41:18,Yasha,Constitution Save,11,6,,18 Poison to Yasha,,Against Venom Spray
+C2E023,0:42:43,Caleb,Damage,11,,,11 to Troll,,Magic Missile
+C2E023,0:42:56,Nott,Attack,11,4,,,,Hand Crossbow
+C2E023,0:43:29,Nott,Attack,26,19,,,,Hand Crossbow
+C2E023,0:43:37,Nott,Damage,6,,,6 to Troll,,
+C2E023,0:45:04,Molly,Athletics,4,4,,,,
+C2E023,0:46:16,Beau,Dexterity,8,4,,,,
+C2E023,0:47:47,Yasha,Dexterity,7,5,,,,
+C2E023,0:48:30,Yasha,Constitution Save,17,12,,,,"Against Poisoned, Yasha is no longer poisoned"
+C2E023,0:48:30,Jester,Spell Attack,14,7,,,,Spiritual Weapon
+C2E023,0:49:22,Jester,Spell Attack,10,3,,,,Guiding Bolt (3rd)
+C2E023,0:50:16,Fjord,Spell Attack,16,9,,,,Witch Bolt (3rd)
+C2E023,0:50:28,Fjord,Damage,20,,,20 (18 Lightning + 2 Necrotic) to Troll,,
+C2E023,0:51:54,Molly,Attack,11,5,,,,Summer's Dance
+C2E023,0:51:55,Molly,Attack,19,13,,,,Summer's Dance
+C2E023,0:52:06,Molly,Damage,10,,,10 to Troll,,
+C2E023,0:52:37,Molly,Attack,Nat20,20,Y,,,Summer's Dance AoO
+C2E023,0:53:09,Molly,Damage,21,,,21 to Troll,,
+C2E023,0:56:00,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,0:56:00,Fjord,Constitution Save,11,6,,,,Concentration with advantage
+C2E023,0:56:04,Fjord,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,0:56:04,Fjord,Constitution Save,Unknown,Unknown,,,,Concentration with advantage
+C2E023,0:56:49,Nott,Attack,Unknown,Unknown,,,,Hand Crossbow SA
+C2E023,0:56:49,Nott,Damage,17,,,17 to Troll,,
+C2E023,0:57:30,Nott,Attack,Unknown,Unknown,,,,Hand Crossbow
+C2E023,0:57:36,Nott,Damage,6,,,6 to Troll,,
+C2E023,0:58:41,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,0:58:41,Molly,Attack,20,14,,,,Summer's Dance with advantage
+C2E023,0:58:53,Molly,Damage,9,,,9 to Troll,1,HDYWTDT
+C2E023,1:00:04,Molly,Damage,2,,,,,Disregarded
+C2E023,1:00:05,Fjord,Constitution Save,20,15,,,,Disregarded
+C2E023,1:01:08,Jester,Healing,6,,,,,"Cure Wounds (1st), Fjord heals 6 points, is conscious"
+C2E023,1:01:22,Molly,Perception,12,9,,,,
+C2E023,1:07:55,Caleb,Spell Attack,20,12,,,,Glove of Scorching Ray
+C2E023,1:08:02,Caleb,Spell Attack,18,10,,,,Glove of Scorching Ray
+C2E023,1:08:03,Caleb,Spell Attack,20,12,,,,Glove of Scorching Ray
+C2E023,1:08:07,Nott,Attack,22,15,,,,Hand Crossbow
+C2E023,1:08:13,Nott,Damage,5,,,5 to Troll,,
+C2E023,1:08:25,Caleb,Damage,27,,,27 Fire to Troll,1,HDYWTDT
+C2E023,1:09:07,Caleb,Wisdom Save,11,5,,,,
+C2E023,1:09:43,Fjord,Death Save,19,19,,,,Fjord succeeds one death save
+C2E023,1:09:56,Jester,Healing,11,,,,,"Cure Wounds (1st), Fjord heals 11 points, is conscious"
+C2E023,1:11:04,Jester,Medicine,12,5,,,,
+C2E023,1:12:25,Molly,Investigation,10,10,,,,
+C2E023,1:12:29,Nott,Investigation,20,14,,,,
+C2E023,1:13:34,Jester,Investigation,13,12,,,,
+C2E023,1:14:21,Jester,Medicine,10,3,,,,
+C2E023,1:16:20,Molly,Healing,Unknown,Unknown,,,,Hit Dice
+C2E023,1:16:44,Yasha,Healing,Unknown,Unknown,,,,Hit Dice
+C2E023,1:16:47,Fjord,Healing,39,,,,,"Hit Dice, Fjord heals 39 points"
+C2E023,1:16:50,Beau,Healing,Unknown,Unknown,,,,Hit Dice
+C2E023,1:29:27,Jester,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,1:29:27,Jester,Persuasion,22,18,,,,With advantage
+C2E023,1:38:46,Jester,Deception,20,16,,,,
+C2E023,1:41:45,Nott,Stealth,14,5,,,,
+C2E023,1:42:21,Fjord,Persuasion,9,5,,,,
+C2E023,1:43:30,Caleb,Persuasion,9,6,,,,
+C2E023,1:44:32,Caleb,Perception,9,6,,,,
+C2E023,1:45:52,Yasha,Intimidation,0,2,,,,With CHA mod
+C2E023,1:50:58,Molly,Arcana,Nat20,20,,,,
+C2E023,1:53:14,Fjord,Wisdom Save,18,16,,,,
+C2E023,1:54:34,Fjord,Intelligence,10,8,,,,
+C2E023,2:07:14,Caleb,Investigation,13,5,,,,Disregarded due to advantage
+C2E023,2:07:14,Caleb,Investigation,14,6,,,,With advantage
+C2E023,2:12:02,Molly,Deception,7,4,,,,
+C2E023,2:12:02,Jester,Sleight of Hand,20,14,,,,
+C2E023,2:17:15,Nott,Insight,18,15,,,,
+C2E023,2:17:15,Jester,Insight,13,9,,,,
+C2E023,2:17:19,Molly,Insight,14,8,,,,
+C2E023,2:25:15,Fjord,Perception,16,15,,,,
+C2E023,2:25:17,Caleb,Perception,5,2,,,,
+C2E023,2:26:06,Molly,Perception,20,17,,,,
+C2E023,2:26:09,Jester,Perception,17,13,,,,
+C2E023,2:28:43,Caleb,Perception,13,10,,,,
+C2E023,2:37:17,Molly,Persuasion,9,9,,,,
+C2E023,2:42:43,Jester,Perception,15,11,,,,
+C2E023,2:43:46,Caleb,Perception,17,14,,,,
+C2E023,2:48:04,Beau,Perception,Unknown,Unknown,,,,
+C2E023,2:48:11,Yasha,Perception,15,,,,,
+C2E023,2:50:28,Nott,Perception,6,6,,,,
+C2E023,2:50:28,Caleb,Perception,13,10,,,,
+C2E023,2:51:35,Nott,Stealth,Nat1,1,,,,
+C2E023,2:52:11,Nott,Perception,12,12,,,,
+C2E023,2:52:16,Frumpkin,Perception,5,2,,,,
+C2E023,2:53:37,Nott,Perception,13,13,,,,
+C2E023,2:54:36,Nott,Perception,15,15,,,,
+C2E023,2:56:34,Nott,Perception,6,6,,,,
+C2E023,2:57:00,Jester,Stealth,Nat20,20,,,,
+C2E023,2:57:00,Molly,Stealth,Nat1,1,,,,
+C2E023,2:57:00,Yasha,Stealth,16,,,,,
+C2E023,2:57:00,Caleb,Stealth,14,13,,,,
+C2E023,2:57:00,Beau,Stealth,14,7,,,,
+C2E023,2:57:00,Fjord,Stealth,4,4,,,,
+C2E023,3:00:59,Fjord,Perception,14,13,,,,
+C2E023,3:01:42,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,3:01:42,Beau,Attack,16,9,,,,Unarmed Strike
+C2E023,3:01:53,Beau,Damage,12,,,12 to Bandit,,
+C2E023,3:02:16,Beau,Attack,Nat20,20,,,,"Unarmed Strike, Bandit goes unconscious"
+C2E023,3:03:17,Nott,Attack,13,6,,,,Hand Crossbow
+C2E023,3:03:25,Nott,Damage,8,,,8 to Bandit,,
+C2E023,3:04:04,Jester,Persuasion,Nat1,1,,,,
+C2E023,3:05:14,Caleb,Investigation,15,7,,,,
+C2E023,3:05:22,Beau,Investigation,Nat20,20,,,,
+C2E023,3:08:22,Caleb,Deception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E023,3:08:22,Caleb,Deception,Nat20,20,,,,
+C2E023,3:18:14,Jester,Perception,13,9,,,,
+C2E023,3:24:19,Beau,Perception,14,7,,,,
+C2E023,3:25:03,Beau,History,5,3,,,,Disregarded due to advantage
+C2E023,3:25:03,Beau,History,9,7,,,,With advantage
+C2E023,3:26:43,Nott,Perception,13,13,,,,
+C2E023,3:26:56,Yasha,Perception,18,,,,,
+C2E023,3:30:19,Fjord,Deception,16,9,,,,
+C2E024,0:15:16,Beau,Perception,9,6,,,,
+C2E024,0:16:21,Fjord,Perception,15,14,,,,
+C2E024,0:21:30,Caleb,Spell Attack,26,19,,,,Fire Bolt
+C2E024,0:22:53,Nott,Intelligence,18,15,,,,With advantage
+C2E024,0:22:53,Nott,Intelligence,Unknown,Unknown,,,,Disregarded due to advantage
+C2E024,0:28:01,Jester,Performance,8,7,,,,
+C2E024,0:30:19,Beau,Charisma,8,7,,,,
+C2E024,0:30:19,Molly,Charisma,6,6,,,,
+C2E024,0:40:54,Molly,Intimidation,4,4,,,,
+C2E024,0:42:04,Nott,Sleight of Hand,27,17,,,,
+C2E024,0:48:23,Beau,Dexterity,Nat1,1,,,,
+C2E024,1:05:06,Nott,Insight,20,17,,,,
+C2E024,1:08:38,Molly,Investigation,2,2,,,,
+C2E024,1:09:00,Caleb,Perception,19,16,,,,
+C2E024,1:20:05,Caleb,Perception,16,13,,,,
+C2E024,1:20:56,Jester,Investigation,15,14,,,,
+C2E024,1:23:42,Jester,Insight,22,18,,,,
+C2E024,1:38:08,Molly,Constitution,12,10,,,,
+C2E024,1:39:02,Molly,Constitution,8,6,,,,
+C2E024,1:39:18,Molly,Constitution,20,18,,,,
+C2E024,1:39:43,Molly,Constitution,19,17,,,,
+C2E024,1:41:16,Jester,Persuasion,21,17,,,,
+C2E024,1:41:16,Beau,Constitution,16,13,,,,
+C2E024,1:41:56,Beau,Constitution,21,18,,,,
+C2E024,1:42:19,Beau,Constitution,7,4,,,,
+C2E024,1:42:39,Beau,Constitution,19,16,,,,
+C2E024,1:43:43,Beau,Constitution,9,6,,,,
+C2E024,1:44:19,Beau,Constitution,5,2,,,,
+C2E024,1:46:20,Caleb,Constitution,21,19,,,,
+C2E024,1:46:50,Caleb,Constitution,5,3,,,,
+C2E024,1:47:32,Jester,Performance,19,18,,,,
+C2E024,1:47:35,Nott,Performance,12,15,,,,
+C2E024,1:47:44,Caleb,Constitution,13,11,,,,
+C2E024,1:48:15,Caleb,Constitution,14,12,,,,
+C2E024,1:48:42,Caleb,Constitution,Nat20,20,,,,
+C2E024,1:50:23,Fjord,Constitution,16,12,,,,
+C2E024,1:50:46,Fjord,Constitution,13,9,,,,
+C2E024,1:51:37,Fjord,Constitution,8,4,,,,
+C2E024,1:51:55,Fjord,Constitution,Nat20,20,,,,
+C2E024,1:52:22,Fjord,Constitution,Nat20,20,,,,
+C2E024,1:55:42,Nott,Constitution,5,3,,,,Disregarded due to Fragment of Possibility
+C2E024,1:55:42,Nott,Constitution,17,15,,,,With Fragment of Possibility
+C2E024,1:56:39,Nott,Constitution,18,16,,,,
+C2E024,1:57:39,Nott,Constitution,14,12,,,,
+C2E024,1:58:33,Nott,Constitution,21,19,,,,
+C2E024,2:04:00,Caleb,Performance,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E024,2:04:00,Caleb,Performance,5,2,,,,With disadvantage
+C2E024,2:07:50,Beau,Constitution Save,6,3,,,,
+C2E024,2:07:45,Molly,Damage,Unknown,Unknown,,Unknown to Molly,,Blood Curse of Purgation (amplified)
+C2E024,2:11:19,Jester,Investigation,16,15,,,,
+C2E024,2:23:40,Beau,Insight,12,6,,,,
+C2E024,2:27:42,Beau,Charisma Save,16,15,,,,
+C2E024,2:43:15,Fjord,Persuasion,20,16,,,,
+C2E024,2:57:26,Beau,Intimidation,13,12,,,,
+C2E024,2:57:28,Fjord,Intimidation,16,9,,,,
+C2E024,3:08:43,Fjord,Perception,8,7,,,,
+C2E024,3:11:29,Beau,Acrobatics,25,18,,,,
+C2E024,3:12:00,Beau,Perception,14,11,,,,
+C2E024,3:24:17,Jester,Insight,Unknown,Unknown,,,,
+C2E025,0:29:19,Nott,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E025,0:29:19,Nott,Perception,7,7,,,,With disadvantage
+C2E025,0:33:41,Caleb,Intelligence,Nat1,1,,,,
+C2E025,0:33:48,Molly,Intelligence,8,6,,,,
+C2E025,0:48:35,Nott,Perception,18,18,,,,
+C2E025,0:51:42,Nott,Investigation,10,4,,,,
+C2E025,0:54:49,Molly,Acrobatics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,0:54:49,Molly,Acrobatics,10,4,,,,With advantage
+C2E025,0:55:39,Molly,Performance,Nat20,20,,,,Disregarded due to disadvantage
+C2E025,0:55:39,Molly,Performance,15,15,,,,With disadvantage
+C2E025,0:57:18,Molly,Acrobatics,Nat20,20,,,,
+C2E025,0:57:56,Molly,Deception,9,6,,,,
+C2E025,1:00:18,Nott,Sleight of Hand,19,9,,,,
+C2E025,1:03:39,Beau,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,1:03:39,Beau,Persuasion,13,12,,,,With advantage
+C2E025,1:11:53,Molly,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,1:11:53,Molly,Persuasion,8,8,,,,With advantage
+C2E025,1:19:12,Molly,Perception,15,12,,,,
+C2E025,1:28:56,Nott,Thieves' Tools,14,7,,,,
+C2E025,1:29:15,Nott,Perception,4,4,,,,
+C2E025,1:30:38,Caleb,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,1:30:38,Caleb,Perception,19,16,,,,With advantage
+C2E025,1:32:10,Molly,Perception,16,13,,,,
+C2E025,1:34:35,Caleb,Intelligence,15,10,,,,
+C2E025,1:35:18,Beau,Perception,7,4,,,,
+C2E025,1:40:07,Frumpkin,Stealth,19,15,,,,
+C2E025,1:42:11,Beau,Stealth,15,8,,,,
+C2E025,1:44:11,Nott,Dexterity Save,21,14,,,,
+C2E025,1:44:18,Beau,Dexterity Save,25,18,,,,
+C2E025,1:45:08,Yasha,Initiative,19,17,,,,
+C2E025,1:45:19,Fjord,Initiative,14,14,,,,
+C2E025,1:45:23,Beau,Initiative,10,6,,,,
+C2E025,1:45:31,Caleb,Initiative,6,5,,,,
+C2E025,1:45:35,Molly,Initiative,7,4,,,,
+C2E025,1:45:31,Nott,Initiative,7,3,,,,
+C2E025,2:12:39,Jester,Initiative,6,2,,,,
+C2E025,1:47:10,Yasha,Attack,11,4,,,,Magician's Judge
+C2E025,1:47:34,Yasha,Attack,21,14,,,,Magician's Judge
+C2E025,1:47:52,Yasha,Damage,16,,,16 to Gear Keeper,,
+C2E025,1:49:59,Fjord,Spell Attack,15,8,,,,Eldritch Blast
+C2E025,1:50:15,Fjord,Spell Attack,20,13,,,,Eldritch Blast
+C2E025,1:50:39,Fjord,Damage,9,,,9 to Gear Keeper,,
+C2E025,1:51:57,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,1:51:57,Yasha,Athletics,9,3,,5 (10/2) to Yasha,,With advantage
+C2E025,1:53:02,Nott,Attack,18,11,,1 to Gear Keeper,,Hand Crossbow as bludgeoning weapon
+C2E025,1:54:11,Nott,Dexterity Save,12,5,,25 to Nott,,Against Shrapnel Blast
+C2E025,1:54:14,Beau,Dexterity Save,22,15,,12 (25/2) to Beau,,Against Shrapnel Blast
+C2E025,1:55:33,Beau,Attack,9,2,,,,Staff
+C2E025,1:55:45,Beau,Attack,9,2,,,,Staff
+C2E025,1:56:17,Beau,Attack,17,10,,,,Unarmed Strike
+C2E025,1:57:26,Nott,Perception,17,17,,,,
+C2E025,2:00:10,Molly,Attack,Nat20,20,Y,,,Summer's Dance
+C2E025,2:00:27,Molly,Damage,18,,,18 to Gear Keeper,,
+C2E025,2:00:46,Molly,Attack,12,5,,,,Summer's Dance
+C2E025,2:01:18,Molly,Attack,14,8,,,,Scimitar
+C2E025,2:03:57,Caleb,Damage,5,,,5 to Gear Keeper,,Maximilian's Earthen Grasp
+C2E025,2:04:53,Jester,Spell Attack,15,12,,,,Spiritual Weapon
+C2E025,2:05:50,Jester,Spell Attack,26,19,,,,Guiding Bolt
+C2E025,2:06:11,Jester,Damage,14,,,14 to Gear Keeper,,
+C2E025,2:07:46,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:07:46,Yasha,Attack,22,15,,,,Magician's Judge with advantage
+C2E025,2:08:08,Yasha,Damage,16,,,16 to Gear Keeper,,Gear Keeper AC lowered to 17
+C2E025,2:08:43,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:08:43,Yasha,Attack,25,18,,,,Magician's Judge with advantage
+C2E025,2:08:55,Yasha,Damage,11,,,11 to Gear Keeper,,
+C2E025,2:09:57,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:09:57,Fjord,Attack,25,18,,,,Wastehunter Falchion with advantage
+C2E025,2:10:25,Fjord,Damage,13,,,13 to Gear Keeper,,
+C2E025,2:10:48,Fjord,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:10:48,Fjord,Attack,23,16,,,,Wastehunter Falchion with advantage
+C2E025,2:11:01,Fjord,Damage,13,,,13 to Gear Keeper,,
+C2E025,2:13:55,Caleb,Constitution Save,5,3,,,,Concentration
+C2E025,2:15:57,Beau,Attack,11,4,,,,Disregarded due to advantage
+C2E025,2:15:57,Beau,Attack,18,11,,,,Staff with advantage
+C2E025,2:16:09,Beau,Damage,8,,,4 (8/2) to Gear Keeper,,
+C2E025,2:17:34,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:17:34,Beau,Attack,24,17,,,,Staff with advantage
+C2E025,2:17:44,Beau,Damage,10,,,5 (10/2) to Gear Keeper,,
+C2E025,2:18:43,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:18:43,Beau,Attack,22,15,,,,Unarmed Strike with advantage
+C2E025,2:18:50,Beau,Damage,5,,,2 (5/2) to Gear Keeper,,
+C2E025,2:19:28,Nott,Attack,22,15,,,,Hand Crossbow
+C2E025,2:19:39,Nott,Damage,8,,,6 (13/2) to Gear Keeper,,With Fury of the Small
+C2E025,2:20:27,Nott,Attack,14,7,,,,Hand Crossbow
+C2E025,2:21:06,Molly,Attack,Unknown,Unknown,,,,Summer's Dance
+C2E025,2:21:15,Molly,Attack,19,12,,,,Summer's Dance
+C2E025,2:21:32,Molly,Damage,12,,,12 to Gear Keeper,,
+C2E025,2:21:44,Molly,Attack,Nat20,20,Y,,,Scimitar
+C2E025,2:22:05,Molly,Damage,16,,,11 [5 (10/2) Slashing + 6 Cold] to Gear Keeper,,Gear Keeper AC lowered to 16
+C2E025,2:24:46,Jester,Healing,7,,,,,"Healing Word (1st), Caleb heals 7 points"
+C2E025,2:26:10,Jester,Damage,17,,,17 Necrotic to Gear Keeper,,Toll the Dead
+C2E025,2:27:33,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:27:33,Yasha,Attack,19,12,,,,Magician's Judge with advantage
+C2E025,2:27:46,Yasha,Damage,17,,,17 to Gear Keeper,,
+C2E025,2:28:05,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:28:05,Yasha,Attack,22,15,,,,Magician's Judge with advantage
+C2E025,2:28:13,Yasha,Damage,16,,,16 to Gear Keeper,,
+C2E025,2:29:33,Fjord,Attack,25,17,,,,Wastehunter Falchion
+C2E025,2:29:33,Fjord,Attack,22,14,,,,Wastehunter Falchion
+C2E025,2:29:49,Fjord,Damage,13,,,13 to Gear Keeper,,
+C2E025,2:29:52,Fjord,Damage,13,,,13 to Gear Keeper,,
+C2E025,2:31:31,Beau,Attack,24,17,,,,Staff aoO
+C2E025,2:31:43,Beau,Damage,12,,,6 (12/2) to Gear Keeper,,
+C2E025,2:32:16,Molly,Attack,24,17,,,,Summer's Dance AoO
+C2E025,2:32:24,Molly,Damage,9,,,9 to Gear Keeper,,
+C2E025,2:33:14,Caleb,Dexterity Save,20,19,,13 (27/2) to Caleb,,Against Shrapnel Blast
+C2E025,2:33:17,Beau,Dexterity Save,14,7,,27 to Beau,,"Against Shrapnel Blast, Beau is unconscious"
+C2E025,2:33:24,Molly,Dexterity Save,22,19,,13 (27/2) to Molly,,Against Shrapnel Blast
+C2E025,2:33:40,Fjord,Dexterity Save,17,16,,13 (27/2) to Fjord,,Against Shrapnel Blast
+C2E025,2:33:42,Jester,Dexterity Save,10,6,,27 to Jester,,Against Shrapnel Blast
+C2E025,2:35:35,Caleb,Constitution Save,12,10,,,,Concentration
+C2E025,2:36:01,Beau,Death Save,14,14,,,,Beau succeeds one death save
+C2E025,2:36:22,Nott,Attack,25,18,,,,Hand Crossbow SA
+C2E025,2:36:30,Nott,Damage,10,,,5 (10/2) to Gear Keeper,,
+C2E025,2:36:56,Nott,Attack,23,16,,,,Hand Crossbow
+C2E025,2:37:01,Nott,Damage,6,,,3 (6/2) to Gear Keeper,,
+C2E025,2:38:23,Molly,Attack,22,15,,,,Summer's Dance
+C2E025,2:38:28,Molly,Damage,12,,,12 to Gear Keeper,,
+C2E025,2:38:38,Molly,Attack,24,17,,,,Summer's Dance
+C2E025,2:38:45,Molly,Damage,10,,,10 to Gear Keeper,1,HDYWTDT
+C2E025,2:41:34,Jester,Healing,12,,,,,"Cure Wounds (1st), Beau heals 12 points, is conscious"
+C2E025,2:41:38,Jester,Healing,10,,,,,"Cure Wounds (1st), Caleb heals 10 points"
+C2E025,2:41:46,Nott,Thieves' Tools,13,6,,,,
+C2E025,2:42:15,Molly,Strength,8,8,,,,
+C2E025,2:42:38,Yasha,Strength,Unknown,Unknown,,,,
+C2E025,2:42:59,Nott,Thieves' Tools,26,19,,,,
+C2E025,2:43:59,Beau,Investigation,12,7,,,,
+C2E025,2:44:43,Nott,Investigation,Nat1,1,,,,
+C2E025,2:45:13,Caleb,Healing,Unknown,,,,,Hit dice
+C2E025,2:45:26,Beau,Healing,Unknown,,,,,Hit dice
+C2E025,2:45:29,Yasha,Investigation,11,,,,,
+C2E025,2:52:15,Molly,Insight,8,2,,,,
+C2E025,2:52:25,Beau,Deception,Unknown,Unknown,,,,
+C2E025,2:52:58,Nott,Investigation,12,6,,,,Nott regains Burning Bolt
+C2E025,2:56:18,Molly,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
+C2E025,2:56:18,Molly,Persuasion,6,6,,,,With advantage
+C2E025,3:28:13,Nott,Perception,14,14,,,,
+C2E025,3:28:48,Nott,Sleight of Hand,22,12,,,,
+C2E025,3:30:49,Nott,Perception,9,9,,,,
+C2E025,3:30:49,Caleb,Perception,8,5,,,,
+C2E025,3:34:22,Yasha,Wisdom Save,11,12,,,,Against Hold Person
+C2E025,3:35:22,Yasha,Wisdom Save,Nat20,20,,,,Against Hold Person
+C2E025,3:35:57,Jester,Strength,10,7,,,,
+C2E025,3:36:23,Yasha,Attack,25,18,,,,Magician's Judge
+C2E025,3:36:31,Yasha,Damage,18,,,18 to Attacker,,
+C2E025,3:36:51,Yasha,Attack,9,2,,,,Magician's Judge
+C2E025,3:37:11,Yasha,Athletics,13,7,,,,
+C2E025,3:37:40,Yasha,Wisdom Save,3,4,,,,Against Hold Person
+C2E025,3:38:31,Yasha,Athletics,25,19,,,,
+C2E025,3:38:58,Yasha,Wisdom Save,17,18,,,,Against Hold Person
+C2E025,3:39:11,Yasha,Athletics,8,2,,,,
+C2E026,0:21:05,Caleb,Perception,9,6,,,,
+C2E026,0:14:29,Nott,Investigation,8,2,,,,
+C2E026,0:15:00,Molly,Investigation,2,2,,,,
+C2E026,0:15:50,Beau,Investigation,Nat1,1,,,,
+C2E026,0:17:13,Caleb,Perception,Nat20,20,,,,
+C2E026,0:19:23,Nott,Survival,12,9,,,,
+C2E026,0:21:45,Nott,Survival,14,11,,,,
+C2E026,0:22:43,Molly,Perception,14,11,,,,
+C2E026,0:24:20,Beau,Stealth,12,5,,,,
+C2E026,0:25:58,Keg,Perception,18,16,,,,
+C2E026,0:40:15,Beau,History,Nat1,1,,,,
+C2E026,0:51:53,Beau,Perception,18,15,,,,
+C2E026,0:53:31,Beau,Survival,12,9,,,,
+C2E026,0:54:20,Keg,Survival,Nat1,1,,,,
+C2E026,0:58:58,Nott,Investigation,18,12,,,,
+C2E026,0:59:04,Keg,Investigation,3,4,,,,
+C2E026,0:59:05,Molly,Investigation,2,2,,,,
+C2E026,1:01:54,Nott,Perception,13,10,,,,
+C2E026,1:01:54,Molly,Perception,14,11,,,,
+C2E026,1:01:54,Keg,Perception,19,17,,,,
+C2E026,1:01:58,Beau,Perception,16,13,,,,
+C2E026,1:08:46,Keg,Initiative,Nat1,1,,,,
+C2E026,1:08:51,Beau,Initiative,20,16,,,,
+C2E026,1:08:56,Molly,Initiative,16,13,,,,
+C2E026,1:09:00,Nott,Initiative,10,6,,,,
+C2E026,1:09:07,Caleb,Initiative,3,2,,,,
+C2E026,1:09:58,Beau,Attack,15,8,,,,Staff
+C2E026,1:11:09,Beau,Damage,5,,,5 to Ankheg 1,,
+C2E026,1:11:21,Beau,Attack,21,14,,,,Staff
+C2E026,1:11:37,Beau,Damage,12,,,12 to Ankheg 1,,
+C2E026,1:12:44,Beau,Attack,13,6,,,,Unarmed Strike with advantage
+C2E026,1:12:44,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E026,1:14:17,Molly,Attack,Nat1,1,,,,Disregarded due to advantage
+C2E026,1:14:17,Molly,Attack,25,18,,,,Summer's Dance with advantage
+C2E026,1:14:25,Molly,Damage,13,,,13 (10 + 3 Radiant) to Ankheg 1,,
+C2E026,1:14:41,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E026,1:14:41,Molly,Attack,19,12,,,,Summer's Dance with advantage
+C2E026,1:14:48,Molly,Damage,11,,,11 (9 + 2 Radiant) to Ankheg 1,1,
+C2E026,1:18:13,Caleb,Dexterity Save,Nat20,20,,,,Disregarded
+C2E026,1:18:19,Molly,Dexterity Save,22,19,,7 (14/2) Acid to Molly,,Against Acid Spray
+C2E026,1:18:58,Molly,Dexterity Save,11,8,,14 Acid to Molly,,Against Acid Spray
+C2E026,1:19:30,Caleb,Dexterity Save,3,2,,14 Acid to Caleb,,Against Acid Spray
+C2E026,1:19:30,Beau,Dexterity Save,Nat1,1,,14 Acid to Beau,,Against Acid Spray
+C2E026,1:20:52,Keg,Acrobatics,Nat20,20,,,,
+C2E026,1:21:17,Keg,Attack,17,10,,,,Warhammer
+C2E026,1:21:20,Keg,Attack,25,18,,,,Battleaxe
+C2E026,1:21:27,Keg,Damage,6,,,6 to Ankheg 2,,
+C2E026,1:21:29,Keg,Damage,12,,,12 to Ankheg 2,,
+C2E026,1:21:38,Keg,Attack,15,8,,,,Warhammer
+C2E026,1:21:44,Keg,Damage,9,,,9 to Ankheg 2,,
+C2E026,1:22:14,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E026,1:22:14,Nott,Attack,12,4,,,,Tinkertop Boltblaster 1000
+C2E026,1:23:20,Beau,Attack,15,8,,,,Staff
+C2E026,1:23:36,Beau,Damage,9,,,9 to Ankheg 3,,
+C2E026,1:23:44,Beau,Attack,16,9,,,,Staff
+C2E026,1:23:50,Beau,Damage,11,,,11 to Ankheg 3,,
+C2E026,1:23:56,Beau,Attack,21,14,,,,Staff
+C2E026,1:24:00,Beau,Damage,7,,,7 to Ankheg 3,,
+C2E026,1:24:18,Beau,Attack,26,19,,,,Unarmed Stirke
+C2E026,1:24:18,Beau,Attack,9,2,,,,Unarmed Stirke
+C2E026,1:24:25,Beau,Damage,10,,,10 to Ankheg 3,1,
+C2E026,1:26:01,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E026,1:26:01,Molly,Attack,25,18,,,,Summer's Dance with advantage
+C2E026,1:26:09,Molly,Damage,14,,,14 to Ankheg 2,,
+C2E026,1:26:17,Molly,Attack,26,19,,,,Summer's Dance with advantage
+C2E026,1:26:17,Molly,Attack,Nat1,1,,,,Disregarded due to advantage
+C2E026,1:26:25,Molly,Damage,14,,,14 to Ankheg 2,1,
+C2E026,1:28:20,Nott,Stealth,Nat20,20,,,,
+C2E026,1:29:53,Keg,Attack,Unknown,Unknown,,,,Warhammer
+C2E026,1:29:57,Keg,Attack,Unknown,Unknown,,,,Warhammer
+C2E026,1:30:00,Keg,Damage,9,,,9 to Ankheg 4,,
+C2E026,1:30:04,Keg,Attack,Unknown,Unknown,,,,Battleaxe
+C2E026,1:30:07,Keg,Damage,7,,,7 to Ankheg 4,,
+C2E026,1:31:25,Caleb,Damage,4,,,4 to Ankheg 4,,Magic Missile
+C2E026,1:31:29,Caleb,Damage,2,,,2 to Ankheg 4,,Magic Missile
+C2E026,1:31:31,Caleb,Damage,4,,,4 to Ankheg 4,,Magic Missile
+C2E026,1:32:08,Beau,Attack,13,6,,,,Staff
+C2E026,1:32:23,Beau,Attack,18,11,,,,Staff
+C2E026,1:32:31,Beau,Damage,15,,,15 to Ankheg 4,1,HDYWTDT
+C2E026,1:34:13,Molly,Medicine,9,6,,,,
+C2E026,1:34:27,Keg,Medicine,13,,,,,
+C2E026,1:35:22,Nott,Medicine,3,3,,,,
+C2E026,1:39:01,Beau,Nature,12,10,,,,
+C2E026,1:42:13,Beau,Medicine,Nat20,20,,,,
+C2E026,1:43:52,Nott,Dexterity,16,12,,,,
+C2E026,1:45:04,Keg,Dexterity,15,13,,,,
+C2E026,1:46:47,Beau,Dexterity,24,17,,,,
+C2E026,1:47:34,Beau,Perception,17,14,,,,
+C2E026,1:50:07,Molly,Perception,Nat20,20,,,,
+C2E026,1:50:07,Caleb,Perception,16,13,,,,
+C2E026,1:56:17,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E026,1:56:17,Frumpkin,Perception,14,11,,,,With disadvantage
+C2E026,2:01:12,Beau,Stealth,11,4,,,,
+C2E026,2:01:12,Nott,Stealth,16,6,,,,
+C2E026,2:01:50,Molly,Hit Dice,Unknown,Unknown,,,,
+C2E026,2:02:02,Caleb,Stealth,10,9,,,,
+C2E026,2:02:17,Keg,Stealth,Nat20,20,,,,Disregarded due to disadvantage
+C2E026,2:02:17,Keg,Stealth,Nat20,20,,,,With disadvantage
+C2E026,2:03:11,Molly,Stealth,12,9,,,,
+C2E026,2:04:12,Beau,Wisdom Save,15,12,,,,
+C2E026,2:05:02,Beau,Persuasion,18,17,,,,
+C2E026,2:11:36,Keg,Insight,15,,,,,
+C2E026,#VALUE!,Keg,Perception,16,14,,,,
+C2E026,2:20:44,Molly,Sleight of Hand,8,2,,,,
+C2E026,2:27:49,Caleb,Perception,7,9,,,,"With advantage, minus five"
+C2E026,2:27:49,Caleb,Perception,Nat1,1,,,,Disregarded due to disadvantage
+C2E026,2:30:11,Keg,Constitution Save,Nat20,20,,,,
+C2E026,2:30:19,Molly,Constitution Save,21,19,,,,
+C2E026,2:30:22,Nott,Constitution Save,13,11,,,,
+C2E026,2:30:23,Beau,Constitution Save,18,15,,,,
+C2E026,2:30:24,Caleb,Constitution Save,8,6,,,,Caleb takes 1 point of exhaustion
+C2E026,2:31:15,Beau,Perception,9,6,,,,
+C2E026,2:32:20,Frumpkin,Perception,5,2,,,,
+C2E026,2:33:02,Nott,Perception,13,13,,,,
+C2E026,2:33:03,Keg,Perception,10,8,,,,
+C2E026,2:39:27,Beau,Perception,13,10,,,,
+C2E026,2:39:28,Molly,Perception,9,6,,,,
+C2E026,2:40:51,Beau,Other,Nat20,20,,,,Card Game
+C2E026,2:40:53,Molly,Other,17,17,,,,Card Game
+C2E026,2:43:36,Caleb,Perception,Unknown,Unknown,,,,
+C2E026,2:44:04,Frumpkin,Perception,11,8,,,,Disregarded due to advantage
+C2E026,2:44:04,Frumpkin,Perception,13,10,,,,With advantage
+C2E026,2:49:11,Molly,Perception,Nat20,20,,,,Minus five
+C2E026,2:50:10,Keg,Perception,17,15,,,,
+C2E026,2:52:33,Keg,Perception,15,13,,,,
+C2E026,2:54:54,Keg,Wisdom Save,9,7,,,,
+C2E026,3:00:11,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E026,3:00:11,Frumpkin,Perception,20,17,,,,With advantage
+C2E026,3:06:25,Beau,Stealth,20,13,,,,
+C2E026,3:06:26,Nott,Stealth,19,9,,,,
+C2E026,3:07:06,Nott,Constitution Save,12,10,,,,
+C2E026,3:07:07,Keg,Constitution Save,15,8,,,,
+C2E026,3:07:12,Beau,Constitution Save,5,2,,,,Beau takes 1 point of exhaustion
+C2E026,3:07:30,Molly,Constitution Save,18,16,,,,
+C2E026,3:07:35,Caleb,Constitution Save,6,4,,,,Caleb takes 1 point of exhaustion
+C2E026,3:08:54,Keg,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E026,3:08:54,Keg,Perception,7,5,,,,With disadvantage
+C2E026,3:17:46,Nott,Acrobatics,11,4,,,,
+C2E026,3:17:47,Molly,Athletics,7,7,,,,
+C2E026,3:26:09,Keg,Athletics,19,,,,,
+C2E026,3:28:56,Keg,Athletics,15,,,,,
+C2E026,3:44:59,Keg,Strength,18,14,,,,
+C2E026,3:46:09,Keg,Stealth,12,,,,,
+C2E026,3:46:09,Caleb,Stealth,19,18,,,,
+C2E026,3:46:09,Beau,Stealth,20,13,,,,
+C2E026,3:46:09,Nott,Stealth,18,8,,,,
+C2E026,3:46:09,Molly,Stealth,20,17,,,,
+C2E026,3:47:54,Nott,Initiative,21,17,,,,
+C2E026,3:47:55,Beau,Initiative,20,16,,,,
+C2E026,3:48:09,Molly,Initiative,18,15,,,,
+C2E026,3:48:11,Caleb,Initiative,14,13,,,,
+C2E026,3:48:44,Keg,Initiative,8,6,,,,
+C2E026,3:53:46,Beau,Attack,23,16,,,,Staff
+C2E026,3:54:17,Beau,Damage,8,,,8 to Dwelma,,
+C2E026,3:54:37,Beau,Attack,20,13,,,,Staff
+C2E026,3:54:46,Beau,Damage,8,,,8 to Dwelma,,
+C2E026,3:58:14,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E026,3:58:14,Molly,Attack,25,18,,,,Summer's Dance with advantage
+C2E026,3:58:27,Molly,Damage,7,,,7 to Dwelma,,
+C2E026,3:58:37,Molly,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E026,3:58:37,Molly,Attack,23,16,,,,Summer's Dance with advantage
+C2E026,3:58:44,Molly,Damage,12,,,12 to Dwelma,,
+C2E026,4:01:33,Molly,Damage,5,,,5 to Molly,,Amplified Blood Curse
+C2E026,4:03:39,Caleb,Spell Attack,16,8,,,,Glove of Scorching Ray
+C2E026,4:03:49,Caleb,Spell Attack,17,9,,,,Glove of Scorching Ray
+C2E026,4:04:07,Caleb,Spell Attack,10,2,,,,Glove of Scorching Ray
+C2E026,4:04:13,Caleb,Damage,10,,,10 Fire to Ruzza,,
+C2E026,4:08:38,Keg,Acrobatics,5,3,,,,
+C2E026,4:09:21,Keg,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E026,4:09:21,Keg,Attack,12,5,,,,Javelin with disadvantage
+C2E026,4:09:43,Keg,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E026,4:09:43,Keg,Attack,Unknown,Unknown,,,,Javelin with disadvantage
+C2E026,4:11:10,Beau,Attack,12,5,,,,Staff AoO
+C2E026,4:11:26,Beau,Damage,5,,,5 to Dwelma,,
+C2E026,4:12:35,Beau,Dexterity Save,Nat20,20,,20 (41/2) Cold to Beau,,Against Cone of Cold
+C2E026,4:12:35,Molly,Dexterity Save,19,16,,20 (41/2) Cold to Molly,,Against Cone of Cold
+C2E026,4:12:35,Nott,Dexterity Save,11,4,,,,Against Cone of Cold
+C2E026,4:12:35,Nott,Dexterity Save,Unknown,Unknown,,20 (41/2) Cold to Nott,,Fragment of Possibility Roll
+C2E026,4:14:08,Nott,Thieves' Tools,12,5,,,,
+C2E026,4:14:46,Nott,Strength,3,3,,,,
+C2E026,4:15:26,Nott,Stealth,29,19,,,,
+C2E026,4:15:59,Beau,Attack,Nat20,20,Y,,,Staff
+C2E026,4:16:09,Beau,Damage,10,,,10 to Dwelma,,
+C2E026,4:16:22,Beau,Attack,21,14,,,,Staff
+C2E026,4:16:39,Caleb,Wisdom Save,22,16,,,,
+C2E026,4:17:17,Beau,Damage,11,,,11 to Dwelma,1,
+C2E026,4:18:09,Beau,Acrobatics,14,7,,,,
+C2E026,4:19:33,Molly,Wisdom Save,25,19,,,,Against Hold Person
+C2E026,4:19:33,Beau,Wisdom Save,21,18,,,,Against Hold Person
+C2E026,4:20:33,Molly,Acrobatics,10,4,,,,
+C2E026,4:20:54,Molly,Attack,Nat20,20,Y,,,Summer's Dance
+C2E026,4:21:13,Molly,Damage,18,,,18 to Lorenzo,,
+C2E026,4:21:25,Molly,Attack,10,3,,,,Summer's Dance
+C2E026,4:21:29,Molly,Attack,10,3,,,,Scimitar
+C2E026,4:22:19,Molly,Damage,4,,,4 to Molly,,"Amplified Blood Curse, Molly is unconscious"
+C2E026,4:23:23,Beau,Attack,14,7,,,,Staff Reaction
+C2E026,4:28:36,Keg,Persuasion,11,,,,,
+C2E026,4:29:59,Nott,Thieves' Tools,Nat1,1,,,,
+C2E026,4:31:39,Beau,Damage,4,,,4 Fire to Lorenzo,,
+C2E026,4:31:50,Beau,Attack,12,5,,,,Staff
+C2E026,4:32:03,Beau,Attack,18,11,,,,Staff
+C2E026,4:32:11,Beau,Damage,6,,,6 to Lorenzo,,
+C2E026,4:34:41,Beau,Damage,4,,,4 Fire to Lorenzo,,
+C2E027,0:52:46,Keg,Perception,13,11,,,,
+C2E027,0:54:07,Nott,Medicine,Nat12,12,,,,
+C2E027,0:59:20,Keg,Perception,19,17,,,,
+C2E027,1:00:22,Keg,Perception,15,13,,,,
+C2E027,1:01:25,Beau,Perception,6,3,,,,
+C2E027,1:02:30,Nott,Perception,Nat4,4,,,,
+C2E027,1:02:30,Caleb,Perception,Unknown,Unknown,,,,
+C2E027,1:03:03,Nott,Constitution Save,4,2,,,,Disregarded due to advantage
+C2E027,1:03:03,Nott,Constitution Save,4,2,,,,
+C2E027,1:03:34,Keg,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E027,1:03:34,Keg,Constitution Save,15,8,,,,
+C2E027,1:03:40,Caleb,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E027,1:03:40,Caleb,Constitution Save,21,19,,,,
+C2E027,1:03:47,Beau,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E027,1:03:47,Beau,Constitution Save,12,9,,,,
+C2E027,1:03:50,Nila,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E027,1:03:50,Nila,Constitution Save,21,18,,,,
+C2E027,1:17:56,Keg,Stealth,19,,,,,with PWaT
+C2E027,1:17:56,Beau,Stealth,21,14,,,,with PWaT
+C2E027,1:40:12,Keg,Insight,Nat1,1,,,,
+C2E027,1:41:01,Keg,Deception,19,,,,,
+C2E027,1:44:33,Nila,Wisdom,14,10,,,,
+C2E027,1:45:28,Caleb,Wisdom,19,16,,,,
+C2E027,1:46:03,Keg,Wisdom,9,7,,,,
+C2E027,2:10:02,Keg,Insight,8,,,,,
+C2E027,2:16:43,Keg,History,17,,,,,
+C2E027,2:16:46,Caleb,History,Nat1,1,,,,
+C2E027,2:19:24,Nila,Nature,8,6,,,,
+C2E027,2:20:46,Nila,Perception,8,4,,,,
+C2E027,2:21:19,Nila,Animal Handling,19,12,,,,
+C2E027,2:29:47,Caleb,Persuasion,5,2,,,,
+C2E027,2:31:06,Beau,Perception,21,18,,,,
+C2E027,2:38:28,Beau,Insight,25,19,,,,
+C2E027,2:40:42,Keg,Persuasion,Unknown,Unknown,,,,Disregarded due to advantage
+C2E027,2:40:42,Keg,Persuasion,12,,,,,
+C2E027,2:51:31,Caleb,Perception,14,11,,,,
+C2E027,2:52:24,Keg,Sleight of Hand,18,,,,,
+C2E027,2:52:30,Beau,Perception,9,6,,,,
+C2E027,2:54:23,Keg,Survival,18,,,,,
+C2E027,2:56:54,Caleb,Stealth,4,3,,,,
+C2E027,2:56:54,Keg,Stealth,14,,,,,
+C2E027,2:56:54,Nott,Stealth,25,15,,,,
+C2E027,2:56:54,Beau,Stealth,17,10,,,,
+C2E027,2:56:54,Nila,Stealth,14,12,,,,
+C2E027,2:59:37,Keg,Intelligence,Nat1,1,,,,
+C2E027,3:02:36,Keg,Stealth,33,,,,,"with PWaT, Disregarded due to disadvantage"
+C2E027,3:02:36,Keg,Stealth,23,,,,,
+C2E027,3:02:36,Nott,Stealth,39,19,,,,with PWaT
+C2E027,3:02:36,Caleb,Stealth,26,15,,,,with PWaT
+C2E027,3:02:36,Beau,Stealth,21,4,,,,with PWaT
+C2E027,3:02:36,Nila,Stealth,27,15,,,,with PWaT
+C2E027,3:08:50,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E027,3:08:50,Frumpkin,Perception,22,19,,,,as an owl
+C2E027,3:24:17,Frumpkin,Stealth,13,10,,,,as an owl
+C2E027,3:26:08,Nila,Perception,6,2,,,,
+C2E027,3:31:01,Nila,Stealth,17,15,,,,
+C2E027,3:33:17,Nila,Strength,Nat9,9,,,,as a mouse
+C2E027,3:38:38,Nila,Perception,19,15,,,,
+C2E027,3:41:24,Nila,Stealth,Nat7,7,,,,Disregarded due to Luck
+C2E027,3:41:38,Nila,Stealth,Nat20,20,,,,with Luck
+C2E027,3:43:00,Frumpkin,Stealth,17,14,,,,as an owl
+C2E027,3:48:35,Keg,Stealth,Nat1,1,,,,
+C2E028,0:26:15,Keg,History,12,,,,,
+C2E028,0:34:21,Nila,Survival,10,3,,,,Disregarded due to Luck
+C2E028,0:34:40,Nila,Survival,24,17,,,,With Luck
+C2E028,0:38:09,Nott,Perception,11,11,,,,
+C2E028,0:39:44,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,0:39:44,Frumpkin,Perception,21,18,,,,"As owl, with advantage"
+C2E028,0:45:42,Beau,Investigation,10,5,,,,
+C2E028,0:46:32,Nila,Nature,17,15,,,,
+C2E028,0:48:20,Caleb,Perception,16,13,,,,
+C2E028,0:49:06,Nott,Acrobatics,19,12,,,,
+C2E028,0:50:52,Beau,Investigation,21,16,,,,
+C2E028,0:52:49,Caleb,Stealth,9,8,,,,
+C2E028,0:52:58,Nott,Perception,13,13,,,,
+C2E028,0:53:54,Nott,Stealth,12,2,,,,
+C2E028,0:57:20,Caleb,Insight,19,13,,,,
+C2E028,1:13:46,Nila,Survival,21,14,,,,Disregarded due to advantage
+C2E028,1:13:46,Nila,Survival,21,14,,,,With advantage
+C2E028,1:14:27,Nott,Attack,12,4,,,,Tinkertop Boltblaster 1000
+C2E028,1:14:37,Nott,Attack,Nat20,20,Y,,,Tinkertop Boltblaster 1000
+C2E028,1:14:56,Nott,Damage,16,,,,,
+C2E028,1:15:28,Beau,Deflect Missiles,18,,,,,
+C2E028,1:15:47,Nott,Attack,23,15,,,,Tinkertop Boltblaster 1000
+C2E028,1:15:54,Nott,Damage,8,,,8 to Beau,,
+C2E028,1:17:16,Caduceus,Healing,6,,,,,"Cure Wounds (1st), Beau heals 6 points"
+C2E028,1:28:08,Caduceus,Wisdom,21,16,,,,
+C2E028,1:30:29,Caduceus,Stealth,7,6,,,,
+C2E028,1:30:30,Nott,Stealth,26,16,,,,
+C2E028,1:30:32,Keg,Stealth,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E028,1:30:32,Keg,Stealth,7,,,,,With disadvantage
+C2E028,1:30:33,Caleb,Stealth,10,9,,,,
+C2E028,1:30:34,Beau,Stealth,12,5,,,,
+C2E028,1:30:35,Nila,Stealth,20,18,,,,
+C2E028,1:34:32,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,1:34:32,Frumpkin,Perception,18,15,,,,With advantage
+C2E028,1:56:44,Keg,Perception,20,18,,,,
+C2E028,2:00:16,Beau,Stealth,20,13,,,,With PWaT
+C2E028,2:00:43,Nila,Stealth,15,3,,,,With PWaT
+C2E028,2:01:29,Keg,Attack,15,8,,,,Javelin with advantage
+C2E028,2:01:29,Keg,Attack,Nat1,1,,,,Disregarded due to advantage
+C2E028,2:01:33,Nott,Attack,Nat20,20,Y,,,Tinkertop Boltblaster 1000 with advantage
+C2E028,2:01:33,Nott,Attack,3,3,,,,Disregarded due to advantage
+C2E028,2:01:53,Nott,Damage,24,,,24 to Guard,,
+C2E028,2:02:03,Keg,Damage,5,,,5 to Guard,,
+C2E028,2:02:12,Nott,Attack,24,16,,,,Tinkertop Boltblaster 1000
+C2E028,2:02:16,Nott,Damage,9,,,9 to Guard,1,
+C2E028,2:02:28,Keg,Strength,10,3,,,,
+C2E028,2:03:30,Beau,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E028,2:03:30,Beau,Attack,15,8,,,,Unarmed Strike with advantage
+C2E028,2:03:49,Beau,Damage,6,,,6 to Guard,,
+C2E028,2:04:49,Nila,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:04:49,Nila,Attack,17,10,,,,Shillelagh with advantage
+C2E028,2:05:11,Nila,Damage,13,,,13 to Guard,,
+C2E028,2:05:20,Beau,Attack,23,16,,,,Unarmed Strike with advantage
+C2E028,2:05:20,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:05:34,Beau,Damage,12,,,12 to Guard,1,
+C2E028,2:07:20,Keg,Strength,24,17,,,,
+C2E028,2:08:06,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:08:06,Frumpkin,Perception,19,16,,,,"With owl stats, with advantage"
+C2E028,2:10:00,Nott,Investigation,15,9,,,,
+C2E028,2:11:04,Nila,Investigation,16,17,,,,
+C2E028,2:11:55,Keg,Stealth,12,7,,,,With disadvantage
+C2E028,2:11:55,Keg,Stealth,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E028,2:12:16,Nila,Stealth,Nat4,4,,,,With PWaT (called as 4 plus 10)
+C2E028,2:11:35,Nott,Stealth,Unknown,Unknown,,,,
+C2E028,2:12:55,Caduceus,Perception,16,8,,,,
+C2E028,2:13:38,Beau,Perception,Nat20,20,,,,
+C2E028,2:14:17,Nott,Thieves' Tools,23,16,,,,
+C2E028,2:18:06,Keg,Stealth,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E028,2:18:06,Keg,Stealth,17,2,,,,With disadvantage and PWaT
+C2E028,2:18:08,Nott,Stealth,23,13,,,,
+C2E028,2:18:15,Nila,Stealth,12,2,,,,"With PWaT, didn't add stealth mod"
+C2E028,2:19:17,Caduceus,Deception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:19:17,Caduceus,Deception,Nat20,20,,,,With advantage
+C2E028,2:23:45,Frumpkin,Stealth,18,14,,,,As spider
+C2E028,2:29:07,Keg,Perception,14,12,,,,
+C2E028,2:30:55,Nott,Investigation,22,16,,,,
+C2E028,2:31:07,Nott,Thieves' Tools,9,2,,,,
+C2E028,2:33:36,Nott,Stealth,Nat1,1,,,,
+C2E028,2:34:28,Keg,Initiative,10,10,,,,
+C2E028,2:34:33,Caleb,Initiative,Nat20,20,,,,
+C2E028,2:34:37,Beau,Initiative,21,17,,,,
+C2E028,2:34:37,Beau,Other,7,,,,,Boots
+C2E028,2:35:12,Nott,Initiative,15,11,,,,
+C2E028,2:35:14,Nila,Initiative,18,16,,,,
+C2E028,2:35:23,Caduceus,Initiative,12,11,,,,
+C2E028,2:36:44,Beau,Dexterity,Nat20,20,,,,
+C2E028,2:41:01,Nila,Damage,12,,,12 Poison to Guard,,Poison Spray
+C2E028,2:42:04,Nott,Thieves' Tools,12,5,,,,
+C2E028,2:43:48,Keg,Attack,17,,,,,Battleaxe
+C2E028,2:43:56,Keg,Damage,8,,,8 to Guard,,
+C2E028,2:44:13,Keg,Attack,22,15,,,,Warhammer
+C2E028,2:44:20,Keg,Damage,11,,,11 to Guard,1,
+C2E028,2:44:39,Keg,Attack,11,4,,,,Battleaxe
+C2E028,2:44:56,Keg,Attack,12,5,,,,Warhammer
+C2E028,2:45:59,Beau,Acrobatics,14,7,,,,
+C2E028,2:47:17,Caleb,Spell Attack,15,7,,,,Fire Bolt
+C2E028,2:47:34,Caleb,Damage,10,,,10 Fire to Phil,,
+C2E028,2:50:54,Nila,Attack,19,12,,,,Shillelagh with advantage
+C2E028,2:50:54,Nila,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:51:07,Nila,Damage,10,,,10 to Phil,,
+C2E028,2:56:17,Caduceus,Acrobatics,14,13,,,,
+C2E028,2:57:02,Keg,Attack,18,11,,,,Warhammer
+C2E028,2:57:07,Keg,Damage,9,,,9 to Phil,1,
+C2E028,2:58:12,Keg,Attack,11,4,,,,Battleaxe with advantage
+C2E028,2:58:12,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:58:39,Keg,Attack,20,13,,,,Warhammer with advantage
+C2E028,2:58:39,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:58:47,Keg,Damage,10,,,10 to Juam,,
+C2E028,2:59:19,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:59:19,Keg,Attack,14,7,,,,Warhammer with advantage
+C2E028,2:59:44,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,2:59:44,Keg,Attack,17,10,,,,Warhammer with advantage
+C2E028,2:59:49,Keg,Damage,11,,,11 to Juam,,
+C2E028,2:59:57,Keg,Attack,Nat20,20,Y,,,Battleaxe with advantage
+C2E028,2:59:57,Keg,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,3:00:19,Keg,Damage,14,,,14 to Juam,,
+C2E028,3:04:47,Caleb,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E028,3:04:47,Caleb,Spell Attack,13,5,,,,Fire Bolt with disadvantage
+C2E028,3:07:20,Nila,Strength,19,17,,,,
+C2E028,3:09:22,Nott,Thieves' Tools,13,6,,,,
+C2E028,3:09:32,Nott,Thieves' Tools,Unknown,Unknown,,,,
+C2E028,3:11:35,Caduceus,Healing,6,,,,,"Healing Word (1st), Keg heals 6 points"
+C2E028,3:12:57,Beau,Attack,17,10,,,,Disregarded due to advantage
+C2E028,3:12:57,Beau,Attack,20,13,,,,Throwing Star with advantage
+C2E028,3:13:23,Beau,Damage,5,,,5 to Juam,,
+C2E028,3:13:29,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,3:13:29,Beau,Attack,21,14,,,,Throwing Star with advantage
+C2E028,3:13:33,Beau,Damage,8,,,8 to Juam,,
+C2E028,3:14:42,Caleb,Spell Attack,Unknown,Unknown,,,,Glove of Scorching Ray
+C2E028,3:14:50,Caleb,Spell Attack,15,8,,,,Glove of Scorching Ray
+C2E028,3:14:57,Caleb,Spell Attack,Unknown,Unknown,,,,Glove of Scorching Ray
+C2E028,3:15:04,Caleb,Damage,8,,,8 Fire to Juam,,
+C2E028,3:15:07,Caleb,Damage,8,,,8 Fire to Juam,1,HDYWTDT
+C2E028,3:16:05,Caleb,Wisdom Save,13,7,,,,
+C2E028,3:36:50,Nott,Thieves' Tools,15,8,,,,
+C2E028,3:17:08,Nila,Strength,Unknown,Unknown,,,,Disregarded due to advantage
+C2E028,3:17:08,Nila,Strength,Unknown,Unknown,,,,With advantage
+C2E028,3:17:24,Caduceus,Healing,12,,,,,"Cure Wounds (1st), Keg heals 12 points"
+C2E028,3:18:10,Keg,Investigation,14,7,,,,
+C2E028,3:20:02,Nott,Investigation,26,20,,,,bad math/mod
+C2E028,3:21:03,Nott,Thieves' Tools,22,15,,,,
+C2E028,3:22:13,Frumpkin,Perception,15,15,,,,As spider
+C2E028,3:25:13,Frumpkin,Stealth,19,15,,,,As spider
+C2E028,3:32:18,Caduceus,Deception,18,15,,,,
+C2E028,3:33:08,Beau,Deception,21,17,,,,
+C2E028,3:34:28,Nila,Attack,Nat20,20,Y,,,Shillelagh
+C2E028,3:34:33,Keg,Attack,19,12,,,,Battleaxe
+C2E028,3:34:35,Nott,Attack,15,7,,,,Tinkertop Boltblaster 1000
+C2E028,3:34:30,Caduceus,Attack,20,17,,,,Staff
+C2E028,3:34:48,Beau,Attack,12,5,,,,Staff
+C2E028,3:34:58,Nila,Damage,16,,,16 to Guard,,
+C2E028,3:35:05,Keg,Damage,6,,,6 to Guard,,
+C2E028,3:35:21,Caduceus,Damage,8,,,8 to Guard,,
+C2E028,3:35:42,Nott,Damage,18,,,18 to Guard,,
+C2E028,3:39:54,Nila,Dexterity Save,21,19,,4 (8/2) to Nila,,Against trap
+C2E028,3:39:56,Nott,Dexterity Save,11,4,,8 to Nott,,Against trap
+C2E028,3:41:14,Nila,Investigation,7,8,,,,With Luck
+C2E028,3:41:14,Nila,Investigation,Nat1,1,,,,Disregarded due to Luck
+C2E028,3:43:46,Nila,Healing,7,,,,,"Healing Word (1st), Asar heals 7 points"
+C2E028,3:45:09,Nila,Strength,21,19,,,,
+C2E028,3:46:26,Nott,Thieves' Tools,Nat1,1,,,,
+C2E028,3:47:34,Nott,Investigation,Nat1,1,,,,
+C2E028,3:47:34,Nila,Healing,5,,,,,"Healing Word (1st), Ketor heals 5 points, is conscious"
 C2E029,0:24:07,Keg,Stealth,Unknown,Unknown,,,,Disregarded due to disadvantage
 C2E029,0:24:07,Keg,Stealth,9,4,,,,With disadvantage
 C2E029,0:32:15,Frumpkin,Perception,17,17,,,,
@@ -4673,368 +4673,366 @@ C2E039,4:02:48,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
 C2E039,4:02:48,Yasha,Attack,25,18,,,,Magician's Judge Reckless
 C2E039,4:02:58,Yasha,Damage,20,,,20 to Warden,,
 C2E039,4:03:18,Yasha,Damage,10,,,10 to Warden,1,Warden dies- HDYWTDT
-C2E40,0:18:56,Caduceus,Perception,27,19,,,,
-C2E40,0:20:01,Beau,Perception,19,19,,,,
-C2E40,0:33:19,Caleb,Arcana,17,9,,,,
-C2E40,0:35:19,Nott,Investigation,25,16,,,,
-C2E40,0:38:34,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,0:38:34,Fjord,Athletics,19,16,,,,With advantage
-C2E40,0:39:26,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,0:39:26,Fjord,Athletics,14,11,,,,With advantage
-C2E40,0:40:31,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,0:40:31,Fjord,Athletics,20,17,,,,With advantage
-C2E40,0:40:53,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,0:40:53,Fjord,Athletics,Nat20,20,,,,With advantage
-C2E40,0:41:34,Fjord,Investigation,23,18,,,,
-C2E40,0:43:51,Fjord,Initiative,6,6,,,,
-C2E40,0:47:03,Fjord,Investigation,12,7,,,,
-C2E40,0:47:35,Fjord,Athletics,7,4,,,,
-C2E40,0:47:52,Fjord,Deception,Nat20,20,,,,
-C2E40,0:50:39,Caleb,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E40,0:50:39,Caleb,Perception,15,12,,,,With disadvantage
-C2E40,0:51:55,Nott,Intelligence,12,9,,,,
-C2E40,0:52:17,Nott,Investigation,Nat20,20,,,,
-C2E40,0:53:54,Yasha,Strength,Unknown,Unknown,,,,
-C2E40,0:54:09,Beau,Acrobatics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,0:54:09,Beau,Acrobatics,12,5,,,,With advantage
-C2E40,0:56:04,Nott,Attack,16,8,,,,TTBB1000
-C2E40,0:57:12,Caduceus,Damage,12,,,"30 (12 to Broodguard 1 + 12 to Broodguard 2 
+C2E040,0:18:56,Caduceus,Perception,27,19,,,,
+C2E040,0:20:01,Beau,Perception,19,19,,,,
+C2E040,0:33:19,Caleb,Arcana,17,9,,,,
+C2E040,0:35:19,Nott,Investigation,25,16,,,,
+C2E040,0:38:34,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,0:38:34,Fjord,Athletics,19,16,,,,With advantage
+C2E040,0:39:26,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,0:39:26,Fjord,Athletics,14,11,,,,With advantage
+C2E040,0:40:31,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,0:40:31,Fjord,Athletics,20,17,,,,With advantage
+C2E040,0:40:53,Fjord,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,0:40:53,Fjord,Athletics,Nat20,20,,,,With advantage
+C2E040,0:41:34,Fjord,Investigation,23,18,,,,
+C2E040,0:43:51,Fjord,Initiative,6,6,,,,
+C2E040,0:47:03,Fjord,Investigation,12,7,,,,
+C2E040,0:47:35,Fjord,Athletics,7,4,,,,
+C2E040,0:47:52,Fjord,Deception,Nat20,20,,,,
+C2E040,0:50:39,Caleb,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E040,0:50:39,Caleb,Perception,15,12,,,,With disadvantage
+C2E040,0:51:55,Nott,Intelligence,12,9,,,,
+C2E040,0:52:17,Nott,Investigation,Nat20,20,,,,
+C2E040,0:53:54,Yasha,Strength,Unknown,Unknown,,,,
+C2E040,0:54:09,Beau,Acrobatics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,0:54:09,Beau,Acrobatics,12,5,,,,With advantage
+C2E040,0:56:04,Nott,Attack,16,8,,,,TTBB1000
+C2E040,0:57:12,Caduceus,Damage,12,,,"30 (12 to Broodguard 1 + 12 to Broodguard 2 
 + 6 (12/2) to Pit Master)",,Spirit Guardians
-C2E40,0:57:36,Nott,Damage,9,,,9 to Pit Master,,
-C2E40,0:57:52,Nott,Attack,16,8,,,,TTBB1000
-C2E40,0:57:36,Nott,Damage,11,,,11 to Pit Master,,
-C2E40,0:58:26,Beau,Initiative,20,16,,,,
-C2E40,0:58:44,Yasha,Initiative,13,11,,,,
-C2E40,0:58:52,Caleb,Initiative,7,6,,,,
-C2E40,0:58:52,Caduceus,Initiative,7,6,,,,
-C2E40,0:58:52,Jester,Initiative,7,3,,,,
-C2E40,0:58:55,Nott,Initiative,9,4,,,,
-C2E40,0:59:00,Fjord,Initiative,Nat1,1,,,,
-C2E40,1:03:05,Caduceus,Damage,19,,,19 to Pit Master,,Spirit Guardians
-C2E40,1:07:35,Yasha,Attack,19,12,,,,Magician's Judge Reckless
-C2E40,1:07:47,Yasha,Damage,13,,,13 to Broodguard 2,,
-C2E40,1:07L54,Yasha,Attack,19,12,,,,Magician's Judge Reckless
-C2E40,1:08:00,Yasha,Damage,13,,,13 to Broodguard 2,,
-C2E40,1:09:30,Nott,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E40,1:09:30,Nott,Spell Attack,15,9,,,,Shocking Grasp with disadvantage
-C2E40,1:09:45,Nott,Damage,8,,,8 to Broodguard 1,,
-C2E40,1:12:14,Jester,Damage,10,,,10 Necrotic to Broodguard 1,,Toll the Dead
-C2E40,1:14:16,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E40,1:14:16,Fjord,Spell Attack,16,9,,,,Eldritch Blast with disadvantage
-C2E40,1:14:23,Fjord,Damage,9,,,9 to Broodguard 2,,
-C2E40,1:14:37,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E40,1:14:37,Fjord,Spell Attack,16,9,,,,Eldritch Blast with disadvantage
-C2E40,1:14:56,Fjord,Damage,11,,,11 to Broodguard 2,1,
-C2E40,1:17:43,Caduceus,Damage,16,,,16 to Pit Master,,Spirit Guardians
-C2E40,1:19:38,Caduceus,Damage,15,,,15 to Broodguard 1,1,Spirit Guardians
-C2E40,1:22:17,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E40,1:22:17,Nott,Attack,15,7,,,,Shortsword SA with disadvantage
-C2E40,1:22:34,Nott,Damage,15,,,15 to Pit Master,1,HDYWTDT
-C2E40,1:23:29,Nott,Constitution Save,12,10,,,,
-C2E40,1:24:05,Jester,Constitution Save,9,7,,,,
-C2E40,1:24:30,Caduceus,Constitution Save,8,6,,,,
-C2E40,1:25:51,Caleb,Dexterity,Nat20,20,,,,Disregarded due to disadvantage
-C2E40,1:25:51,Caleb,Dexterity,4,3,,,,With disadvantage
-C2E40,1:26:53,Fjord,Constitution Save,9,4,,,,
-C2E40,1:27:09,Caleb,Constitution Save,15,13,,,,
-C2E40,1:29:57,Caduceus,Death Save,14,14,,,,Caduceus succeeds 1 death save
-C2E40,1:32:34,Fjord,Dexterity,12,11,,,,
-C2E40,1:34:35,Beau,Dexterity,24,19,,,,
-C2E40,1:34:36,Caleb,Dexterity,3,2,,,,
-C2E40,1:34:44,Nott,Dexterity,Nat20,20,,,,
-C2E40,1:34:50,Jester,Dexterity,22,18,,,,
-C2E40,1:34:52,Yasha,Dexterity,18,16,,,,
-C2E40,1:38:22,Beau,Acrobatics,Nat20,20,,,,
-C2E40,1:38:23,Fjord,Acrobatics,Nat20,20,,,,
-C2E40,1:38:26,Yasha,Acrobatics,5,3,,,,
-C2E40,1:38:30,Caleb,Acrobatics,20,19,,,,
-C2E40,1:38:33,Nott,Acrobatics,23,16,,,,
-C2E40,1:38:37,Jester,Acrobatics,23,19,,,,
-C2E40,1:39:48,Jester,Healing,5,,,,,"Cure Wounds (1st), Caduceus heals 5 points, is conscious"
-C2E40,1:42:16,Caleb,Survival,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,1:42:16,Caleb,Survival,Nat20,20,,,,With advantage
-C2E40,1:43:29,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,1:43:29,Yasha,Athletics,22,16,,,,With advantage
-C2E40,1:44:57,Caduceus,Deception,15,12,,,,
-C2E40,1:48:00,Nott,Strength,15,15,,,,
-C2E40,1:48:50,Caleb,Spell Attack,20,15,,,,Scorching Ray
-C2E40,1:48:54,Caleb,Spell Attack,12,7,,,,Scorching Ray
-C2E40,1:49:03,Caleb,Spell Attack,7,2,,,,Scorching Ray
-C2E40,1:49:40,Caleb,Damage,12,,,12 to Keg,,
-C2E40,1:51:24,Fjord,Constitution Save,23,18,,,,
-C2E40,1:51:25,Yasha,Constitution Save,20,15,,,,
-C2E40,1:51:30,Beau,Constitution Save,11,9,,,,
-C2E40,1:51:31,Caleb,Constitution Save,Nat1,1,,,,1 point of exhaustion
-C2E40,1:51:34,Nott,Constitution Save,10,8,,,,
-C2E40,1:51:39,Jester,Constitution Save,8,6,,,,1 point of exhaustion
-C2E40,1:51:43,Caduceus,Constitution Save,18,16,,,,
-C2E40,1:54:31,Nott,Stealth,Unknown,Unknown,,,,Disregarded due to advantage
-C2E40,1:54:31,Nott,Stealth,22,12,,,,With advantage
-C2E40,1:55:40,Nott,Arcana,20,17,,,,
-C2E40,1:58:34,Fjord,Constitution Save,12,7,,,,
-C2E40,1:58:36,Yasha,Constitution Save,9,4,,,,1 point of exhaustion
-C2E40,1:58:42,Beau,Constitution Save,20,18,,,,
-C2E40,1:58:44,Caleb,Constitution Save,Nat2,2,,,,1 point of exhaustion
-C2E40,1:58:56,Nott,Constitution Save,Unknown,Unknown,,,,1 point of exhaustion
-C2E40,1:58:56,Jester,Constitution Save,16,14,,,,
-C2E40,1:59:01,Caduceus,Constitution Save,10,8,,,,1 point of exhaustion
-C2E40,1:59:52,Yasha,Strength,Nat20,20,,,,Disregarded due to disadvantage
-C2E40,1:59:52,Yasha,Strength,19,19,,,,With disadvantage
-C2E40,2:01:47,Caleb,Arcana,Nat1,1,,,,
-C2E40,2:22:15,Beau,History,17,15,,,,
-C2E40,2:45:19,Fjord,Deception,23,16,,,,
-C2E40,2:52:45,Fjord,Constitution,16,11,,,,
-C2E40,2:54:15,Fjord,Stealth,18,18,,,,
-C2E40,2:56:17,Caleb,Hit Points,4,2,,,,
-C2E40,2:56:21,Fjord,Hit Points,9,5,,,,
-C2E40,2:56:26,Beau,Hit Points,5,2,,,,
-C2E40,2:56:32,Nott,Hit Points,10,8,,,,
-C2E40,2:56:51,Caduceus,Hit Points,6,Unknown,,,,Unsure if total or natural
-C2E41,0:37:55,Jester,Dexterity,17,13,,,,
-C2E41,0:45:58,Fjord,Perception,20,19,,,,
-C2E41,0:48:53,Caduceus,Perception,22,14,,,,
-C2E41,0:49:20,Jester,Perception,Unknown,Unknown,,,,
-C2E41,0:58:03,Nott,Intelligence,Nat1,1,,,,
-C2E41,1:00:42,Nott,Intelligence,20,17,,,,
-C2E41,1:05:55,Caduceus,Intimidation,22,19,,,,
-C2E41,1:09:46,Caleb,Intimidation,11,4,,,,
-C2E41,1:12:03,Beau,Investigation,24,19,,,,
-C2E41,1:18:06,Fjord,Intimidation,23,16,,,,
-C2E41,1:21:08,Beau,Perception,6,3,,,,Disregarded due to advantage
-C2E41,1:21:08,Beau,Perception,7,4,,,,
-C2E41,1:22:51,Jester,Persuasion,17,13,,,,
-C2E41,1:24:15,Jester,Dexterity,19,15,,,,
-C2E41,1:26:45,Yasha,Initiative,19,17,,,,
-C2E41,1:26:48,Fjord,Initiative,6,6,,,,
-C2E41,1:26:53,Beau,Initiative,18,14,,,,
-C2E41,1:27:45,Yasha,Attack,11,4,,,,Magician's Judge against Guard
-C2E41,1:27:49,Yasha,Attack,12,5,,,,Magician's Judge against Guard
-C2E41,1:28:29,Beau,Attack,19,12,,,,Unarmed Strike against Guard
-C2E41,1:28:39,Caleb,Initiative,9,9,,,,
-C2E41,1:28:51,Beau,Damage,5,,,5 to Guard,,
-C2E41,1:29:39,Beau,Attack,20,13,,,,Unarmed Strike against Guard
-C2E41,1:29:45,Beau,Damage,6,,,6 to Guard,,
-C2E41,1:30:32,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-C2E41,1:30:32,Beau,Attack,Nat18,18,,,,Unarmed Strike against Guard
-C2E41,1:30:38,Beau,Damage,5,,,5 to Guard,,
-C2E41,1:32:30,Caleb,Spell Attack,15,7,,,,Vampiric Touch via Frumpkin against Guard
-C2E41,1:32:47,Caleb,Damage,8,,,8 to Guard,,
-C2E41,1:33:30,Fjord,Intimidation,24,16,,,,
-C2E41,1:33:30,Fjord,Intimidation,Unknown,Unknown,,,,Disregarded due to advantage
-C2E41,1:33:47,Yasha,Athletics,21,15,,,,
-C2E41,1:33:47,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E41,1:36:53,Fjord,Insight,8,10,,,,
-C2E41,1:41:18,Caduceus,Healing,14,,,Fjord and Soma heal 14,,Prayer of Healing
-C2E41,1:44:54,Nott,Investigation,20,11,,,,
-C2E41,1:45:51,Nott,Thieves' Tools,28,18,,,,
-C2E41,1:46:45,Nott,Thieves' Tools,27,17,,,,
-C2E41,1:55:50,Nott,Deception,10,13,,,,
-C2E41,1:58:22,Beau,Sleight of Hand,Nat1,1,,,,
-C2E41,1:59:25,Caduceus,Healing,13,,,Fjord heals 13,,Cure Wounds
-C2E41,2:22:22,Caduceus,Perception,15,7,,,,
-C2E41,2:30:10,Caleb,Perception,22,14,,,,
-C2E41,2:49:33,Nott,Sleight of Hand,Nat1,1,,,,
-C2E41,2:50:23,Nott,Dexterity,15,11,,,,
-C2E41,2:51:59,Jester,Perception,Nat20,20,,,,
-C2E41,2:52:06,Caduceus,Perception,14,6,,,,
-C2E41,2:52:08,Nott,Perception,19,19,,,,
-C2E41,2:52:10,Caleb,Perception,14,11,,,,
-C2E41,2:52:11,Beau,Perception,20,17,,,,
-C2E41,2:52:16,Yasha,Perception,19,17,,,,
-C2E41,2:52:18,Fjord,Perception,10,9,,,,
-C2E41,2:53:53,Fjord,History,17,15,,,,
-C2E41,2:53:58,Caleb,History,25,17,,,,
-C2E41,2:54:01,Beau,History,11,5,,,,
-C2E41,3:13:04,Fjord,Perception,9,8,,,,
-C2E41,3:23:44,Fjord,Perception,17,16,,,,
-C2E42,0:24:54,Caduceus,Insight,26,18,,,,
-C2E42,0:30:50,Caleb,Deception,17,11,,,,
-C2E42,0:33:42,Jester,Attack,15,9,,4 to Sorris,,Unarmed Strike
-C2E42,0:34:08,Jester,Initiative,16,12,,,,
-C2E42,0:34:38,Jester,Athletics,16,13,,,,
-C2E42,0:35:49,Jester,Attack,Nat1,1,,,,Unarmed Strike
-C2E42,0:36:50,Jester,Attack,23,17,,4 to Sorris,,Unarmed Strike
-C2E42,0:37:22,Jester,Attack,16,10,,,,Unarmed Strike (Grapple)
-C2E42,0:37:36,Jester,Athletics,5,2,,,,
-C2E42,0:38:22,Jester,Attack,19,13,,4 to Sorris,,Unarmed Strike
-C2E42,0:38:47,Jester,Athletics,6,3,,,,
-C2E42,0:39:23,Jester,Attack,13,7,,,,Unarmed Strike
-C2E42,0:40:13,Jester,Attack,16,10,,4 to Sorris,,Unarmed Strike
-C2E42,0:41:26,Jester,Healing,6,,,,,"Cure Wounds (1st), Sorris heals 6 points"
-C2E42,0:41:47,Jester,Persuasion,21,17,,,,
-C2E42,0:53:26,Fjord,History,17,15,,,,
-C2E42,0:53:40,Jester,History,19,18,,,,
-C2E42,0:53:40,Caleb,History,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E42,0:53:40,Caleb,History,13,5,,,,With disadvantage
-C2E42,1:01:54,Jester,Perception,15,11,,,,
-C2E42,1:01:54,Caduceus,Perception,11,3,,,,
-C2E42,1:14:38,Caleb,Perception,11,8,,,,
-C2E42,1:28:48,Jester,Hit Dice,Unknown,Unknown,,,,Jester heals unknown points
-C2E42,1:33:22,Jester,Perception,19,15,,,,
-C2E42,1:33:22,Beau,Perception,21,18,,,,
-C2E42,1:33:22,Caduceus,Perception,26,18,,,,
-C2E42,1:34:47,Fjord,History,19,17,,,,
-C2E42,1:34:50,Caleb,History,12,4,,,,
-C2E42,1:48:27,Fjord,Other,Nat1,1,,,,To see if the mission will succeed
-C2E42,1:57:36,Beau,Perception,13,10,,,,
-C2E42,2:06:16,Fjord,Perception,11,10,,,,
-C2E42,2:06:31,Fjord,Perception,3,2,,,,
-C2E42,2:07:31,Fjord,Perception,3,2,,,,
-C2E42,2:13:43,Jester,Stealth,Nat20,20,,,,With PWaT
-C2E42,2:13:46,Nott,Stealth,28,8,,,,With PWaT
-C2E42,2:15:14,Frumpkin,Perception,6,3,,,,With disadvantage
-C2E42,2:15:14,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E42,2:16:37,Nott,Investigation,19,10,,,,
-C2E42,2:16:40,Jester,Investigation,9,8,,,,
-C2E42,2:19:02,Nott,Investigation,12,3,,,,
-C2E42,2:20:20,Nott,Thieves' Tools,15,5,,,,
-C2E42,2:20:38,Jester,Strength,18,15,,,,
-C2E42,2:23:54,Nott,Stealth,33,13,,,,With PWaT
-C2E42,2:23:57,Jester,Stealth,18,14,,,,With PWaT
-C2E42,2:26:33,Nott,Constitution Save,Nat1,1,,,,Disregarded due to fragment of possibility
-C2E42,2:26:33,Nott,Constitution Save,9,7,,,,"With Fragment of Possibility, Nott is confused"
-C2E42,2:28:02,Nott,Wisdom Save,11,11,,,,
-C2E42,2:29:23,Nott,Wisdom Save,19,19,,,,
-C2E42,2:31:39,Caleb,Performance,5,2,,,,
-C2E42,2:36:21,Caduceus,Healing,18,,,,,"Cure Wounds (2nd), Waldok heals 18 points"
-C2E42,2:37:37,Nott,Strength,19,19,,,,
-C2E42,2:39:15,Nott,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-C2E42,2:39:15,Nott,Perception,19,19,,,,With advantage
-C2E42,2:39:18,Jester,Perception,Unknown,Unknown,,,,Disregarded due to advantage
-C2E42,2:39:18,Jester,Perception,22,18,,,,With advantage
-C2E42,2:41:57,Nott,Stealth,36,16,,,,With PWaT
-C2E42,2:42:03,Jester,Stealth,21,7,,,,With PWaT
-C2E42,2:44:20,Nott,Athletics,14,14,,,,Disregarded
-C2E42,2:44:20,Jester,Athletics,19,16,,,,
-C2E42,2:45:01,Jester,Stealth,Nat20,20,,,,With PWaT
-C2E42,2:45:02,Nott,Stealth,38,18,,,,With PWaT
-C2E42,2:47:42,Caleb,Perception,12,9,,,,
-C2E42,2:48:24,Beau,Intimidation,9,8,,,,
-C2E42,2:54:30,Caduceus,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E42,2:54:30,Caduceus,Perception,22,14,,,,With disadvantage
-C2E42,2:56:33,Beau,Insight,10,4,,,,
-C2E42,2:57:56,Beau,Deception,15,11,,,,
-C2E42,2:59:20,Caduceus,Medicine,23,15,,,,
-C2E42,3:00:02,Caduceus,Healing,21,,,,,"Cure Wounds (2nd), Bart heals 21 points"
-C2E42,3:00:57,Caduceus,Deception,7,4,,,,
-C2E42,3:02:27,Nott,Perception,7,7,,,,
-C2E42,3:02:33,Beau,Perception,7,4,,,,
-C2E42,3:07:15,Jester,Deception,8,4,,,,
-C2E42,3:07:15,Caduceus,Insight,13,5,,,,
-C2E42,3:14:34,Caleb,Intelligence,Nat20,20,,,,
-C2E42,3:29:57,Jester,Perception,13,9,,,,
-C2E42,3:35:04,Jester,Perception,7,3,,,,
-C2E42,3:35:56,Jester,Persuasion,22,18,,,,
-C2E42,3:36:21,Jester,Sleight of Hand,15,9,,,,
-C2E43,0:17:20,Caleb,Damage,17,,,"101 Fire {16 [8 (17/2) to Vera+ 8 (17/2) to Crew] + 
+C2E040,0:57:36,Nott,Damage,9,,,9 to Pit Master,,
+C2E040,0:57:52,Nott,Attack,16,8,,,,TTBB1000
+C2E040,0:57:36,Nott,Damage,11,,,11 to Pit Master,,
+C2E040,0:58:26,Beau,Initiative,20,16,,,,
+C2E040,0:58:44,Yasha,Initiative,13,11,,,,
+C2E040,0:58:52,Caleb,Initiative,7,6,,,,
+C2E040,0:58:52,Caduceus,Initiative,7,6,,,,
+C2E040,0:58:52,Jester,Initiative,7,3,,,,
+C2E040,0:58:55,Nott,Initiative,9,4,,,,
+C2E040,0:59:00,Fjord,Initiative,Nat1,1,,,,
+C2E040,1:03:05,Caduceus,Damage,19,,,19 to Pit Master,,Spirit Guardians
+C2E040,1:07:35,Yasha,Attack,19,12,,,,Magician's Judge Reckless
+C2E040,1:07:47,Yasha,Damage,13,,,13 to Broodguard 2,,
+C2E040,1:07L54,Yasha,Attack,19,12,,,,Magician's Judge Reckless
+C2E040,1:08:00,Yasha,Damage,13,,,13 to Broodguard 2,,
+C2E040,1:09:30,Nott,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E040,1:09:30,Nott,Spell Attack,15,9,,,,Shocking Grasp with disadvantage
+C2E040,1:09:45,Nott,Damage,8,,,8 to Broodguard 1,,
+C2E040,1:12:14,Jester,Damage,10,,,10 Necrotic to Broodguard 1,,Toll the Dead
+C2E040,1:14:16,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E040,1:14:16,Fjord,Spell Attack,16,9,,,,Eldritch Blast with disadvantage
+C2E040,1:14:23,Fjord,Damage,9,,,9 to Broodguard 2,,
+C2E040,1:14:37,Fjord,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E040,1:14:37,Fjord,Spell Attack,16,9,,,,Eldritch Blast with disadvantage
+C2E040,1:14:56,Fjord,Damage,11,,,11 to Broodguard 2,1,
+C2E040,1:17:43,Caduceus,Damage,16,,,16 to Pit Master,,Spirit Guardians
+C2E040,1:19:38,Caduceus,Damage,15,,,15 to Broodguard 1,1,Spirit Guardians
+C2E040,1:22:17,Nott,Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E040,1:22:17,Nott,Attack,15,7,,,,Shortsword SA with disadvantage
+C2E040,1:22:34,Nott,Damage,15,,,15 to Pit Master,1,HDYWTDT
+C2E040,1:23:29,Nott,Constitution Save,12,10,,,,
+C2E040,1:24:05,Jester,Constitution Save,9,7,,,,
+C2E040,1:24:30,Caduceus,Constitution Save,8,6,,,,
+C2E040,1:25:51,Caleb,Dexterity,Nat20,20,,,,Disregarded due to disadvantage
+C2E040,1:25:51,Caleb,Dexterity,4,3,,,,With disadvantage
+C2E040,1:26:53,Fjord,Constitution Save,9,4,,,,
+C2E040,1:27:09,Caleb,Constitution Save,15,13,,,,
+C2E040,1:29:57,Caduceus,Death Save,14,14,,,,Caduceus succeeds 1 death save
+C2E040,1:32:34,Fjord,Dexterity,12,11,,,,
+C2E040,1:34:35,Beau,Dexterity,24,19,,,,
+C2E040,1:34:36,Caleb,Dexterity,3,2,,,,
+C2E040,1:34:44,Nott,Dexterity,Nat20,20,,,,
+C2E040,1:34:50,Jester,Dexterity,22,18,,,,
+C2E040,1:34:52,Yasha,Dexterity,18,16,,,,
+C2E040,1:38:22,Beau,Acrobatics,Nat20,20,,,,
+C2E040,1:38:23,Fjord,Acrobatics,Nat20,20,,,,
+C2E040,1:38:26,Yasha,Acrobatics,5,3,,,,
+C2E040,1:38:30,Caleb,Acrobatics,20,19,,,,
+C2E040,1:38:33,Nott,Acrobatics,23,16,,,,
+C2E040,1:38:37,Jester,Acrobatics,23,19,,,,
+C2E040,1:39:48,Jester,Healing,5,,,,,"Cure Wounds (1st), Caduceus heals 5 points, is conscious"
+C2E040,1:42:16,Caleb,Survival,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,1:42:16,Caleb,Survival,Nat20,20,,,,With advantage
+C2E040,1:43:29,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,1:43:29,Yasha,Athletics,22,16,,,,With advantage
+C2E040,1:44:57,Caduceus,Deception,15,12,,,,
+C2E040,1:48:00,Nott,Strength,15,15,,,,
+C2E040,1:48:50,Caleb,Spell Attack,20,15,,,,Scorching Ray
+C2E040,1:48:54,Caleb,Spell Attack,12,7,,,,Scorching Ray
+C2E040,1:49:03,Caleb,Spell Attack,7,2,,,,Scorching Ray
+C2E040,1:49:40,Caleb,Damage,12,,,12 to Keg,,
+C2E040,1:51:24,Fjord,Constitution Save,23,18,,,,
+C2E040,1:51:25,Yasha,Constitution Save,20,15,,,,
+C2E040,1:51:30,Beau,Constitution Save,11,9,,,,
+C2E040,1:51:31,Caleb,Constitution Save,Nat1,1,,,,1 point of exhaustion
+C2E040,1:51:34,Nott,Constitution Save,10,8,,,,
+C2E040,1:51:39,Jester,Constitution Save,8,6,,,,1 point of exhaustion
+C2E040,1:51:43,Caduceus,Constitution Save,18,16,,,,
+C2E040,1:54:31,Nott,Stealth,Unknown,Unknown,,,,Disregarded due to advantage
+C2E040,1:54:31,Nott,Stealth,22,12,,,,With advantage
+C2E040,1:55:40,Nott,Arcana,20,17,,,,
+C2E040,1:58:34,Fjord,Constitution Save,12,7,,,,
+C2E040,1:58:36,Yasha,Constitution Save,9,4,,,,1 point of exhaustion
+C2E040,1:58:42,Beau,Constitution Save,20,18,,,,
+C2E040,1:58:44,Caleb,Constitution Save,Nat2,2,,,,1 point of exhaustion
+C2E040,1:58:56,Nott,Constitution Save,Unknown,Unknown,,,,1 point of exhaustion
+C2E040,1:58:56,Jester,Constitution Save,16,14,,,,
+C2E040,1:59:01,Caduceus,Constitution Save,10,8,,,,1 point of exhaustion
+C2E040,1:59:52,Yasha,Strength,Nat20,20,,,,Disregarded due to disadvantage
+C2E040,1:59:52,Yasha,Strength,19,19,,,,With disadvantage
+C2E040,2:01:47,Caleb,Arcana,Nat1,1,,,,
+C2E040,2:22:15,Beau,History,17,15,,,,
+C2E040,2:45:19,Fjord,Deception,23,16,,,,
+C2E040,2:52:45,Fjord,Constitution,16,11,,,,
+C2E040,2:54:15,Fjord,Stealth,18,18,,,,
+C2E040,2:56:17,Caleb,Hit Points,4,2,,,,
+C2E040,2:56:21,Fjord,Hit Points,9,5,,,,
+C2E040,2:56:26,Beau,Hit Points,5,2,,,,
+C2E040,2:56:32,Nott,Hit Points,10,8,,,,
+C2E040,2:56:51,Caduceus,Hit Points,6,Unknown,,,,Unsure if total or natural
+C2E041,0:37:55,Jester,Dexterity,17,13,,,,
+C2E041,0:45:58,Fjord,Perception,20,19,,,,
+C2E041,0:48:53,Caduceus,Perception,22,14,,,,
+C2E041,0:49:20,Jester,Perception,Unknown,Unknown,,,,
+C2E041,0:58:03,Nott,Intelligence,Nat1,1,,,,
+C2E041,1:00:42,Nott,Intelligence,20,17,,,,
+C2E041,1:05:55,Caduceus,Intimidation,22,19,,,,
+C2E041,1:09:46,Caleb,Intimidation,11,4,,,,
+C2E041,1:12:03,Beau,Investigation,24,19,,,,
+C2E041,1:18:06,Fjord,Intimidation,23,16,,,,
+C2E041,1:21:08,Beau,Perception,6,3,,,,Disregarded due to advantage
+C2E041,1:21:08,Beau,Perception,7,4,,,,
+C2E041,1:22:51,Jester,Persuasion,17,13,,,,
+C2E041,1:24:15,Jester,Dexterity,19,15,,,,
+C2E041,1:26:45,Yasha,Initiative,19,17,,,,
+C2E041,1:26:48,Fjord,Initiative,6,6,,,,
+C2E041,1:26:53,Beau,Initiative,18,14,,,,
+C2E041,1:27:45,Yasha,Attack,11,4,,,,Magician's Judge against Guard
+C2E041,1:27:49,Yasha,Attack,12,5,,,,Magician's Judge against Guard
+C2E041,1:28:29,Beau,Attack,19,12,,,,Unarmed Strike against Guard
+C2E041,1:28:39,Caleb,Initiative,9,9,,,,
+C2E041,1:28:51,Beau,Damage,5,,,5 to Guard,,
+C2E041,1:29:39,Beau,Attack,20,13,,,,Unarmed Strike against Guard
+C2E041,1:29:45,Beau,Damage,6,,,6 to Guard,,
+C2E041,1:30:32,Beau,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E041,1:30:32,Beau,Attack,Nat18,18,,,,Unarmed Strike against Guard
+C2E041,1:30:38,Beau,Damage,5,,,5 to Guard,,
+C2E041,1:32:30,Caleb,Spell Attack,15,7,,,,Vampiric Touch via Frumpkin against Guard
+C2E041,1:32:47,Caleb,Damage,8,,,8 to Guard,,
+C2E041,1:33:30,Fjord,Intimidation,24,16,,,,
+C2E041,1:33:30,Fjord,Intimidation,Unknown,Unknown,,,,Disregarded due to advantage
+C2E041,1:33:47,Yasha,Athletics,21,15,,,,
+C2E041,1:33:47,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E041,1:36:53,Fjord,Insight,8,10,,,,
+C2E041,1:41:18,Caduceus,Healing,14,,,Fjord and Soma heal 14,,Prayer of Healing
+C2E041,1:44:54,Nott,Investigation,20,11,,,,
+C2E041,1:45:51,Nott,Thieves' Tools,28,18,,,,
+C2E041,1:46:45,Nott,Thieves' Tools,27,17,,,,
+C2E041,1:55:50,Nott,Deception,10,13,,,,
+C2E041,1:58:22,Beau,Sleight of Hand,Nat1,1,,,,
+C2E041,1:59:25,Caduceus,Healing,13,,,Fjord heals 13,,Cure Wounds
+C2E041,2:22:22,Caduceus,Perception,15,7,,,,
+C2E041,2:30:10,Caleb,Perception,22,14,,,,
+C2E041,2:49:33,Nott,Sleight of Hand,Nat1,1,,,,
+C2E041,2:50:23,Nott,Dexterity,15,11,,,,
+C2E041,2:51:59,Jester,Perception,Nat20,20,,,,
+C2E041,2:52:06,Caduceus,Perception,14,6,,,,
+C2E041,2:52:08,Nott,Perception,19,19,,,,
+C2E041,2:52:10,Caleb,Perception,14,11,,,,
+C2E041,2:52:11,Beau,Perception,20,17,,,,
+C2E041,2:52:16,Yasha,Perception,19,17,,,,
+C2E041,2:52:18,Fjord,Perception,10,9,,,,
+C2E041,2:53:53,Fjord,History,17,15,,,,
+C2E041,2:53:58,Caleb,History,25,17,,,,
+C2E041,2:54:01,Beau,History,11,5,,,,
+C2E041,3:13:04,Fjord,Perception,9,8,,,,
+C2E041,3:23:44,Fjord,Perception,17,16,,,,
+C2E042,0:24:54,Caduceus,Insight,26,18,,,,
+C2E042,0:30:50,Caleb,Deception,17,11,,,,
+C2E042,0:33:42,Jester,Attack,15,9,,4 to Sorris,,Unarmed Strike
+C2E042,0:34:08,Jester,Initiative,16,12,,,,
+C2E042,0:34:38,Jester,Athletics,16,13,,,,
+C2E042,0:35:49,Jester,Attack,Nat1,1,,,,Unarmed Strike
+C2E042,0:36:50,Jester,Attack,23,17,,4 to Sorris,,Unarmed Strike
+C2E042,0:37:22,Jester,Attack,16,10,,,,Unarmed Strike (Grapple)
+C2E042,0:37:36,Jester,Athletics,5,2,,,,
+C2E042,0:38:22,Jester,Attack,19,13,,4 to Sorris,,Unarmed Strike
+C2E042,0:38:47,Jester,Athletics,6,3,,,,
+C2E042,0:39:23,Jester,Attack,13,7,,,,Unarmed Strike
+C2E042,0:40:13,Jester,Attack,16,10,,4 to Sorris,,Unarmed Strike
+C2E042,0:41:26,Jester,Healing,6,,,,,"Cure Wounds (1st), Sorris heals 6 points"
+C2E042,0:41:47,Jester,Persuasion,21,17,,,,
+C2E042,0:53:26,Fjord,History,17,15,,,,
+C2E042,0:53:40,Jester,History,19,18,,,,
+C2E042,0:53:40,Caleb,History,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E042,0:53:40,Caleb,History,13,5,,,,With disadvantage
+C2E042,1:01:54,Jester,Perception,15,11,,,,
+C2E042,1:01:54,Caduceus,Perception,11,3,,,,
+C2E042,1:14:38,Caleb,Perception,11,8,,,,
+C2E042,1:28:48,Jester,Hit Dice,Unknown,Unknown,,,,Jester heals unknown points
+C2E042,1:33:22,Jester,Perception,19,15,,,,
+C2E042,1:33:22,Beau,Perception,21,18,,,,
+C2E042,1:33:22,Caduceus,Perception,26,18,,,,
+C2E042,1:34:47,Fjord,History,19,17,,,,
+C2E042,1:34:50,Caleb,History,12,4,,,,
+C2E042,1:48:27,Fjord,Other,Nat1,1,,,,To see if the mission will succeed
+C2E042,1:57:36,Beau,Perception,13,10,,,,
+C2E042,2:06:16,Fjord,Perception,11,10,,,,
+C2E042,2:06:31,Fjord,Perception,3,2,,,,
+C2E042,2:07:31,Fjord,Perception,3,2,,,,
+C2E042,2:13:43,Jester,Stealth,Nat20,20,,,,With PWaT
+C2E042,2:13:46,Nott,Stealth,28,8,,,,With PWaT
+C2E042,2:15:14,Frumpkin,Perception,6,3,,,,With disadvantage
+C2E042,2:15:14,Frumpkin,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E042,2:16:37,Nott,Investigation,19,10,,,,
+C2E042,2:16:40,Jester,Investigation,9,8,,,,
+C2E042,2:19:02,Nott,Investigation,12,3,,,,
+C2E042,2:20:20,Nott,Thieves' Tools,15,5,,,,
+C2E042,2:20:38,Jester,Strength,18,15,,,,
+C2E042,2:23:54,Nott,Stealth,33,13,,,,With PWaT
+C2E042,2:23:57,Jester,Stealth,18,14,,,,With PWaT
+C2E042,2:26:33,Nott,Constitution Save,Nat1,1,,,,Disregarded due to fragment of possibility
+C2E042,2:26:33,Nott,Constitution Save,9,7,,,,"With Fragment of Possibility, Nott is confused"
+C2E042,2:28:02,Nott,Wisdom Save,11,11,,,,
+C2E042,2:29:23,Nott,Wisdom Save,19,19,,,,
+C2E042,2:31:39,Caleb,Performance,5,2,,,,
+C2E042,2:36:21,Caduceus,Healing,18,,,,,"Cure Wounds (2nd), Waldok heals 18 points"
+C2E042,2:37:37,Nott,Strength,19,19,,,,
+C2E042,2:39:15,Nott,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E042,2:39:15,Nott,Perception,19,19,,,,With advantage
+C2E042,2:39:18,Jester,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E042,2:39:18,Jester,Perception,22,18,,,,With advantage
+C2E042,2:41:57,Nott,Stealth,36,16,,,,With PWaT
+C2E042,2:42:03,Jester,Stealth,21,7,,,,With PWaT
+C2E042,2:44:20,Nott,Athletics,14,14,,,,Disregarded
+C2E042,2:44:20,Jester,Athletics,19,16,,,,
+C2E042,2:45:01,Jester,Stealth,Nat20,20,,,,With PWaT
+C2E042,2:45:02,Nott,Stealth,38,18,,,,With PWaT
+C2E042,2:47:42,Caleb,Perception,12,9,,,,
+C2E042,2:48:24,Beau,Intimidation,9,8,,,,
+C2E042,2:54:30,Caduceus,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E042,2:54:30,Caduceus,Perception,22,14,,,,With disadvantage
+C2E042,2:56:33,Beau,Insight,10,4,,,,
+C2E042,2:57:56,Beau,Deception,15,11,,,,
+C2E042,2:59:20,Caduceus,Medicine,23,15,,,,
+C2E042,3:00:02,Caduceus,Healing,21,,,,,"Cure Wounds (2nd), Bart heals 21 points"
+C2E042,3:00:57,Caduceus,Deception,7,4,,,,
+C2E042,3:02:27,Nott,Perception,7,7,,,,
+C2E042,3:02:33,Beau,Perception,7,4,,,,
+C2E042,3:07:15,Jester,Deception,8,4,,,,
+C2E042,3:07:15,Caduceus,Insight,13,5,,,,
+C2E042,3:14:34,Caleb,Intelligence,Nat20,20,,,,
+C2E042,3:29:57,Jester,Perception,13,9,,,,
+C2E042,3:35:04,Jester,Perception,7,3,,,,
+C2E042,3:35:56,Jester,Persuasion,22,18,,,,
+C2E042,3:36:21,Jester,Sleight of Hand,15,9,,,,
+C2E043,0:17:20,Caleb,Damage,17,,,"101 Fire {16 [8 (17/2) to Vera+ 8 (17/2) to Crew] + 
 85 [17 to Bouldergut + 17 to Crew 
 + 17 to Avantika + 17 to Crew]}",,Wall of Fire
-C2E43,0:18:01,Jester,Initiative,19,15,,,,
-C2E43,0:18:48,Beau,Initiative,24,Unknown,,,,With Boots
-C2E43,0:19:00,Yasha,Initiative,Unknown,Unknown,,,,Disregarded due to advantage
-C2E43,0:19:00,Yasha,Initiative,15,13,,,,With advantage
-C2E43,0:19:14,Caduceus,Initiative,12,11,,,,
-C2E43,0:19:17,Fjord,Initiative,11,11,,,,
-C2E43,0:19:29,Caleb,Initiative,8,7,,,,
-C2E43,0:19:43,Nott,Initiative,9,5,,,,
-C2E43,0:22:16,Caleb,Counterspell,14,9,,,,With disadvantage
-C2E43,0:22:16,Caleb,Counterspell,19,14,,,,Disregarded due to disadvantage
-C2E43,0:22:59,Caleb,Perception,Nat20,20,,,,Disregarded due to disadvantage
-C2E43,0:22:59,Caleb,Perception,19,16,,,,With disadvantage
-C2E43,0:31:48,Caleb,Damage,24,,,24 Fire to Bouldergut,,Wall of Fire
-C2E43,0:32:47,Caleb,Constitution Save,Nat20,20,,,,Concentration
-C2E43,0:33:20,Caleb,Constitution Save,7,5,,,,Concentration
-C2E43,0:34:52,Fjord,Damage,18,,,18 Thunder to Bouldergut,,Thunder Step
-C2E43,0:36:08,Nott,Attack,14,6,,,,TTBB1000
-C2E43,0:37:55,Nott,Dexterity Save,19,12,,,,Against Ice Storm
-C2E43,0:37:58,Caduceus,Dexterity Save,20,19,,11 (22/2) Cold to Caduceus,,Against Ice Storm
-C2E43,0:38:15,Yasha,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
-C2E43,0:38:15,Yasha,Dexterity Save,11,9,,,,Disregarded due to Fanatical Focus
-C2E43,0:38:45,Yasha,Dexterity Save,21,19,,11 (22/2) Cold to Yasha,,Against Ice Storm with advantage and with Fanatical Focus
-C2E43,0:51:57,Jester,Deception,14,10,,,,
-C2E43,0:53:40,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-C2E43,0:53:40,Yasha,Attack,17,10,,,,Magician's Judge Reckless
-C2E43,0:53:46,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
-C2E43,0:53:46,Yasha,Attack,25,18,,,,Magician's Judge Reckless
-C2E43,0:53:59,Yasha,Damage,14,,,14 to Avantika,,
-C2E43,1:00:18,Fjord,Persuasion,6,2,,,,With disadvantage
-C2E43,1:00:18,Fjord,Persuasion,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E43,1:07:30,Caleb,Death Save,17,17,,,,Caleb succeeds 1 death save
-C2E43,1:08:11,Yasha,Athletics,24,18,,,,With advantage
-C2E43,1:08:11,Yasha,Athletics,21,15,,,,Disregarded due to advantage
-C2E43,1:08:22,Yasha,Athletics,12,6,,,,Disregarded due to advantage
-C2E43,1:08:22,Yasha,Athletics,21,15,,,,With advantage
-C2E43,1:09:18,Caduceus,Acrobatics,20,19,,,,
-C2E43,1:09:53,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E43,1:09:53,Yasha,Athletics,16,10,,,,With advantage
-C2E43,1:10:08,Nott,Acrobatics,15,8,,,,
-C2E43,1:10:22,Nott,Acrobatics,Nat20,20,,,,
-C2E43,1:10:44,Nott,Acrobatics,12,5,,,,
-C2E43,1:15:00,Beau,Persuasion,13,12,,,,
-C2E43,1:22:35,Jester,Deception,20,16,,,,
-C2E43,1:24:01,Yasha,Athletics,22,16,,,,With advantage
-C2E43,1:24:01,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
-C2E43,1:27:14,Caduceus,Healing,9,,,,,"Healing Word (1st), Yasha heals 9 points"
-C2E43,1:28:04,Fjord,Athletics,17,14,,,,
-C2E43,1:30:21,Fjord,Healing,9,,,,,"Potion of Regular Healing, Caleb heals 9 points, is conscious"
-C2E43,1:33:37,Caleb,Damage,31,,,"172 Fire {45 [15 (31/2) to Crew + 15 (31/2) to Crew 
-+ 15 (31/2) to Ipess] + 124 [31 to Bouldergut 
-+ 31 to Crew + 31 to Vera + 31 to Crew] + 3 to Barlgura}",6,"Fireball; 4 Crew, Vera, and Barlgura die"
-C2E43,1:37:41,Caleb,Wisdom Save,18,12,,,,Caleb is stunned
-C2E43,1:41:42,Nott,Acrobatics,10,3,,,,
-C2E43,1:41:46,Nott,Acrobatics,17,10,,,,
-C2E43,1:43:06,Nott,Acrobatics,9,2,,,,
-C2E43,1:49:55,Jester,Deception,8,4,,,,
-C2E43,1:55:01,Beau,Deception,17,13,,,,
-C2E43,1:58:53,Yasha,Hit Dice,Unknown,Unknown,,,,Yasha heals unknown points
-C2E43,1:58:53,Caduceus,Hit Dice,Unknown,Unknown,,,,Caduceus heals unknown points
-C2E43,1:58:53,Nott,Hit Dice,Unknown,Unknown,,,,Nott heals unknown points
-C2E43,2:05:59,Beau,Deception,Unknown,Unknown,,,,Disregarded due to advantage
-C2E43,2:05:59,Beau,Deception,22,18,,,,With advantage
-C2E43,2:06:07,Caleb,Insight,22,16,,,,With disadvantage
-C2E43,2:06:07,Caleb,Insight,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E43,2:09:44,Fjord,Persuasion,Nat20,20,,,,
-C2E43,2:17:17,Jester,Perception,Nat1,1,,,,Disregarded due to disadvantage
-C2E43,2:17:17,Jester,Perception,Nat1,1,,,,With disadvantage
-C2E43,2:21:28,Caduceus,Persuasion,15,12,,,,
-C2E43,2:33:02,Caleb,Investigation,26,18,,,,With disadvantage
-C2E43,2:33:02,Caleb,Investigation,27,19,,,,Disregarded due to disadvantage
-C2E43,2:33:28,Nott,Investigation,19,10,,,,
-C2E43,2:53:52,Caduceus,Wisdom,16,11,,,,
-C2E43,2:54:00,Jester,Wisdom,6,2,,,,
-C2E43,2:54:04,Jester,Wisdom,8,4,,,,
-C2E43,2:54:16,Caduceus,Wisdom,19,14,,,,
-C2E43,2:54:26,Jester,Wisdom,15,11,,,,
-C2E43,2:54:27,Caduceus,Wisdom,14,9,,,,
-C2E43,2:54:48,Fjord,Intelligence,13,11,,,,
-C2E43,2:55:25,Jester,Wisdom,20,16,,,,
-C2E43,2:55:31,Caduceus,Wisdom,20,15,,,,
-C2E43,2:55:35,Jester,Wisdom,Unknown,Unknown,,,,
-C2E43,2:55:36,Caduceus,Wisdom,14,9,,,,
-C2E43,2:55:43,Jester,Wisdom,16,12,,,,
-C2E43,2:55:45,Caduceus,Wisdom,19,14,,,,
-C2E43,2:55:57,Jester,Wisdom,6,2,,,,
-C2E43,2:55:57,Caduceus,Wisdom,24,19,,,,
-C2E43,2:56:05,Fjord,Intelligence,11,9,,,,
-C2E43,2:57:09,Jester,Wisdom,Unknown,Unknown,,,,
-C2E43,2:58:06,Jester,Wisdom,Unknown,Unknown,,,,
-C2E43,2:58:08,Caduceus,Wisdom,Unknown,Unknown,,,,
-C2E43,2:58:15,Fjord,Intelligence,20,18,,,,
-C2E43,2:58:27,Jester,Wisdom,18,14,,,,
-C2E43,2:58:28,Caduceus,Wisdom,15,10,,,,
-C2E43,2:58:37,Caduceus,Wisdom,19,14,,,,
-C2E43,2:58:40,Jester,Wisdom,Unknown,Unknown,,,,
-C2E43,2:58:47,Jester,Wisdom,21,17,,,,
-C2E43,3:01:21,Frumpkin,Perception,13,11,,,,
-C2E43,3:01:34,Frumpkin,Perception,17,15,,,,
-C2E43,3:10:23,Fjord,Perception,19,18,,,,
-C2E43,3:10:25,Nott,Perception,4,4,,,,With disadvantage
-C2E43,3:20:00,Beau,Perception,Nat1,1,,,,
-C2E43,3:20:22,Caleb,Perception,9,6,,,,
-C2E43,3:20:25,Nott,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
-C2E43,3:20:26,Jester,Perception,14,10,,,,
-C2E43,3:20:29,Caduceus,Perception,16,8,,,,
-C2E43,3:20:34,Yasha,Perception,5,3,,,,
+C2E043,0:18:01,Jester,Initiative,19,15,,,,
+C2E043,0:18:48,Beau,Initiative,24,Unknown,,,,With Boots
+C2E043,0:19:00,Yasha,Initiative,Unknown,Unknown,,,,Disregarded due to advantage
+C2E043,0:19:00,Yasha,Initiative,15,13,,,,With advantage
+C2E043,0:19:14,Caduceus,Initiative,12,11,,,,
+C2E043,0:19:17,Fjord,Initiative,11,11,,,,
+C2E043,0:19:29,Caleb,Initiative,8,7,,,,
+C2E043,0:19:43,Nott,Initiative,9,5,,,,
+C2E043,0:22:16,Caleb,Counterspell,14,9,,,,With disadvantage
+C2E043,0:22:16,Caleb,Counterspell,19,14,,,,Disregarded due to disadvantage
+C2E043,0:22:59,Caleb,Perception,Nat20,20,,,,Disregarded due to disadvantage
+C2E043,0:22:59,Caleb,Perception,19,16,,,,With disadvantage
+C2E043,0:31:48,Caleb,Damage,24,,,24 Fire to Bouldergut,,Wall of Fire
+C2E043,0:32:47,Caleb,Constitution Save,Nat20,20,,,,Concentration
+C2E043,0:33:20,Caleb,Constitution Save,7,5,,,,Concentration
+C2E043,0:34:52,Fjord,Damage,18,,,18 Thunder to Bouldergut,,Thunder Step
+C2E043,0:36:08,Nott,Attack,14,6,,,,TTBB1000
+C2E043,0:37:55,Nott,Dexterity Save,19,12,,,,Against Ice Storm
+C2E043,0:37:58,Caduceus,Dexterity Save,20,19,,11 (22/2) Cold to Caduceus,,Against Ice Storm
+C2E043,0:38:15,Yasha,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+C2E043,0:38:15,Yasha,Dexterity Save,11,9,,,,Disregarded due to Fanatical Focus
+C2E043,0:38:45,Yasha,Dexterity Save,21,19,,11 (22/2) Cold to Yasha,,Against Ice Storm with advantage and with Fanatical Focus
+C2E043,0:51:57,Jester,Deception,14,10,,,,
+C2E043,0:53:40,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E043,0:53:40,Yasha,Attack,17,10,,,,Magician's Judge Reckless
+C2E043,0:53:46,Yasha,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+C2E043,0:53:46,Yasha,Attack,25,18,,,,Magician's Judge Reckless
+C2E043,0:53:59,Yasha,Damage,14,,,14 to Avantika,,
+C2E043,1:00:18,Fjord,Persuasion,6,2,,,,With disadvantage
+C2E043,1:00:18,Fjord,Persuasion,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E043,1:07:30,Caleb,Death Save,17,17,,,,Caleb succeeds 1 death save
+C2E043,1:08:11,Yasha,Athletics,24,18,,,,With advantage
+C2E043,1:08:11,Yasha,Athletics,21,15,,,,Disregarded due to advantage
+C2E043,1:08:22,Yasha,Athletics,12,6,,,,Disregarded due to advantage
+C2E043,1:08:22,Yasha,Athletics,21,15,,,,With advantage
+C2E043,1:09:18,Caduceus,Acrobatics,20,19,,,,
+C2E043,1:09:53,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E043,1:09:53,Yasha,Athletics,16,10,,,,With advantage
+C2E043,1:10:08,Nott,Acrobatics,15,8,,,,
+C2E043,1:10:22,Nott,Acrobatics,Nat20,20,,,,
+C2E043,1:10:44,Nott,Acrobatics,12,5,,,,
+C2E043,1:15:00,Beau,Persuasion,13,12,,,,
+C2E043,1:22:35,Jester,Deception,20,16,,,,
+C2E043,1:24:01,Yasha,Athletics,22,16,,,,With advantage
+C2E043,1:24:01,Yasha,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+C2E043,1:27:14,Caduceus,Healing,9,,,,,"Healing Word (1st), Yasha heals 9 points"
+C2E043,1:28:04,Fjord,Athletics,17,14,,,,
+C2E043,1:30:21,Fjord,Healing,9,,,,,"Potion of Regular Healing, Caleb heals 9 points, is conscious"
+C2E043,1:33:37,Caleb,Damage,31,,,"172 Fire {45 [15 (31/2) to Crew + 15 (31/2) to Crew + 15 (31/2) to Ipess] + 124 [31 to Bouldergut + 31 to Crew + 31 to Vera + 31 to Crew] + 3 to Barlgura}",6,"Fireball; 4 Crew, Vera, and Barlgura die"
+C2E043,1:37:41,Caleb,Wisdom Save,18,12,,,,Caleb is stunned
+C2E043,1:41:42,Nott,Acrobatics,10,3,,,,
+C2E043,1:41:46,Nott,Acrobatics,17,10,,,,
+C2E043,1:43:06,Nott,Acrobatics,9,2,,,,
+C2E043,1:49:55,Jester,Deception,8,4,,,,
+C2E043,1:55:01,Beau,Deception,17,13,,,,
+C2E043,1:58:53,Yasha,Hit Dice,Unknown,Unknown,,,,Yasha heals unknown points
+C2E043,1:58:53,Caduceus,Hit Dice,Unknown,Unknown,,,,Caduceus heals unknown points
+C2E043,1:58:53,Nott,Hit Dice,Unknown,Unknown,,,,Nott heals unknown points
+C2E043,2:05:59,Beau,Deception,Unknown,Unknown,,,,Disregarded due to advantage
+C2E043,2:05:59,Beau,Deception,22,18,,,,With advantage
+C2E043,2:06:07,Caleb,Insight,22,16,,,,With disadvantage
+C2E043,2:06:07,Caleb,Insight,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E043,2:09:44,Fjord,Persuasion,Nat20,20,,,,
+C2E043,2:17:17,Jester,Perception,Nat1,1,,,,Disregarded due to disadvantage
+C2E043,2:17:17,Jester,Perception,Nat1,1,,,,With disadvantage
+C2E043,2:21:28,Caduceus,Persuasion,15,12,,,,
+C2E043,2:33:02,Caleb,Investigation,26,18,,,,With disadvantage
+C2E043,2:33:02,Caleb,Investigation,27,19,,,,Disregarded due to disadvantage
+C2E043,2:33:28,Nott,Investigation,19,10,,,,
+C2E043,2:53:52,Caduceus,Wisdom,16,11,,,,
+C2E043,2:54:00,Jester,Wisdom,6,2,,,,
+C2E043,2:54:04,Jester,Wisdom,8,4,,,,
+C2E043,2:54:16,Caduceus,Wisdom,19,14,,,,
+C2E043,2:54:26,Jester,Wisdom,15,11,,,,
+C2E043,2:54:27,Caduceus,Wisdom,14,9,,,,
+C2E043,2:54:48,Fjord,Intelligence,13,11,,,,
+C2E043,2:55:25,Jester,Wisdom,20,16,,,,
+C2E043,2:55:31,Caduceus,Wisdom,20,15,,,,
+C2E043,2:55:35,Jester,Wisdom,Unknown,Unknown,,,,
+C2E043,2:55:36,Caduceus,Wisdom,14,9,,,,
+C2E043,2:55:43,Jester,Wisdom,16,12,,,,
+C2E043,2:55:45,Caduceus,Wisdom,19,14,,,,
+C2E043,2:55:57,Jester,Wisdom,6,2,,,,
+C2E043,2:55:57,Caduceus,Wisdom,24,19,,,,
+C2E043,2:56:05,Fjord,Intelligence,11,9,,,,
+C2E043,2:57:09,Jester,Wisdom,Unknown,Unknown,,,,
+C2E043,2:58:06,Jester,Wisdom,Unknown,Unknown,,,,
+C2E043,2:58:08,Caduceus,Wisdom,Unknown,Unknown,,,,
+C2E043,2:58:15,Fjord,Intelligence,20,18,,,,
+C2E043,2:58:27,Jester,Wisdom,18,14,,,,
+C2E043,2:58:28,Caduceus,Wisdom,15,10,,,,
+C2E043,2:58:37,Caduceus,Wisdom,19,14,,,,
+C2E043,2:58:40,Jester,Wisdom,Unknown,Unknown,,,,
+C2E043,2:58:47,Jester,Wisdom,21,17,,,,
+C2E043,3:01:21,Frumpkin,Perception,13,11,,,,
+C2E043,3:01:34,Frumpkin,Perception,17,15,,,,
+C2E043,3:10:23,Fjord,Perception,19,18,,,,
+C2E043,3:10:25,Nott,Perception,4,4,,,,With disadvantage
+C2E043,3:20:00,Beau,Perception,Nat1,1,,,,
+C2E043,3:20:22,Caleb,Perception,9,6,,,,
+C2E043,3:20:25,Nott,Perception,Unknown,Unknown,,,,Disregarded due to disadvantage
+C2E043,3:20:26,Jester,Perception,14,10,,,,
+C2E043,3:20:29,Caduceus,Perception,16,8,,,,
+C2E043,3:20:34,Yasha,Perception,5,3,,,,
 C2E044,0:18:43,Fjord,Perception,6,5,,,,Disregarded due to disadvantage
 C2E044,0:18:43,Fjord,Perception,Nat1,1,,,,With disadvantage
 C2E044,0:18:59,Caduceus,Perception,22,14,,,,Disregarded due to disadvantage
@@ -7989,7 +7987,7 @@ C2E067,3:56:53,Yasha,Damage,12,,,12 to Zombie 27,1,Gold heart
 C2E067,3:58:44,Beau,Investigation,11,5,,,,
 C2E067,3:59:19,Caleb,Spell Attack,16,7,,,,Cat's Ire
 C2E067,3:59:28,Caleb,Damage,14,,,14 to Zombie 22,,
-C2E067,4:00:04,Jester,Damage,8,,,"8 to Zombies 18, 22-26",2,Spirit Guardians
+C2E067,4:00:04,Jester,Damage,8,,,"8 to Zombies 18, 2C2E026",2,Spirit Guardians
 C2E067,4:01:49,Jester,Damage,15,,,15 to Zombies 28-30,,Spirit Guardians
 C2E067,4:08:27,Caduceus,Perception,Nat20,20,,,,
 C2E067,4:10:19,Beau,Wisdom Save,Nat20,20,,,,Against maddening whispers

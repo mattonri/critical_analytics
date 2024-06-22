@@ -7,49 +7,47 @@ format: html
 
 # Introduction
 
-Data Analytics of the popular Dungeons and Dragons Web series "Critical Role."
+This is a data analysis site looking into Critical Role, season two, as an example of DnD podcasts. It looks into the player rolls and podcast transcripts to extract insights about how the two effect each other. Much of the data extracted isn't as strongly coordinated as I might like given the random nature of dice rolls and the unpredictability of actor's script.
 
 ## Data Used
 
-Data was collected by [MATHEUS DE ALBUQUERQUE](https://www.kaggle.com/matheusdalbuquerque) and [KELLY FURUYA](https://www.kaggle.com/kellyfuruya) and posted on [Kaggle.com](https://www.kaggle.com/). Additional data on dice rolls was collected by the community and posted on [CritRoleStats.com](https://www.critrolestats.com/)
+Data was collected by [MATHEUS DE ALBUQUERQUE](https://www.kaggle.com/matheusdalbuquerque) and posted on [Kaggle.com](https://www.kaggle.com/). Additional data on dice rolls was collected by the Critical Rol community and posted on [CritRoleStats.com](https://www.critrolestats.com/)
+
+## Data processing and cleaning
+
+__First things first, I have a table of all of the player rolls and all of the transcript. The rolls needs to reformatted linked to episode transcripts and valueable insights from the text data need to be extracted.__
 
 ```{python}
-#| input libraries and data
-# input data
+#| label: project-libraries
+#| code-summary: Read and format project libraries
+# Include Libraries
+import glob
 from textblob import TextBlob
 import nltk
+nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from collections import Counter
-nltk.download('punkt')
-
-def read_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        text = file.read()
-        return text
-file_path = ".././CR_script_data/(2x01)_CuriousBeginnings.txt"
-text = read_file(file_path)
-
+import pandas as pd
+import numpy as np
+import plotly.express as px
 ```
 
 
 ```{python}
-
-sentiment = TextBlob(text).sentiment
-polarity = sentiment.polarity
-subjectivity = sentiment.subjectivity
-print(f"Sentiment Polarity: {polarity}")
-print(f"Sentiment Subjectivity: {subjectivity}")
+#| label: subjectivity-function
+#| code-summary: Add in a function to find the subjectivity and polarity sentiment of text
+def measure_subjectivity_polarity(text):
+    sentiment = TextBlob(text).sentiment
+    polarity = sentiment.polarity
+    subjectivity = sentiment.subjectivity
+    return subjectivity, polarity
 ```
 
-```{python}
-#| List of swears (EXPLICIT)
-bad_words = ['shit', 'bullshit', 'horseshit', 'fuck', 'motherfuck', 'ass', 'dumbass', 'asshole', 'dick', 'cunt', 'piss','hell', 'damn', 'dammit', 'goddamn', 'goddammit', 'bitch', 'whore', 'prick', 'pussy', 'shite', 'wanker', 'bugger', 'bullocks']
-#'hell' was included while 'bloody' was not because the first was most often used as a swear and the latter was more frequently a literal description
-#Similarly, in D&D it's common for dice to become 'cocked' if they don't land on a flat surface. This caused a lot of false positives from including the swear word 'cock'
-```
 
 ```{python}
+#| label: count-instances-function
+#| code-summary: Add another function to count the relat
 def count_instances(text, word_list):
     # Stem words (jumping, jumped, jump -> jump)
     words = word_tokenize(text.lower())
@@ -61,17 +59,228 @@ def count_instances(text, word_list):
     instance_count = 0
     for seek_word in word_list:
         instance_count += word_freq[seek_word]
-    return instance_count
-
+    instance_ratio = instance_count/len(words)
+    return instance_ratio
 ```
-
 
 ```{python}
-
+#| label: swear-words-list
+#| code-summary: (EXPLICIT) List of swears to search for
+bad_words = ['shit', 'bullshit', 'horseshit', 'fuck', 'motherfuck', 'ass', 'dumbass', 'asshole', 'dick', 'cunt', 'piss','hell', 'damn', 'dammit', 'goddamn', 'goddammit', 'bitch', 'whore', 'prick', 'pussy', 'shite', 'wanker', 'bugger', 'bullocks']
+#'hell' was included while 'bloody' was not because the first was most often used as a swear and the latter was more frequently a literal description
+#Similarly, in D&D it's common for dice to become 'cocked' if they don't land on a flat surface. This caused a lot of false positives from including the swear word 'cock'
 ```
-
 
 ```{python}
+#| label: episode-list
+#| code-summary: Make a list to be able to iterate through the script data files and the roll table together
+episode_list = list(range(1, 109))
+for index, num in enumerate(episode_list):
+    if num/10 < 1:
+        file_path_number = f"(2x0{num})"
+    else:
+        file_path_number = f"(2x{num})"
+    data_sheet_number = f"C2E{num:03}"
+    episode_list[index] = [file_path_number, data_sheet_number]
+```
+
+```{python}
+#| label: df-create
+#| code-summary: Place data into dataframe
+
+# Little Helper Function
+def read_file(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            text = file.read()
+            return text
+    except Exception as e:
+        print(f"Could not read {file_path}: {e}")
+
+#  Finally, we get to start the fun part with Pandas
+df = pd.DataFrame()
+df['episode_number'] = []
+df['episode_file'] = []
+df['episode_txt'] = []
+index = 0
+for episode in episode_list:
+    matching_files = glob.glob(f"CR_script_data/{episode[0]}_*")
+    if not matching_files:
+        print("No files matched the pattern.")
+        print(f"{episode[0]}_")
+    else:
+        # Open and process each matching file
+        for file_path in matching_files:
+            episode_text = read_file(file_path)
+            df.loc[index] = pd.Series({'episode_number': episode[1], 'episode_file': file_path.replace('CR_script_data\\(','').replace('.txt','').replace(')_',' '), 'episode_txt': episode_text})
+
+            index += 1
+```
+
+```{python}
+#| label: polarity_&_subjectivity_add
+#| code-summary: Add Polarity & Subjectivity
+
+# This one takes a while to run
+df['polarity'] = float('NaN')
+df['subjectivity'] = float('NaN')
+for index, row in df.iterrows():
+    row_subjectivity, row_polarity = measure_subjectivity_polarity(row['episode_txt'])
+    df.at[index, 'polarity'] = row_polarity
+    df.at[index, 'subjectivity'] = row_subjectivity
+```
+
+```{python}
+#| label: add_roll_averages
+#| code-summary: read the all_rolls table and format it into an aggregates table to be added back to the main df
+
+rolls_df = pd.read_csv("CR_rolls_data/All_Rolls_Wildemount_All_Episodes.csv")
+rolls_df_aggregate = rolls_df[['Episode', 'Total Value', 'Natural Value']].copy()
+
+rolls_df_aggregate['Total Value'] = rolls_df_aggregate['Total Value'].str.replace('Nat20','25')
+rolls_df_aggregate['Total Value'] = rolls_df_aggregate['Total Value'].str.replace('Nat1','0')
+rolls_df_aggregate['Total Value'] = pd.to_numeric(rolls_df_aggregate['Total Value'], errors='coerce')
+rolls_df_aggregate['Natural Value'] = pd.to_numeric(rolls_df_aggregate['Natural Value'], errors='coerce')
+
+rolls_df_aggregate = rolls_df_aggregate.groupby(['Episode']).mean().reset_index()
+rolls_df_aggregate = rolls_df_aggregate.rename(columns={
+    'Episode': 'episode_number',
+    'Total Value': 'mean_rolls',
+    'Natural Value': 'mean_natural_rolls'
+})
+rolls_df_aggregate.head()
+```
+
+```{python}
+#| label: naturals_columns
+# | code-summary: Count and add Natural 1s and 20s per episode to 2 seperate tables to be added to the main 
+
+nat20_counts = rolls_df[rolls_df['Total Value'] == 'Nat20']
+episode_nat20_counts = nat20_counts.groupby('Episode')['Total Value'].count().reset_index()
+nat1_counts = rolls_df[rolls_df['Total Value'] == 'Nat1']
+episode_nat1_counts = nat1_counts.groupby('Episode')['Total Value'].count().reset_index()
+
+episode_nat20_counts.columns = ['episode_number', 'Nat20_Count']
+episode_nat1_counts.columns = ['episode_number', 'Nat1_Count']
+```
+
+```{python}
+#| label: swears_add
+#| code-summary: Add the percentage of swear words per episode to the df
+df['percentage_of_swear_words'] = np.nan
+for index, row in df.iterrows():
+    swear_count = count_instances(text=row['episode_txt'], word_list=bad_words)
+    df.at[index, 'percentage_of_swear_words'] = swear_count * 100
 
 ```
 
+```{python}
+#| label: dataframe-merge
+#| code-summary: Now to put all of the data together
+df = pd.merge(df, rolls_df_aggregate, on='episode_number', how='left')
+df = pd.merge(df, episode_nat20_counts, on='episode_number', how='left')
+df = pd.merge(df, episode_nat1_counts, on='episode_number', how='left')
+df = df.drop(columns=['episode_txt'])
+
+print(df.head(50))
+```
+
+### Data Analysis
+
+__First, in these bar graphs, ordered by polarity, from overall negative sentiment on the left to overall positive, show the number of Nat 1s and Nat 20s rolled by players, the lowest and highest rolls possible. First, the Nat1 table shows what you might expect, while the overall data is quite varied, you see more Nat 1s on the left, where the sentiment is negative. Interestingly, though, is that you see the same for Nat 20s. The words said by DM and Players continue to become more negative as players roll more Nat 20s.__
+```{python}
+#| label: table1
+#| code-summary: Polarity Chart
+
+df_melted = df.sort_values(by=['polarity'])
+df_melted = df_melted.melt(id_vars=['episode_number'], value_vars=['Nat1_Count'],
+                    var_name='metric', value_name='value')
+chart = px.bar(df_melted,
+               x='episode_number',
+               y='value',
+               color='metric',
+               barmode='group')
+               
+chart.update_layout(
+    title='Nat1s across increasingly negative sentiment',
+    xaxis_title='Episodes in order of increasing negativity',
+    yaxis_title='Nat 1s rolled'
+)
+
+chart.show()
+df_melted = df.sort_values(by=['polarity'])
+df_melted = df_melted.melt(id_vars=['episode_number'], value_vars=['Nat20_Count'],
+                    var_name='metric', value_name='value')
+chart = px.bar(df_melted,
+               x='episode_number',
+               y='value',
+               color='metric',
+               barmode='group')
+chart.update_layout(
+    title='Nat20s across increasingly negative sentiment',
+    xaxis_title='Episodes in order of increasing negativity',
+    yaxis_title='Nat 20s rolled'
+)
+chart.show()
+```
+__These bar graphs show higher percentage of swear words on the right, cleaner language used on the left. Interestingly, you see once again that the players will swear more on episodes with more Nat 1s but also they seem to swear from excitement on rolling Nat 20s as well.__
+```{python}
+#| label: table2
+#| code-summary: Swear Chart
+
+df_melted = df.sort_values(by=['percentage_of_swear_words'])
+df_melted = df_melted.melt(id_vars=['episode_number'], value_vars=['Nat1_Count'],
+                    var_name='metric', value_name='value')
+chart = px.bar(df_melted,
+               x='episode_number',
+               y='value',
+               color='metric',
+               barmode='group')
+
+chart.update_layout(
+    title='Nat1s across increasingly swearing episodes',
+    xaxis_title='Episodes in order of increasing swearing',
+    yaxis_title='Nat 1s rolled'
+)
+
+chart.show()
+df_melted = df.sort_values(by=['percentage_of_swear_words'])
+df_melted = df_melted.melt(id_vars=['episode_number'], value_vars=['Nat20_Count'],
+                    var_name='metric', value_name='value')
+chart = px.bar(df_melted,
+               x='episode_number',
+               y='value',
+               color='metric',
+               barmode='group')
+               
+chart.update_layout(
+    title='Nat20s across increasingly swearing episodes',
+    xaxis_title='Episodes in order of increasing swearing',
+    yaxis_title='Nat 20s rolled'
+)
+               
+chart.show()
+```
+
+__Now to look at how the podcast has changed over the episodes. We can see how the overall subjectivity of the series increased over the season. This reflects how the characters shared more subjective information over the sharing of factual information over the series. Likely this is the effect of the players becoming more comfortable in their roles and populating the podcast more with their subjective lines than the DM's objective descriptions.__
+```{python}
+#| label: table3
+#| code-summary: Subjectivity over time
+
+df_melted = df.sort_values(by=['episode_number'])
+df_melted = df_melted.melt(id_vars=['episode_number'], value_vars=['subjectivity'],
+                    var_name='metric', value_name='value')
+chart = px.line(df_melted,
+               x='episode_number',
+               y='value',
+               color='metric')
+chart.update_yaxes(range=[0.45, 0.57])  # Replace min_value_y and max_value_y with actual values
+
+chart.update_layout(
+    title='language subjectivity across the season',
+    xaxis_title='Episodes in order of release',
+    yaxis_title='Relative subjectivity of language in episode'
+)
+
+chart.show()
+```

@@ -1,0 +1,77 @@
+---
+title: "Critical Role Analytics"
+author: "Matt Talbert"
+date: "2024-06-16"
+format: html
+---
+
+# Introduction
+
+Data Analytics of the popular Dungeons and Dragons Web series "Critical Role."
+
+## Data Used
+
+Data was collected by [MATHEUS DE ALBUQUERQUE](https://www.kaggle.com/matheusdalbuquerque) and [KELLY FURUYA](https://www.kaggle.com/kellyfuruya) and posted on [Kaggle.com](https://www.kaggle.com/). Additional data on dice rolls was collected by the community and posted on [CritRoleStats.com](https://www.critrolestats.com/)
+
+```{python}
+#| input libraries and data
+# input data
+from textblob import TextBlob
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+from collections import Counter
+nltk.download('punkt')
+
+def read_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        text = file.read()
+        return text
+file_path = ".././CR_script_data/(2x01)_CuriousBeginnings.txt"
+text = read_file(file_path)
+
+```
+
+
+```{python}
+
+sentiment = TextBlob(text).sentiment
+polarity = sentiment.polarity
+subjectivity = sentiment.subjectivity
+print(f"Sentiment Polarity: {polarity}")
+print(f"Sentiment Subjectivity: {subjectivity}")
+```
+
+```{python}
+#| List of swears (EXPLICIT)
+bad_words = ['shit', 'bullshit', 'horseshit', 'fuck', 'motherfuck', 'ass', 'dumbass', 'asshole', 'dick', 'cunt', 'piss','hell', 'damn', 'dammit', 'goddamn', 'goddammit', 'bitch', 'whore', 'prick', 'pussy', 'shite', 'wanker', 'bugger', 'bullocks']
+#'hell' was included while 'bloody' was not because the first was most often used as a swear and the latter was more frequently a literal description
+#Similarly, in D&D it's common for dice to become 'cocked' if they don't land on a flat surface. This caused a lot of false positives from including the swear word 'cock'
+```
+
+```{python}
+def count_instances(text, word_list):
+    # Stem words (jumping, jumped, jump -> jump)
+    words = word_tokenize(text.lower())
+    stemmer = PorterStemmer()
+    stemmed_words = [stemmer.stem(word) for word in words]
+
+    # Count occurrences of common cusswords
+    word_freq = Counter(stemmed_words)
+    instance_count = 0
+    for seek_word in word_list:
+        instance_count += word_freq[seek_word]
+    return instance_count
+
+```
+
+
+```{python}
+
+```
+
+
+```{python}
+
+```
+

@@ -10,23 +10,23 @@ I wrote this software to see if there was a discernable link between the transcr
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
-
+Do Lower/Higher rolls cause the players to swear more? - Yes, but only not in the way expected. 
+    Overall dice rolls had little corrilation with swearing frequency but Nat1s and Nat20s had a minor positive relationship with the swearing in an episode.
+Do Lower/Higher rolls change the sentiment of the episode? Does the language become negative/positive? 
+    In the same way, Nat20s and Nat 1s seem to correlate to more negative sentiment in the episode overall.
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+The program was developed with a lot of different libraries for text processsing, data handling, chart rendering and more. Libraries include: nltk, collections, pandas, numpy, and plotlyExpress.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [Towards Data Science - text sentiment explanation](https://towardsdatascience.com/my-absolute-go-to-for-sentiment-analysis-textblob-3ac3a11d524#:~:text=Subjectivity%20quantifies%20the%20amount%20of,looking%20at%20the%20'intensity'.)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+There is still lots of data that could be extracted from the script
+* First, there are time stamps by each dice roll, if it were possible to match that up to the specific timing on the scripts, the data would be a lot more fruitful and give many more valueable insights
+* There is an opportunity to use the scripts for Ai data generation. For instance, it might be interesting to see how accurately you could make an Ai bot in Matt Mercer's same tone and with his same worldbuilding.
+* There might be additional insights from attaching alternate data. For instance, it might be interesting to see how dice rolls affect user interaction with the livestream in twitch, if that data could also be procured.

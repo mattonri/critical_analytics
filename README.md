@@ -6,7 +6,7 @@ Podcast transcripts were collected by [MATHEUS DE ALBUQUERQUE](https://www.kaggl
 
 I wrote this software to see if there was a discernable link between the transcripts of a dnd episode and the average dice rolls of the players. I measured the average rolls, the instances of maximum and minumum rolls (natural 1s and natural 20s) and compared them to frequency of swear words and overall posivite/negative and subjective/objective each episode.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KQMewDTV7sM)
 
 # Data Analysis Results
 
@@ -14,6 +14,9 @@ Do Lower/Higher rolls cause the players to swear more? - Yes, but only not in th
     Overall dice rolls had little corrilation with swearing frequency but Nat1s and Nat20s had a minor positive relationship with the swearing in an episode.
 Do Lower/Higher rolls change the sentiment of the episode? Does the language become negative/positive? 
     In the same way, Nat20s and Nat 1s seem to correlate to more negative sentiment in the episode overall.
+How does the language change over the season?
+    Subjectivity had the most noticeable change over the season, likely as player's parts increased in ratio to the DM.
+
 # Development Environment
 
 The program was developed with a lot of different libraries for text processsing, data handling, chart rendering and more. Libraries include: nltk, collections, pandas, numpy, and plotlyExpress.

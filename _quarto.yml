@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Critical Analytics"
@@ -14,7 +15,7 @@ format:
     css: styles.css
     toc: true
 
-quarto:
-  outputDir: output
+# quarto:
+#   outputDir: output
 
 

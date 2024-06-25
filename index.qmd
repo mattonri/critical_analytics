@@ -9,6 +9,14 @@ format: html
 
 This is a data analysis site looking into Critical Role, season two, as an example of DnD podcasts. It looks into the player rolls and podcast transcripts to extract insights about how the two effect each other. Much of the data extracted isn't as strongly coordinated as I might like given the random nature of dice rolls and the unpredictability of actor's script.
 
+## Questions Expored:
+Do Lower/Higher rolls cause the players to swear more?
+
+Do Lower/Higher rolls change the sentiment of the episode? Does the language become negative/positive? 
+
+How does the language change over the season?
+
+
 ## Data Used
 
 Data was collected by [MATHEUS DE ALBUQUERQUE](https://www.kaggle.com/matheusdalbuquerque) and posted on [Kaggle.com](https://www.kaggle.com/). Additional data on dice rolls was collected by the Critical Rol community and posted on [CritRoleStats.com](https://www.critrolestats.com/)
@@ -284,3 +292,13 @@ chart.update_layout(
 
 chart.show()
 ```
+
+## Conclusion
+The overall correlation was somewhat weakened by the random nature of the data but the answers to the initial questions were found as follows: 
+
+Do Lower/Higher rolls cause the players to swear more? - Yes, but only not in the way expected. 
+    Overall dice rolls had little corrilation with swearing frequency but Nat1s and Nat20s had a minor positive relationship with the swearing in an episode.
+Do Lower/Higher rolls change the sentiment of the episode? Does the language become negative/positive? 
+    In the same way, Nat20s and Nat 1s seem to correlate to more negative sentiment in the episode overall.
+How does the language change over the season?
+    Subjectivity had the most noticeable change over the season, likely as player's parts increased in ratio to the DM.
